@@ -1,6 +1,7 @@
 # LEACH
 
 Thuật toán chọn Cluster Heads theo cách Random
+
 Tham số đầu vào: 
 
 K1 : Năng lượng trừ đi cho kết nối MST
