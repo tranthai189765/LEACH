@@ -14,7 +14,8 @@ display (mặc định là False) : Hiển thị đồ họa quá trình hoạt 
 
 Thông tin chi tiết xem trong network.json
 
-![Alt text](images/demo.png)
+
+![Alt text](image/demo.png)
 
 
 Màu sắc của node :
