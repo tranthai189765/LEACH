@@ -73,6 +73,7 @@ def run(network, number_clusters, K1, K2, display=False):
     for node in network.available_nodes:
         node.is_cluster_head = False
         node.update_status()
+    network.time_life = network.time_life + 1
     network.reset()
 
 

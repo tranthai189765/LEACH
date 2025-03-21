@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import random
 import json
 from datetime import datetime
+from buffer import ClusterHeadBuffer
 class Network:
     def __init__(self, num_nodes, width = W, height = H):
         self.width = width 
@@ -16,9 +17,15 @@ class Network:
         self.available_nodes = self.nodes
         self.sink_node = self._select_sink()
         self.cluster_heads = []
+        self.cluster_heads_2 = []
         self.cluster_infos = []
+        self.cluster_2_infos = []
         self.edges = []
         self.edge_colors = {}  # Dictionary to store edge colors
+        self.time_life = 0 
+        self.cluster_heads_buffer = ClusterHeadBuffer(mem_size=20)
+        self.cluster_heads_2_buffer = ClusterHeadBuffer(mem_size=20)
+        self.error = "None"
     
     def _generate_nodes(self):
         """Sinh ngẫu nhiên các node trong miền (0,0) đến (width, height)"""
@@ -39,9 +46,12 @@ class Network:
     def reset(self):
         """ Reset """
         self.cluster_heads = []
+        self.cluster_heads_2 = []
         self.cluster_infos = []
+        self.cluster_2_infos = []
         self.edges = []
         self.edge_colors = {}  # Dictionary to store edge colors
+        self.error = "None"
 
     
     def display_nodes(self):
@@ -56,6 +66,15 @@ class Network:
         for source, target in self.edges:
             print(f"(Node {self.available_nodes.index(source)}, Node {self.available_nodes.index(target)})")
     
+    def take_top(self, M):
+        """Chọn M nodes có energy cao nhất từ available_nodes, không chọn sink."""
+        return sorted(
+            [node for node in self.available_nodes if not node.is_sink], 
+            key=lambda node: node.energy, 
+            reverse=True
+        )[:M]
+
+
     def display_network(self):
         """ Hiển thị toàn bộ WSN """
         plt.figure(figsize=(10, 10))
@@ -71,6 +90,10 @@ class Network:
             color = self.edge_colors.get((source_id, target_id), 'black')  # Get color or default to black
             plt.plot([source_node.x, target_node.x], [source_node.y, target_node.y], color=color, alpha=1.0)  # Draw edges
         
+         # Hiển thị số vòng đời hiện tại
+        plt.text(0.05, 1.01, f"Life time: {self.time_life}", transform=plt.gca().transAxes, fontsize=12, color='red', bbox=dict(facecolor='white', alpha=0.5))
+        plt.text(0.05, 1.05, f"Available nodes: {len(self.available_nodes)}", transform=plt.gca().transAxes, fontsize=12, color='red', bbox=dict(facecolor='white', alpha=0.5))
+        plt.text(0.4, 1.05, f"Error: {self.error}", transform=plt.gca().transAxes, fontsize=12, color='red', bbox=dict(facecolor='white', alpha=0.5))
         plt.xlabel("X Coordinate")
         plt.ylabel("Y Coordinate")
         plt.title("Wireless Sensor Network Visualization")

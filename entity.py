@@ -25,8 +25,10 @@ class Node:
         self.energy = ENEGY_0
         self.is_dead = False
         self.is_cluster_head = False
+        self.is_cluster_head_2 = False
         self.is_sink = False
         self.cluster_index = 0
+        self.cluster_2_index = 0
         self.x = x if x is not None else random.uniform(0, W)
         self.y = y if y is not None else random.uniform(0, H)
         self.color = "green"
@@ -34,7 +36,10 @@ class Node:
         self.energy_history = []
         self.life_history = []
         self.is_cluster_head_history = []
+        self.is_cluster_head_2_history = []
         self.cluster_index_history = []
+        self.cluster_2_index_history = []
+        self.probability = 0
     
     def update_status(self):
         """Updates the node's color based on its state."""
@@ -43,12 +48,14 @@ class Node:
         
         if self.is_dead:
             self.color = "black"
+        elif self.is_cluster_head_2:
+            self.color = "yellow"
         elif self.is_cluster_head:
             self.color = "red"
         elif self.is_sink:
             self.color = "blue"
         elif self.energy < 200:
-            self.color = "orange"
+            self.color = "green"
         else:
             self.color = "green"
     
@@ -58,6 +65,8 @@ class Node:
         self.life_history.append(self.is_dead)
         self.is_cluster_head_history.append(self.is_cluster_head)
         self.cluster_index_history.append(self.cluster_index)
+        self.is_cluster_head_2_history.append(self.cluster_2_index)
+        self.cluster_2_index_history.append(self.cluster_2_index)
 
     def distance_to(self, other):
         return abs(self.x - other.x) + abs(self.y - other.y)  # Khoảng cách Manhattan
