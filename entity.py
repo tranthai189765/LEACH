@@ -40,6 +40,7 @@ class Node:
         self.cluster_index_history = []
         self.cluster_2_index_history = []
         self.probability = 0
+        self.degree = 1
     
     def update_status(self):
         """Updates the node's color based on its state."""

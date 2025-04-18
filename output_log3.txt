@@ -1,0 +1,18 @@
+done!
+Timestep:  0  - Number of available nodes:  1000 - Time K-connect:  0
+Time K-connect:  0
+Time life:  0
+Timestep:  0  - Number of available nodes:  1000 - Time K-connect:  1
+Timestep:  1  - Number of available nodes:  1000 - Time K-connect:  1
+Timestep:  2  - Number of available nodes:  1000 - Time K-connect:  2
+Timestep:  3  - Number of available nodes:  1000 - Time K-connect:  3
+Timestep:  4  - Number of available nodes:  1000 - Time K-connect:  4
+Timestep:  5  - Number of available nodes:  1000 - Time K-connect:  5
+Timestep:  6  - Number of available nodes:  1000 - Time K-connect:  5
+Timestep:  7  - Number of available nodes:  1000 - Time K-connect:  6
+Timestep:  8  - Number of available nodes:  1000 - Time K-connect:  7
+Timestep:  9  - Number of available nodes:  1000 - Time K-connect:  7
+Timestep:  10  - Number of available nodes:  1000 - Time K-connect:  8
+Timestep:  11  - Number of available nodes:  1000 - Time K-connect:  9
+Timestep:  12  - Number of available nodes:  1000 - Time K-connect:  10
+Timestep:  13  - Number of available nodes:  1000 - Time K-connect:  10
