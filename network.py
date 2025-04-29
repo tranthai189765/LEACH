@@ -7,10 +7,10 @@ import copy  # Thêm dòng này để import module copy
 import random
 import json
 from datetime import datetime
-from buffer import ClusterHeadBuffer
+from buffer import ClusterHeadBufferTest
 from graph_updated import Graph
 class Network:
-    def __init__(self, num_nodes, width=W, height=H, seed=None, K1=0.1, K2=0.1, K=2):
+    def __init__(self, num_nodes, width=W, height=H, seed=None, K1=0.1, K2=0.05, K=2):
         self.width = width
         self.height = height
         self.num_nodes = num_nodes
@@ -26,8 +26,8 @@ class Network:
         self.edges = []
         self.edge_colors = {}  # Dictionary to store edge colors
         self.time_life = 0
-        self.cluster_heads_buffer = ClusterHeadBuffer(mem_size=20)
-        self.cluster_heads_2_buffer = ClusterHeadBuffer(mem_size=20)
+        self.cluster_heads_buffer = ClusterHeadBufferTest(mem_size=20)
+        self.cluster_heads_2_buffer = ClusterHeadBufferTest(mem_size=20)
         self.error = "None"
         self.R = 300
         self.time_k_connect = 0
@@ -161,8 +161,11 @@ class Network:
             self.cluster_heads.append(selected_node)
             self.cluster_infos.append([selected_node.id])
             selected_node.cluster_index = len(self.cluster_infos) 
-
+        
+        print("number of cluster heads = ", len(self.cluster_heads))
+        # print("last_cluster_heads : ", len(self.cluster_heads_buffer.take(10)))
         # Cluster members select clusters
+        chs_loss = 0
         candidate_nodes = [node for node in self.available_nodes if not node.is_sink]
         for node in candidate_nodes:
             if node.color != "red":
@@ -192,29 +195,96 @@ class Network:
         if(non_accept == 1):
             graph_chs = Graph(graph_nodes, (self.R))
         # print("is connected ? ", graph_chs.is_connected())
+        sink_node  = self.sink_node
         mst = graph_chs.find_mst()
-        for id1, id2 in mst:
-            self.add_edge(id1, id2, "purple")
-            node1 = Node.nodes[id1]
-            node2 = Node.nodes[id2]
-            if node1.is_sink == False: 
-                node1.energy -= self.K1*node1.distance_to(node2)
-                energy_loss += self.K1*node1.distance_to(node2)
+        if non_accept == 0 and self.is_k_connect(self.K):
+            for id1, id2 in mst:
+                self.add_edge(id1, id2, "purple")
+                node1 = Node.nodes[id1]
+                node2 = Node.nodes[id2]
+                d = node1.distance_to(node2)
 
-            if node2.is_sink == False: 
-                node2.energy -= self.K1*node1.distance_to(node2)
-                energy_loss += self.K1*node1.distance_to(node2)
-        
-        for cluster in self.cluster_infos: 
-            ch_id = cluster[0]
-            cluster_head = Node.nodes[ch_id]
-            for cm_id in cluster[1:]:
-                cluster_member = Node.nodes[cm_id]
-                if not cluster_member.is_sink:
-                    distance = cluster_member.distance_to(cluster_head) 
-                    cluster_member.energy -= distance * self.K2 
-                    cluster_head.energy -= distance * self.K2
-                    energy_loss += distance * self.K2 + distance * self.K2
+                # Mặc định cả 2 đều truyền (tốn năng lượng theo khoảng cách)
+                # nhưng sẽ xét lại nếu 1 trong 2 là "nút nhận" trên đường đi tới sink
+
+                # Kiểm tra nếu node2 nằm trên đường từ node1 đến sink => node2 là "nút nhận"
+                if not node1.is_sink:
+                    if graph_chs.is_on_path_to_sink(id1, id2, sink_node.id):
+                        node2.energy -= self.K2  # Nhận => tốn ít
+                        energy_loss += self.K2
+                        chs_loss += self.K2
+                    else:
+                        node1.energy -= self.K1 * d
+                        energy_loss += self.K1 * d
+                        chs_loss += self.K1 * d
+
+                # Kiểm tra nếu node1 nằm trên đường từ node2 đến sink => node1 là "nút nhận"
+                if not node2.is_sink:
+                    if graph_chs.is_on_path_to_sink(id2, id1, sink_node.id):
+                        node1.energy -= self.K2  # Nhận => tốn ít
+                        energy_loss += self.K2
+                        chs_loss += self.K2
+                    else:
+                        node2.energy -= self.K1 * d
+                        energy_loss += self.K1 * d
+                        chs_loss += self.K1 * d
+            
+            print("chs_loss = ",chs_loss)
+            for cluster in self.cluster_infos: 
+                ch_id = cluster[0]
+                cluster_head = Node.nodes[ch_id]
+                for cm_id in cluster[1:]:
+                    cluster_member = Node.nodes[cm_id]
+                    if not cluster_member.is_sink:
+                        distance = cluster_member.distance_to(cluster_head) 
+                        cluster_member.energy -= distance * self.K1 
+                        cluster_head.energy -= self.K2
+                        energy_loss += distance * self.K1 + self.K2
+        else:
+            print("day ne")
+            for id1, id2 in mst:
+                self.add_edge(id1, id2, "purple")
+                node1 = Node.nodes[id1]
+                node2 = Node.nodes[id2]
+                d = node1.distance_to(node2)
+
+                # Mặc định cả 2 đều truyền (tốn năng lượng theo khoảng cách)
+                # nhưng sẽ xét lại nếu 1 trong 2 là "nút nhận" trên đường đi tới sink
+
+                # Kiểm tra nếu node2 nằm trên đường từ node1 đến sink => node2 là "nút nhận"
+                if not node1.is_sink:
+                    if graph_chs.is_on_path_to_sink(id1, id2, sink_node.id):
+                        node2.energy -= self.K2 * self.K  # Nhận => tốn ít
+                        energy_loss += self.K2 * self.K
+                        chs_loss += self.K2 * self.K
+                    else:
+                        node1.energy -= self.K1 * d * self.K
+                        energy_loss += self.K1 * d * self.K
+                        chs_loss += self.K1 * d * self.K
+
+                # Kiểm tra nếu node1 nằm trên đường từ node2 đến sink => node1 là "nút nhận"
+                if not node2.is_sink:
+                    if graph_chs.is_on_path_to_sink(id2, id1, sink_node.id):
+                        node1.energy -= self.K2 * self.K  # Nhận => tốn ít
+                        energy_loss += self.K2 * self.K
+                        chs_loss += self.K2 * self.K
+                    else:
+                        node2.energy -= self.K1 * d * self.K
+                        energy_loss += self.K1 * d * self.K
+                        chs_loss += self.K1 * d * self.K
+            
+            print("chs_loss = ",chs_loss)
+            for cluster in self.cluster_infos: 
+                ch_id = cluster[0]
+                cluster_head = Node.nodes[ch_id]
+                for cm_id in cluster[1:]:
+                    cluster_member = Node.nodes[cm_id]
+                    if not cluster_member.is_sink:
+                        distance = cluster_member.distance_to(cluster_head) 
+                        cluster_member.energy -= distance * self.K1 * self.K
+                        cluster_head.energy -= self.K2 * self.K
+                        energy_loss += distance * self.K1 * self.K + self.K2 * self.K
+            
         
         if non_accept == 0:
             if self.is_k_connect(self.K):

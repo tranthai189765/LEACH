@@ -45,7 +45,10 @@ class Graph:
         return mst_edges
 
     def is_connected_with_component(self):
-        """Kiểm tra liên thông, và trả về thành phần liên thông chứa node.isSink == True nếu không liên thông."""
+        """Kiểm tra liên thông, trả về:
+        - True, [toàn bộ node], [danh sách các thành phần liên thông] nếu liên thông
+        - False, [thành phần chứa node is_sink==True], [danh sách thành phần liên thông] nếu không liên thông
+        """
         def bfs(start_id):
             """Tìm một thành phần liên thông bắt đầu từ node `start_id`."""
             visited = set()
@@ -70,9 +73,9 @@ class Graph:
                 components.append(component)
 
         if len(components) == 1:
-            return True, components[0]  # Đồ thị liên thông
+            return True, components[0], components  # Liên thông
 
-        # Nếu không liên thông, tìm component chứa node có isSink == True
+        # Nếu không liên thông, tìm component chứa node có is_sink == True
         sink_component = []
         for component in components:
             for node in self.nodes:
@@ -82,4 +85,33 @@ class Graph:
             if sink_component:
                 break
 
-        return False, sink_component
+        return False, sink_component, components
+    
+    def is_on_path_to_sink(self, A_id, B_id, sink_id):
+        mst_edges = self.find_mst()
+
+        # Tạo lại adjacency list từ cây khung
+        mst_adj = {node.id: [] for node in self.nodes}
+        for u, v in mst_edges:
+            mst_adj[u].append(v)
+            mst_adj[v].append(u)
+
+        # Tìm đường đi duy nhất từ A đến sink bằng DFS
+        def dfs(current, target, path, visited):
+            if current == target:
+                return path
+            visited.add(current)
+            for neighbor in mst_adj[current]:
+                if neighbor not in visited:
+                    result = dfs(neighbor, target, path + [neighbor], visited)
+                    if result:
+                        return result
+            return None
+
+        path = dfs(A_id, sink_id, [A_id], set())
+        if path is None:
+            return False  # Không có đường đi (không nên xảy ra nếu MST đúng)
+
+        return B_id in path[1:-1]  # B nằm *giữa* A và sink, loại bỏ A và sink
+
+

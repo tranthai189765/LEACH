@@ -6,77 +6,54 @@ import random
 import math
 from chs_buffer import Buffer
 import copy
+import numpy as np
 from graph_updated import Graph
 
 # Initialize buffer
-buffer = Buffer(5)
+buffer = Buffer(10)
 
 def euclidean_distances_np(a, b):
     return np.sqrt(((a[:, np.newaxis, :] - b[np.newaxis, :, :]) ** 2).sum(axis=2))
 
 class FuzzyCMeansClustering:
-    def __init__(self, network, num_clusters, R1=300, m=2, max_iter=1000, tol=1e-5):
+    def __init__(self, network, num_clusters, m=2, max_iter=1e12, tol=1e-10):
         self.network = network
         self.num_clusters = num_clusters
-        self.m = m  # Fuzzy parameter
-        self.max_iter = max_iter  # Maximum iterations
-        self.tol = tol  # Convergence tolerance
-        self.R1 = R1  # Maximum allowed distance from cluster center
+        self.m = m  # Bậc mờ
+        self.max_iter = max_iter
+        self.tol = tol  # Ngưỡng hội tụ
         self.cluster_centers = None
         self.membership_matrix = None
         self.labels = None
 
     def fit(self):
-        """Perform custom Fuzzy C-Means clustering with R1 constraint."""
-        nodes = np.array([[node.x, node.y] for node in self.network.available_nodes if not node.is_sink])
-        if nodes.size == 0:
-            raise ValueError("No nodes available for clustering.")
-        data = nodes.T  # Shape (2, N)
+        """Thực hiện phân cụm Fuzzy C-Means"""
+        nodes = np.array([[node.x, node.y] for node in self.network.available_nodes if not node.is_sink])  # Lấy tọa độ nodes
 
-        # Initialize cluster centers randomly from data points
-        np.random.seed(42)  # For reproducibility
-        indices = np.random.choice(data.shape[1], self.num_clusters, replace=False)
-        self.cluster_centers = data[:, indices].T  # Shape (C, 2)
+        if nodes.shape[0] < self.num_clusters:
+            print(f"[DEBUG] Số lượng node ({nodes.shape[0]}) nhỏ hơn số cluster ({self.num_clusters})")
+            return
 
-        for iteration in range(self.max_iter):
-            # Compute distances from each point to cluster centers (C, N)
-            distances = euclidean_distances_np(self.cluster_centers, data.T)
+        if nodes.shape[0] == 0:
+            print("[DEBUG] Không có node nào để phân cụm.")
+            return
 
-            # Compute membership matrix with R1 constraint
-            with np.errstate(divide='ignore', invalid='ignore'):
-                ratios = distances[:, np.newaxis, :] / (distances[np.newaxis, :, :] + 1e-8)
-            ratios = ratios ** (2 / (self.m - 1))
-            denominators = np.sum(ratios, axis=1)
-            u = 1 / (denominators + 1e-8)
+        # 1. Chạy thuật toán FCM
+        cntr, u, _, _, _, _, _ = fuzz.cluster.cmeans(
+            nodes.T, self.num_clusters, self.m, error=self.tol, maxiter=self.max_iter, init=None
+        )
 
-            # Apply R1 constraint: set membership to zero where distance > R1
-            mask = distances > self.R1
-            u[mask] = 0
+        # 2. Xác định mỗi node thuộc cụm nào (dựa vào giá trị membership cao nhất)
+        cluster_labels = np.argmax(u, axis=0)
 
-            # Handle points with all memberships zero (assign to nearest cluster)
-            column_sums = u.sum(axis=0)
-            all_zero_mask = column_sums == 0
-            if np.any(all_zero_mask):
-                nearest_clusters = np.argmin(distances[:, all_zero_mask], axis=0)
-                u[nearest_clusters, np.where(all_zero_mask)[0]] = 1
-                column_sums = u.sum(axis=0)
+        # 3. Chọn Cluster Head (CH) theo tiêu chí hỗn hợp
+        # self.select_cluster_heads(cluster_labels, cntr)
 
-            # Normalize memberships
-            u = u / column_sums[np.newaxis, :]
-
-            # Update cluster centers
-            u_m = u ** self.m
-            new_centers = np.dot(u_m, data.T) / (np.sum(u_m, axis=1, keepdims=True) + 1e-8)
-
-            # Check convergence
-            if np.linalg.norm(new_centers - self.cluster_centers) < self.tol:
-                break
-            self.cluster_centers = new_centers
-
-        # Assign labels based on highest membership
-        self.labels = np.argmax(u, axis=0)
+        # Lưu kết quả
+        self.cluster_centers = cntr
         self.membership_matrix = u
-        # print("donedone")
+        self.labels = cluster_labels
+        print("donedone")
 
         # Select cluster heads considering R1 constraint
         non_accept, temp_cluster_heads, current_cluster_heads_ids = self.select_cluster_heads(self.labels, self.cluster_centers)
@@ -133,32 +110,55 @@ class FuzzyCMeansClustering:
 
         graph_nodes = [self.network.sink_node] + self.network.available_nodes
         graph = Graph(graph_nodes, (self.network.R)/3) 
-        connected,_ = graph.is_connected_with_component()
+        connected,_,_ = graph.is_connected_with_component()
         if connected:
             # print("R/3 connected")
+            # print("this")
             graph_nodes = [self.network.sink_node] + temp_cluster_heads
             graph = Graph(graph_nodes, (self.network.R)/3)
-            connected,_ = graph.is_connected_with_component()
+            connected,_,components = graph.is_connected_with_component()
             while not connected:
+                # print("this")
                 candidate_node_ids_connect = [node.id for node in self.network.available_nodes if not node.is_sink and node not in temp_cluster_heads]
+                candidate_nodes = [node for node in self.network.available_nodes if not node.is_sink and node not in temp_cluster_heads]
                 if not candidate_node_ids_connect:
                     print("Bug rồi :<")
                     break  # Không còn node nào khả dụng
 
-                random_id = random.choice(candidate_node_ids_connect)
-                selected_node = Node.nodes[random_id]
-                temp_cluster_heads.append(selected_node)
+                first, second = random.sample(range(len(components)), 2)
+                min_dist = float("inf")
+                bridge_x = bridge_y = None
+                for node1_id in components[first]:
+                    for node2_id in components[second]:
+                        node1 = Node.nodes[node1_id]
+                        node2 = Node.nodes[node2_id]
+                        dist = math.sqrt((node1.x - node2.x)**2 + (node1.y - node2.y)**2)
+                        if dist < min_dist:
+                            min_dist = dist
+                            # Chọn node trung gian nằm giữa node1 và node2
+                            bridge_x = (node1.x + node2.x) / 2
+                            bridge_y = (node1.y + node2.y) / 2
+
+                bridge_node = min(
+                    candidate_nodes,
+                    key=lambda x: math.sqrt((x.x - bridge_x)**2 + (x.y - bridge_y)**2)
+                )
+                
+                temp_cluster_heads.append(bridge_node)
+                current_cluster_heads_ids.append(bridge_node.id)
+
+                # temp_cluster_heads.append(selected_node)
 
                 # Tạo lại graph thay vì chỉ cập nhật nodes
                 graph_nodes = [self.network.sink_node] + temp_cluster_heads
                 graph = Graph(graph_nodes, (self.network.R)/3)  # Tạo lại đồ thị mới
-                connected,_ = graph.is_connected_with_component()
+                connected, _, components= graph.is_connected_with_component()
             
         else:
             non_accept = 1
             graph_nodes = [self.network.sink_node] + temp_cluster_heads
             graph = Graph(graph_nodes, (self.network.R))
-            connected, component = graph.is_connected_with_component()
+            connected, component,_ = graph.is_connected_with_component()
             
             while not connected:
                 candidate_node_ids_connect = [node.id for node in self.network.available_nodes if not node.is_sink and node not in temp_cluster_heads]
@@ -171,7 +171,7 @@ class FuzzyCMeansClustering:
                 temp_cluster_heads.append(selected_node)
                 graph_nodes = [self.network.sink_node] + temp_cluster_heads
                 graph = Graph(graph_nodes, (self.network.R))
-                connected, component = graph.is_connected_with_component()
+                connected, component, _ = graph.is_connected_with_component()
         
         return non_accept, temp_cluster_heads, current_cluster_heads_ids
         # self.network.cluster_heads_buffer.store(current_cluster_heads_ids)
@@ -180,7 +180,7 @@ def run(network, P, K1, K2, K, display=False):
 
     graph_nodes = [network.sink_node] + network.available_nodes
     graph = Graph(graph_nodes, (network.R))
-    connected, component = graph.is_connected_with_component()
+    connected, component, _ = graph.is_connected_with_component()
     # self.network.display_network()
     # print("component = ", len(component))
     if not connected:            
@@ -191,13 +191,27 @@ def run(network, P, K1, K2, K, display=False):
     non_accept, temp_cluster_heads, current_cluster_heads_ids = fcm.fit()
     # network.display_network(folder="new_log")
     if non_accept==1:
+        current_energy = 0
         energy_loss, is_k_connect, final_chs = network.step(temp_cluster_heads, non_accept, display)
+        for node in network.available_nodes:
+            current_energy += node.energy
+        print("current_energy = ", current_energy )
+        print("energy_loss = ", energy_loss)
     # network.display_network(folder="log_log")
     else:
         energy_loss, is_k_connect, final_chs = network.step(temp_cluster_heads, non_accept, display)    
+        check = False
+        prob = 1.0 
+        for node in network.available_nodes:
+            if(node.energy < 100):
+                print("Check lai")
+                check = True
+        if check==True:
+            prob = random.uniform(0, 1)
+            print("prob = ", prob)
         network.restep()
         # network.display_network(folder="new_log0")
-        if is_k_connect == True:
+        if is_k_connect == True and prob > 0.7:
             buffer.add(final_chs)
             # print("add : ", [node.id for node in final_chs], "len buffer  = ", len(buffer.history))
             # network.display_network(folder="check_check") # same input
@@ -233,28 +247,36 @@ def run(network, P, K1, K2, K, display=False):
                         'temp_chs': candidate_temp_cluster_heads,
                     })
         
-            # Lọc top 5 candidates có energy_loss thấp nhất
-            top_3_candidates = sorted(candidates, key=lambda x: x['energy_loss'])[:3]
-        
-            # Chọn ngẫu nhiên một candidate từ top 5 (nếu có)
-            if top_3_candidates:
-                selected_candidate = random.choice(top_3_candidates)
+            if candidates:
+                losses = np.array([cand['energy_loss'] for cand in candidates])
+                logits = -losses
+                logits = logits - np.max(logits)  # ổn định số học
+
+                exp_logits = np.exp(logits)
+                sum_exp = np.sum(exp_logits)
+
+                # Kiểm tra tổng tránh chia 0
+                if sum_exp == 0 or np.isnan(sum_exp):
+                    probs = np.ones(len(candidates)) / len(candidates)  # fallback: chọn đều
+                else:
+                    probs = exp_logits / sum_exp
+
+                selected_index = np.random.choice(len(candidates), p=probs)
+                selected_candidate = candidates[selected_index]
+
                 temp_final_chs = selected_candidate['temp_chs']
                 final_non_accept = selected_candidate['non_accept']
                 before_energy_loss = selected_candidate['energy_loss']
                 candidate_energy_loss, candidate_is_k_connect, candidate_final_chs = network.step(temp_final_chs, final_non_accept, display, folder="test")
                 print("Selected done : ", before_energy_loss, " ", candidate_energy_loss)
-                current_energy = 0
-                for node in network.available_nodes:
-                    current_energy += node.energy
-                print("current_energy = ", current_energy )
+                current_energy = sum(node.energy for node in network.available_nodes)
+                print("current_energy = ", current_energy)
             else:
                 print("No valid candidates found with is_k_connect == True")
                 energy_loss, is_k_connect, final_chs = network.step(temp_cluster_heads, non_accept, display, folder="test")
-                current_energy = 0
-                for node in network.available_nodes:
-                    current_energy += node.energy
-                print("current_energy = ", current_energy )
+                current_energy = sum(node.energy for node in network.available_nodes)
+                print("current_energy = ", current_energy)
                 print("energy_loss = ", energy_loss)
+
     network.reset()
 
