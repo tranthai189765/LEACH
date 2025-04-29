@@ -10,7 +10,7 @@ from datetime import datetime
 from buffer import ClusterHeadBufferTest
 from graph_updated import Graph
 class Network:
-    def __init__(self, num_nodes, width=W, height=H, seed=None, K1=0.1, K2=0.05, K=2):
+    def __init__(self, num_nodes, width=W, height=H, seed=None, K1=0.075, K2=0.075/2, K=2):
         self.width = width
         self.height = height
         self.num_nodes = num_nodes
@@ -229,7 +229,7 @@ class Network:
                         energy_loss += self.K1 * d
                         chs_loss += self.K1 * d
             
-            print("chs_loss = ",chs_loss)
+            # print("chs_loss = ",chs_loss)
             for cluster in self.cluster_infos: 
                 ch_id = cluster[0]
                 cluster_head = Node.nodes[ch_id]
@@ -254,26 +254,26 @@ class Network:
                 # Kiểm tra nếu node2 nằm trên đường từ node1 đến sink => node2 là "nút nhận"
                 if not node1.is_sink:
                     if graph_chs.is_on_path_to_sink(id1, id2, sink_node.id):
-                        node2.energy -= self.K2 * self.K  # Nhận => tốn ít
-                        energy_loss += self.K2 * self.K
-                        chs_loss += self.K2 * self.K
+                        node2.energy -= self.K2 * (self.K + 1) # Nhận => tốn ít
+                        energy_loss += self.K2 * (self.K + 1)
+                        chs_loss += self.K2 * (self.K + 1)
                     else:
-                        node1.energy -= self.K1 * d * self.K
-                        energy_loss += self.K1 * d * self.K
-                        chs_loss += self.K1 * d * self.K
+                        node1.energy -= self.K1 * d * (self.K + 1)
+                        energy_loss += self.K1 * d * (self.K + 1)
+                        chs_loss += self.K1 * d * (self.K + 1)
 
                 # Kiểm tra nếu node1 nằm trên đường từ node2 đến sink => node1 là "nút nhận"
                 if not node2.is_sink:
                     if graph_chs.is_on_path_to_sink(id2, id1, sink_node.id):
-                        node1.energy -= self.K2 * self.K  # Nhận => tốn ít
-                        energy_loss += self.K2 * self.K
-                        chs_loss += self.K2 * self.K
+                        node1.energy -= self.K2 * (self.K + 1) # Nhận => tốn ít
+                        energy_loss += self.K2 * (self.K + 1)
+                        chs_loss += self.K2 * (self.K + 1)
                     else:
-                        node2.energy -= self.K1 * d * self.K
-                        energy_loss += self.K1 * d * self.K
-                        chs_loss += self.K1 * d * self.K
+                        node2.energy -= self.K1 * d * (self.K + 1)
+                        energy_loss += self.K1 * d * (self.K + 1)
+                        chs_loss += self.K1 * d * (self.K + 1)
             
-            print("chs_loss = ",chs_loss)
+            # print("chs_loss = ",chs_loss)
             for cluster in self.cluster_infos: 
                 ch_id = cluster[0]
                 cluster_head = Node.nodes[ch_id]
@@ -281,9 +281,9 @@ class Network:
                     cluster_member = Node.nodes[cm_id]
                     if not cluster_member.is_sink:
                         distance = cluster_member.distance_to(cluster_head) 
-                        cluster_member.energy -= distance * self.K1 * self.K
-                        cluster_head.energy -= self.K2 * self.K
-                        energy_loss += distance * self.K1 * self.K + self.K2 * self.K
+                        cluster_member.energy -= distance * self.K1 * (self.K + 1)
+                        cluster_head.energy -= self.K2 * (self.K + 1)
+                        energy_loss += distance * self.K1 * (self.K + 1) + self.K2 * (self.K + 1)
             
         
         if non_accept == 0:

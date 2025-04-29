@@ -204,11 +204,11 @@ def run(network, P, K1, K2, K, display=False):
         prob = 1.0 
         for node in network.available_nodes:
             if(node.energy < 100):
-                print("Check lai")
+                # print("Check lai")
                 check = True
         if check==True:
             prob = random.uniform(0, 1)
-            print("prob = ", prob)
+            # print("prob = ", prob)
         network.restep()
         # network.display_network(folder="new_log0")
         if is_k_connect == True and prob > 0.7:
