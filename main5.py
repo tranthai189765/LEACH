@@ -1,7 +1,7 @@
 from network import Network
 from FCM import run
 
-WSN = Network(num_nodes=1000, seed=63)
+WSN = Network(num_nodes=1000, seed=64)
 WSN.save_network()
 for i in range(1000):
     run(WSN, P=0.1, K1=100.0, K2=100.0, K=2, display=False)

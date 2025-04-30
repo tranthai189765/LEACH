@@ -62,6 +62,7 @@ class FuzzyCMeansClustering:
 
         """Chọn Cluster Head theo tiêu chí 65% năng lượng, 35% khoảng cách đến tâm cụm"""
         temp_cluster_heads = []  # Reset cluster_heads
+        max_energy = max(node.energy for node in self.network.available_nodes)
 
         for i in range(self.num_clusters):
             cluster_nodes = [
@@ -78,7 +79,7 @@ class FuzzyCMeansClustering:
             # Tính điểm tổng hợp dựa trên năng lượng (65%) và khoảng cách đến tâm cụm (35%)
             def score(node_id):
                 node = Node.nodes[node_id]
-                energy_score = node.energy / 1000  # Chuẩn hóa năng lượng về [0,1]
+                energy_score = node.energy / max_energy  # Chuẩn hóa năng lượng về [0,1]
                 distance = np.linalg.norm(np.array([node.x, node.y]) - cluster_center)  # Khoảng cách đến tâm cụm
                 distance_score = 1 / (1 + distance)  # Chuẩn hóa khoảng cách về [0,1], càng gần tâm điểm càng cao
                 return energy_score
@@ -98,6 +99,7 @@ class FuzzyCMeansClustering:
 
     def select_more_cluster_heads(self, temp_cluster_heads, current_cluster_heads_ids):
         non_accept = 0
+        max_energy = max(node.energy for node in self.network.available_nodes)
         while True:
             coveraged_set, is_fully_coveraged = self.network.is_coveraged(temp_cluster_heads)
             if is_fully_coveraged:
@@ -122,6 +124,7 @@ class FuzzyCMeansClustering:
         graph_nodes = [self.network.sink_node] + self.network.available_nodes
         graph = Graph(graph_nodes, (self.network.R)/3) 
         connected,_,_ = graph.is_connected_with_component()
+        print("check len = ", len(temp_cluster_heads))
         if connected:
             # print("R/3 connected")
             # print("this")
@@ -152,11 +155,18 @@ class FuzzyCMeansClustering:
 
                 bridge_node = min(
                     candidate_nodes,
-                    key=lambda x: math.sqrt((x.x - bridge_x)**2 + (x.y - bridge_y)**2)
+                    key=lambda x: math.sqrt((x.x - bridge_x)**2 + (x.y - bridge_y)**2)/1000
                 )
+                prob = random.uniform(0, 1)
+                if(prob < 0.05):
                 
-                temp_cluster_heads.append(bridge_node)
-                current_cluster_heads_ids.append(bridge_node.id)
+                    temp_cluster_heads.append(bridge_node)
+                    current_cluster_heads_ids.append(bridge_node.id)
+                else:
+                    random_id = random.choice(candidate_node_ids_connect)
+                    selected_node = Node.nodes[random_id]
+                    temp_cluster_heads.append(selected_node)
+                    current_cluster_heads_ids.append(selected_node.id)
 
                 # temp_cluster_heads.append(selected_node)
 
@@ -183,7 +193,7 @@ class FuzzyCMeansClustering:
                 graph_nodes = [self.network.sink_node] + temp_cluster_heads
                 graph = Graph(graph_nodes, (self.network.R))
                 connected, component, _ = graph.is_connected_with_component()
-        
+        print("check len after add bridget = ", len(temp_cluster_heads))
         return non_accept, temp_cluster_heads, current_cluster_heads_ids
         # self.network.cluster_heads_buffer.store(current_cluster_heads_ids)
 
@@ -217,12 +227,13 @@ def run(network, P, K1, K2, K, display=False):
             if(node.energy < 100):
                 # print("Check lai")
                 check = True
+                break
         if check==True:
             prob = random.uniform(0, 1)
-            # print("prob = ", prob)
+            print("prob = ", prob)
         network.restep()
         # network.display_network(folder="new_log0")
-        if is_k_connect == True and prob > 0.7:
+        if is_k_connect == True and prob > 0.1:
             buffer.add(final_chs)
             # print("add : ", [node.id for node in final_chs], "len buffer  = ", len(buffer.history))
             # network.display_network(folder="check_check") # same input
@@ -234,6 +245,7 @@ def run(network, P, K1, K2, K, display=False):
             print("current_energy = ", current_energy )
             print("energy_loss = ", energy_loss)
         else:
+            if is_k_connect == True: buffer.add(final_chs)
             print("rechoose!!")
             history = buffer.get_history()
             candidates = []  # Danh sách lưu các candidate hợp lệ
