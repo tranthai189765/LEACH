@@ -1,0 +1,2151 @@
+donedone
+check len =  10
+check len after add bridget =  54
+number of cluster heads =  54
+day ne
+prob =  0.72299704713725
+rechoose!!
+No valid candidates found with is_k_connect == True
+number of cluster heads =  54
+day ne
+current_energy =  9677.417344898318
+energy_loss =  322.58265510168104
+Timestep:  0  - Number of available nodes:  100 - Time K-connect:  0
+donedone
+check len =  10
+check len after add bridget =  48
+number of cluster heads =  48
+day ne
+prob =  0.6931975780367637
+rechoose!!
+No valid candidates found with is_k_connect == True
+number of cluster heads =  48
+day ne
+current_energy =  9248.84979469727
+energy_loss =  428.5675502010539
+Timestep:  1  - Number of available nodes:  100 - Time K-connect:  0
+donedone
+check len =  10
+check len after add bridget =  49
+number of cluster heads =  49
+prob =  0.9793467674416145
+number of cluster heads =  49
+current_energy =  9127.112737719173
+energy_loss =  121.73705697809397
+Timestep:  2  - Number of available nodes:  100 - Time K-connect:  1
+donedone
+check len =  10
+check len after add bridget =  75
+number of cluster heads =  75
+day ne
+prob =  0.15187407936906705
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+Danh sách losses: [121.73705697809397]
+Sau khi softmax: [1.0]
+number of cluster heads =  49
+Selected done :  121.73705697809397   121.73705697809397
+current_energy =  9005.375680741083
+Timestep:  3  - Number of available nodes:  100 - Time K-connect:  2
+donedone
+check len =  10
+check len after add bridget =  62
+number of cluster heads =  62
+day ne
+prob =  0.7819286056148876
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+Danh sách losses: [121.73705697809397]
+Sau khi softmax: [1.0]
+number of cluster heads =  49
+Selected done :  121.73705697809397   121.73705697809397
+current_energy =  8883.638623762983
+Timestep:  4  - Number of available nodes:  100 - Time K-connect:  3
+donedone
+check len =  10
+check len after add bridget =  60
+number of cluster heads =  60
+day ne
+prob =  0.704673656228597
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+Danh sách losses: [121.73705697809397]
+Sau khi softmax: [1.0]
+number of cluster heads =  49
+Selected done :  121.73705697809397   121.73705697809397
+current_energy =  8761.901566784894
+Timestep:  5  - Number of available nodes:  100 - Time K-connect:  4
+donedone
+check len =  10
+check len after add bridget =  57
+number of cluster heads =  57
+day ne
+prob =  0.03887304930626634
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+Danh sách losses: [121.73705697809397]
+Sau khi softmax: [1.0]
+number of cluster heads =  49
+Selected done :  121.73705697809397   121.73705697809397
+current_energy =  8640.1645098068
+Timestep:  6  - Number of available nodes:  100 - Time K-connect:  5
+donedone
+check len =  10
+check len after add bridget =  39
+number of cluster heads =  39
+prob =  0.3531064644414518
+number of cluster heads =  39
+current_energy =  8518.099030030617
+energy_loss =  122.0654797761829
+Timestep:  7  - Number of available nodes:  100 - Time K-connect:  6
+donedone
+check len =  10
+check len after add bridget =  78
+number of cluster heads =  78
+day ne
+prob =  0.48709399443650825
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293]
+Sau khi softmax: [0.5006735426131471, 0.4993264573868528]
+number of cluster heads =  49
+Selected done :  121.73705697809397   121.73705697809397
+current_energy =  8396.361973052522
+Timestep:  8  - Number of available nodes:  100 - Time K-connect:  7
+donedone
+check len =  10
+check len after add bridget =  61
+number of cluster heads =  61
+day ne
+prob =  0.9728953080782604
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293]
+Sau khi softmax: [0.5006735426131471, 0.4993264573868528]
+number of cluster heads =  49
+Selected done :  121.73705697809397   121.73705697809397
+current_energy =  8274.624916074434
+Timestep:  9  - Number of available nodes:  100 - Time K-connect:  8
+donedone
+check len =  10
+check len after add bridget =  58
+number of cluster heads =  58
+day ne
+prob =  0.11014530746221451
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293]
+Sau khi softmax: [0.5006735426131471, 0.4993264573868528]
+number of cluster heads =  39
+Selected done :  122.06547977618293   122.06547977618293
+current_energy =  8152.5594362982465
+Timestep:  10  - Number of available nodes:  100 - Time K-connect:  9
+donedone
+check len =  10
+check len after add bridget =  45
+number of cluster heads =  45
+prob =  0.8242136789389247
+number of cluster heads =  45
+current_energy =  8021.717732014155
+energy_loss =  130.8417042840915
+Timestep:  11  - Number of available nodes:  100 - Time K-connect:  10
+donedone
+check len =  10
+check len after add bridget =  46
+number of cluster heads =  46
+prob =  0.4423868025285793
+number of cluster heads =  46
+current_energy =  7889.460196629081
+energy_loss =  132.2575353850768
+Timestep:  12  - Number of available nodes:  100 - Time K-connect:  11
+donedone
+check len =  10
+check len after add bridget =  49
+number of cluster heads =  49
+day ne
+prob =  0.27204559131213546
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293, 130.84170428409152, 132.25753538507678]
+Sau khi softmax: [0.259863181947472, 0.25916400808773055, 0.24178054832305634, 0.23919226164174115]
+number of cluster heads =  39
+Selected done :  122.06547977618293   122.06547977618293
+current_energy =  7767.394716852897
+Timestep:  13  - Number of available nodes:  100 - Time K-connect:  12
+donedone
+check len =  10
+check len after add bridget =  47
+number of cluster heads =  47
+prob =  0.8113831478174598
+number of cluster heads =  47
+current_energy =  7650.988989664286
+energy_loss =  116.40572718861259
+Timestep:  14  - Number of available nodes:  100 - Time K-connect:  13
+donedone
+check len =  10
+check len after add bridget =  48
+number of cluster heads =  48
+prob =  0.4354877899109909
+number of cluster heads =  48
+current_energy =  7525.651823226679
+energy_loss =  125.33716643760532
+Timestep:  15  - Number of available nodes:  100 - Time K-connect:  14
+donedone
+check len =  10
+check len after add bridget =  58
+number of cluster heads =  58
+day ne
+prob =  0.5033178864670446
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293, 130.84170428409152, 132.25753538507678, 116.40572718861257, 125.3371664376053]
+Sau khi softmax: [0.17049557103880805, 0.17003684485228684, 0.15863160122755757, 0.15693343293593642, 0.1783041912072334, 0.16559835873817774]
+number of cluster heads =  45
+Selected done :  130.84170428409152   130.84170428409152
+current_energy =  7394.810118942591
+Timestep:  16  - Number of available nodes:  100 - Time K-connect:  15
+donedone
+check len =  10
+check len after add bridget =  58
+number of cluster heads =  58
+day ne
+prob =  0.2443278782632582
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293, 130.84170428409152, 132.25753538507678, 116.40572718861257, 125.3371664376053]
+Sau khi softmax: [0.17049557103880805, 0.17003684485228684, 0.15863160122755757, 0.15693343293593642, 0.1783041912072334, 0.16559835873817774]
+number of cluster heads =  48
+Selected done :  125.3371664376053   125.3371664376053
+current_energy =  7269.4729525049825
+Timestep:  17  - Number of available nodes:  100 - Time K-connect:  16
+donedone
+check len =  10
+check len after add bridget =  58
+number of cluster heads =  58
+day ne
+prob =  0.4392135881985564
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293, 130.84170428409152, 132.25753538507678, 116.40572718861257, 125.3371664376053]
+Sau khi softmax: [0.17049557103880805, 0.17003684485228684, 0.15863160122755757, 0.15693343293593642, 0.1783041912072334, 0.16559835873817774]
+number of cluster heads =  49
+Selected done :  121.73705697809397   121.73705697809397
+current_energy =  7147.735895526889
+Timestep:  18  - Number of available nodes:  100 - Time K-connect:  17
+donedone
+check len =  10
+check len after add bridget =  64
+number of cluster heads =  64
+day ne
+prob =  0.9847092995186615
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293, 130.84170428409152, 132.25753538507678, 116.40572718861257, 125.3371664376053]
+Sau khi softmax: [0.17049557103880805, 0.17003684485228684, 0.15863160122755757, 0.15693343293593642, 0.1783041912072334, 0.16559835873817774]
+number of cluster heads =  46
+Selected done :  132.25753538507678   132.25753538507678
+current_energy =  7015.478360141813
+Timestep:  19  - Number of available nodes:  100 - Time K-connect:  18
+donedone
+check len =  10
+check len after add bridget =  63
+number of cluster heads =  63
+day ne
+prob =  0.7153425259987647
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293, 130.84170428409152, 132.25753538507678, 116.40572718861257, 125.3371664376053]
+Sau khi softmax: [0.17049557103880805, 0.17003684485228684, 0.15863160122755757, 0.15693343293593642, 0.1783041912072334, 0.16559835873817774]
+number of cluster heads =  45
+Selected done :  130.84170428409152   130.84170428409152
+current_energy =  6884.636655857726
+Timestep:  20  - Number of available nodes:  100 - Time K-connect:  19
+donedone
+check len =  10
+check len after add bridget =  57
+number of cluster heads =  57
+day ne
+prob =  0.7121257427414365
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293, 130.84170428409152, 132.25753538507678, 116.40572718861257, 125.3371664376053]
+Sau khi softmax: [0.17049557103880805, 0.17003684485228684, 0.15863160122755757, 0.15693343293593642, 0.1783041912072334, 0.16559835873817774]
+number of cluster heads =  47
+Selected done :  116.40572718861257   116.40572718861257
+current_energy =  6768.230928669111
+Timestep:  21  - Number of available nodes:  100 - Time K-connect:  20
+donedone
+check len =  10
+check len after add bridget =  58
+number of cluster heads =  58
+day ne
+prob =  0.6227738192170876
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293, 130.84170428409152, 132.25753538507678, 116.40572718861257, 125.3371664376053]
+Sau khi softmax: [0.17049557103880805, 0.17003684485228684, 0.15863160122755757, 0.15693343293593642, 0.1783041912072334, 0.16559835873817774]
+number of cluster heads =  46
+Selected done :  132.25753538507678   132.25753538507678
+current_energy =  6635.973393284033
+Timestep:  22  - Number of available nodes:  100 - Time K-connect:  21
+donedone
+check len =  10
+check len after add bridget =  59
+number of cluster heads =  59
+day ne
+prob =  0.15819282124193246
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293, 130.84170428409152, 132.25753538507678, 116.40572718861257, 125.3371664376053]
+Sau khi softmax: [0.17049557103880805, 0.17003684485228684, 0.15863160122755757, 0.15693343293593642, 0.1783041912072334, 0.16559835873817774]
+number of cluster heads =  45
+Selected done :  130.84170428409152   130.84170428409152
+current_energy =  6505.131688999943
+Timestep:  23  - Number of available nodes:  100 - Time K-connect:  22
+donedone
+check len =  10
+check len after add bridget =  80
+number of cluster heads =  80
+day ne
+prob =  0.5138658800269771
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293, 130.84170428409152, 132.25753538507678, 116.40572718861257, 125.3371664376053]
+Sau khi softmax: [0.17049557103880805, 0.17003684485228684, 0.15863160122755757, 0.15693343293593642, 0.1783041912072334, 0.16559835873817774]
+number of cluster heads =  46
+Selected done :  132.25753538507678   132.25753538507678
+current_energy =  6372.874153614868
+Timestep:  24  - Number of available nodes:  100 - Time K-connect:  23
+donedone
+check len =  10
+check len after add bridget =  57
+number of cluster heads =  57
+day ne
+prob =  0.9898581091148491
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293, 130.84170428409152, 132.25753538507678, 116.40572718861257, 125.3371664376053]
+Sau khi softmax: [0.17049557103880805, 0.17003684485228684, 0.15863160122755757, 0.15693343293593642, 0.1783041912072334, 0.16559835873817774]
+number of cluster heads =  47
+Selected done :  116.40572718861257   116.40572718861257
+current_energy =  6256.468426426255
+Timestep:  25  - Number of available nodes:  100 - Time K-connect:  24
+donedone
+check len =  10
+check len after add bridget =  45
+number of cluster heads =  45
+prob =  0.7543356490687042
+number of cluster heads =  45
+current_energy =  6135.2802243568585
+energy_loss =  121.18820206939438
+Timestep:  26  - Number of available nodes:  100 - Time K-connect:  25
+donedone
+check len =  10
+check len after add bridget =  63
+number of cluster heads =  63
+day ne
+prob =  0.5748377316128489
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293, 130.84170428409152, 132.25753538507678, 116.40572718861257, 125.3371664376053, 121.18820206939439]
+Sau khi softmax: [0.14556498547861196, 0.14517333618078698, 0.1354358156546036, 0.13398596073342323, 0.1522317960854758, 0.14138386433227632, 0.14622424153482208]
+number of cluster heads =  47
+Selected done :  116.40572718861257   116.40572718861257
+current_energy =  6018.874497168245
+Timestep:  27  - Number of available nodes:  100 - Time K-connect:  26
+donedone
+check len =  10
+check len after add bridget =  80
+number of cluster heads =  80
+day ne
+prob =  0.7980435269283704
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293, 130.84170428409152, 132.25753538507678, 116.40572718861257, 125.3371664376053, 121.18820206939439]
+Sau khi softmax: [0.14556498547861196, 0.14517333618078698, 0.1354358156546036, 0.13398596073342323, 0.1522317960854758, 0.14138386433227632, 0.14622424153482208]
+number of cluster heads =  48
+Selected done :  125.3371664376053   125.3371664376053
+current_energy =  5893.537330730643
+Timestep:  28  - Number of available nodes:  100 - Time K-connect:  27
+donedone
+check len =  10
+check len after add bridget =  42
+number of cluster heads =  42
+prob =  0.37452897851593414
+number of cluster heads =  42
+current_energy =  5768.289945090998
+energy_loss =  125.24738563964645
+Timestep:  29  - Number of available nodes:  100 - Time K-connect:  28
+donedone
+check len =  10
+check len after add bridget =  56
+number of cluster heads =  56
+day ne
+prob =  0.5307185153778463
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  42
+check len after add bridget =  42
+number of cluster heads =  42
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293, 130.84170428409152, 132.25753538507678, 116.40572718861257, 125.3371664376053, 121.18820206939439, 125.24738563964647]
+Sau khi softmax: [0.12752244525136472, 0.12717934023901983, 0.1186487693458794, 0.11737862155449443, 0.13336291566270503, 0.12385956718546301, 0.1280999876050995, 0.12394835315597387]
+number of cluster heads =  45
+Selected done :  121.18820206939439   121.18820206939439
+current_energy =  5647.1017430216
+Timestep:  30  - Number of available nodes:  100 - Time K-connect:  29
+donedone
+check len =  10
+check len after add bridget =  57
+number of cluster heads =  57
+day ne
+prob =  0.7751398828523948
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  42
+check len after add bridget =  42
+number of cluster heads =  42
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293, 130.84170428409152, 132.25753538507678, 116.40572718861257, 125.3371664376053, 121.18820206939439, 125.24738563964647]
+Sau khi softmax: [0.12752244525136472, 0.12717934023901983, 0.1186487693458794, 0.11737862155449443, 0.13336291566270503, 0.12385956718546301, 0.1280999876050995, 0.12394835315597387]
+number of cluster heads =  42
+Selected done :  125.24738563964647   125.24738563964647
+current_energy =  5521.854357381957
+Timestep:  31  - Number of available nodes:  100 - Time K-connect:  30
+donedone
+check len =  10
+check len after add bridget =  62
+number of cluster heads =  62
+day ne
+prob =  0.49528789310356225
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  42
+check len after add bridget =  42
+number of cluster heads =  42
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293, 130.84170428409152, 132.25753538507678, 116.40572718861257, 125.3371664376053, 121.18820206939439, 125.24738563964647]
+Sau khi softmax: [0.12752244525136472, 0.12717934023901983, 0.1186487693458794, 0.11737862155449443, 0.13336291566270503, 0.12385956718546301, 0.1280999876050995, 0.12394835315597387]
+number of cluster heads =  39
+Selected done :  122.06547977618293   122.06547977618293
+current_energy =  5399.788877605773
+Timestep:  32  - Number of available nodes:  100 - Time K-connect:  31
+donedone
+check len =  10
+check len after add bridget =  65
+number of cluster heads =  65
+day ne
+prob =  0.7951431814299126
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+Accepted
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  42
+check len after add bridget =  42
+number of cluster heads =  42
+Accepted
+Danh sách losses: [121.73705697809397, 122.06547977618293, 130.84170428409152, 132.25753538507678, 116.40572718861257, 125.3371664376053, 121.18820206939439, 125.24738563964647]
+Sau khi softmax: [0.12752244525136472, 0.12717934023901983, 0.1186487693458794, 0.11737862155449443, 0.13336291566270503, 0.12385956718546301, 0.1280999876050995, 0.12394835315597387]
+number of cluster heads =  49
+Selected done :  121.73705697809397   121.73705697809397
+current_energy =  5280.396287337926
+Timestep:  33  - Number of available nodes:  98 - Time K-connect:  32
+donedone
+check len =  10
+check len after add bridget =  45
+number of cluster heads =  45
+prob =  0.5813411022299011
+number of cluster heads =  45
+current_energy =  5168.612803918498
+energy_loss =  111.78348341942886
+Timestep:  34  - Number of available nodes:  98 - Time K-connect:  33
+donedone
+check len =  10
+check len after add bridget =  47
+number of cluster heads =  47
+prob =  0.4984375539454883
+number of cluster heads =  47
+current_energy =  5039.936505408058
+energy_loss =  128.676298510444
+Timestep:  35  - Number of available nodes:  98 - Time K-connect:  34
+donedone
+check len =  10
+check len after add bridget =  53
+number of cluster heads =  53
+day ne
+prob =  0.6134147397433846
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+day ne
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+check len =  44
+check len after add bridget =  44
+number of cluster heads =  44
+Accepted
+check len =  41
+check len after add bridget =  41
+number of cluster heads =  41
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+Danh sách losses: [119.14070822890783, 131.64163270917177, 130.238747936436, 114.5373094633213, 119.94190187966076, 128.65557728859199, 120.57773570230374, 111.78348341942888, 128.67629851044404]
+Sau khi softmax: [0.11416601495641296, 0.10332460642196868, 0.10443758177056514, 0.11875449088793559, 0.11340340335764072, 0.1057227379697008, 0.1128054014260268, 0.12168005016473643, 0.10570571304501294]
+number of cluster heads =  39
+Selected done :  119.14070822890783   119.14070822890783
+current_energy =  4920.795797179149
+Timestep:  36  - Number of available nodes:  98 - Time K-connect:  35
+donedone
+check len =  10
+check len after add bridget =  72
+number of cluster heads =  72
+day ne
+prob =  0.04955114625730128
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+day ne
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+check len =  44
+check len after add bridget =  44
+number of cluster heads =  44
+Accepted
+check len =  41
+check len after add bridget =  41
+number of cluster heads =  41
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+Danh sách losses: [119.14070822890783, 131.64163270917177, 130.238747936436, 114.5373094633213, 119.94190187966076, 128.65557728859199, 120.57773570230374, 111.78348341942888, 128.67629851044404]
+Sau khi softmax: [0.11416601495641296, 0.10332460642196868, 0.10443758177056514, 0.11875449088793559, 0.11340340335764072, 0.1057227379697008, 0.1128054014260268, 0.12168005016473643, 0.10570571304501294]
+number of cluster heads =  47
+Selected done :  128.67629851044404   128.67629851044404
+current_energy =  4792.119498668703
+Timestep:  37  - Number of available nodes:  98 - Time K-connect:  36
+donedone
+check len =  10
+check len after add bridget =  65
+number of cluster heads =  65
+day ne
+prob =  0.9995721371261733
+rechoose!!
+check len =  49
+check len after add bridget =  49
+number of cluster heads =  49
+day ne
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+Accepted
+check len =  44
+check len after add bridget =  44
+number of cluster heads =  44
+Accepted
+check len =  41
+check len after add bridget =  41
+number of cluster heads =  41
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+Danh sách losses: [119.14070822890783, 131.64163270917177, 130.238747936436, 114.5373094633213, 119.94190187966076, 128.65557728859199, 120.57773570230374, 111.78348341942888, 128.67629851044404]
+Sau khi softmax: [0.11416601495641296, 0.10332460642196868, 0.10443758177056514, 0.11875449088793559, 0.11340340335764072, 0.1057227379697008, 0.1128054014260268, 0.12168005016473643, 0.10570571304501294]
+number of cluster heads =  46
+Selected done :  114.5373094633213   114.5373094633213
+current_energy =  4680.071127782901
+Timestep:  38  - Number of available nodes:  97 - Time K-connect:  37
+donedone
+check len =  10
+check len after add bridget =  43
+number of cluster heads =  43
+prob =  0.09538434300789778
+rechoose!!
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+day ne
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  48
+check len after add bridget =  48
+number of cluster heads =  48
+day ne
+check len =  43
+check len after add bridget =  43
+number of cluster heads =  43
+Accepted
+check len =  41
+check len after add bridget =  41
+number of cluster heads =  41
+Accepted
+check len =  45
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  43
+check len after add bridget =  43
+number of cluster heads =  43
+Accepted
+Danh sách losses: [118.65323799204204, 128.72597724560387, 115.09286373923833, 125.74573237643483, 119.78202914854334, 110.88890148781942, 128.18773033581968, 124.66975207038604]
+Sau khi softmax: [0.12764482519317136, 0.11765668559026875, 0.13159349177776858, 0.12044521546033705, 0.12644193733367753, 0.13658239562255964, 0.11815071373769347, 0.12148473528452376]
+number of cluster heads =  46
+Selected done :  115.09286373923833   115.09286373923833
+current_energy =  4569.881665812564
+Timestep:  39  - Number of available nodes:  96 - Time K-connect:  38
+donedone
+check len =  10
+check len after add bridget =  59
+number of cluster heads =  59
+day ne
+prob =  0.39063442490532463
+rechoose!!
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  44
+check len after add bridget =  44
+number of cluster heads =  44
+day ne
+check len =  44
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  43
+check len after add bridget =  43
+number of cluster heads =  43
+Accepted
+check len =  41
+check len after add bridget =  41
+number of cluster heads =  41
+Accepted
+check len =  44
+check len after add bridget =  44
+number of cluster heads =  44
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  43
+check len after add bridget =  43
+number of cluster heads =  43
+Accepted
+Danh sách losses: [117.95906619141755, 125.4602178391502, 112.23411455115765, 119.47514109285092, 125.42476577284577, 119.46106254495429, 108.3400866699832, 123.83116031527192, 123.97558026976155]
+Sau khi softmax: [0.11236877885710624, 0.10565035242300007, 0.11810059953990713, 0.11094287985965971, 0.10568021513190168, 0.11095595453521964, 0.12234544590548041, 0.10704023280276079, 0.10691554094496425]
+number of cluster heads =  46
+Selected done :  112.23411455115765   112.23411455115765
+current_energy =  4457.647551261406
+Timestep:  40  - Number of available nodes:  96 - Time K-connect:  39
+donedone
+check len =  10
+check len after add bridget =  57
+number of cluster heads =  57
+day ne
+prob =  0.22687412837307197
+rechoose!!
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  44
+check len after add bridget =  44
+number of cluster heads =  44
+day ne
+check len =  44
+check len after add bridget =  50
+number of cluster heads =  50
+day ne
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  47
+check len after add bridget =  47
+number of cluster heads =  47
+Accepted
+check len =  43
+check len after add bridget =  43
+number of cluster heads =  43
+Accepted
+check len =  41
+check len after add bridget =  41
+number of cluster heads =  41
+Accepted
+check len =  44
+check len after add bridget =  44
+number of cluster heads =  44
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  43
+check len after add bridget =  43
+number of cluster heads =  43
+Accepted
+Danh sách losses: [117.95906619141755, 112.23411455115765, 119.47514109285092, 125.42476577284577, 119.46106254495429, 108.3400866699832, 123.83116031527192, 123.97558026976155]
+Sau khi softmax: [0.1256430068056037, 0.1320519327758098, 0.1240486650385894, 0.11816431685103677, 0.12406328423768602, 0.13679822677511258, 0.11968499466931928, 0.11954557284684263]
+number of cluster heads =  39
+Selected done :  117.95906619141755   117.95906619141755
+current_energy =  4340.519593417757
+Timestep:  41  - Number of available nodes:  95 - Time K-connect:  40
+donedone
+check len =  10
+check len after add bridget =  46
+number of cluster heads =  46
+prob =  0.4966924613371637
+number of cluster heads =  46
+current_energy =  4239.281960836277
+energy_loss =  103.31550195970667
+Timestep:  42  - Number of available nodes:  94 - Time K-connect:  41
+donedone
+check len =  10
+check len after add bridget =  38
+number of cluster heads =  38
+prob =  0.9475639293666411
+number of cluster heads =  38
+current_energy =  4128.347352432049
+energy_loss =  110.9346084042313
+Timestep:  43  - Number of available nodes:  94 - Time K-connect:  42
+donedone
+check len =  10
+check len after add bridget =  65
+number of cluster heads =  65
+day ne
+prob =  0.2726057127393442
+rechoose!!
+check len =  43
+check len after add bridget =  47
+number of cluster heads =  47
+day ne
+check len =  45
+check len after add bridget =  59
+number of cluster heads =  59
+day ne
+check len =  45
+check len after add bridget =  48
+number of cluster heads =  48
+day ne
+check len =  42
+check len after add bridget =  42
+number of cluster heads =  42
+Accepted
+check len =  40
+check len after add bridget =  49
+number of cluster heads =  49
+day ne
+check len =  43
+check len after add bridget =  43
+number of cluster heads =  43
+Accepted
+check len =  44
+check len after add bridget =  49
+number of cluster heads =  49
+day ne
+check len =  42
+check len after add bridget =  42
+number of cluster heads =  42
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  38
+check len after add bridget =  38
+number of cluster heads =  38
+Accepted
+Danh sách losses: [124.65541300124164, 109.2594827216346, 122.76169058861629, 100.12617314743777, 110.93460840423131]
+Sau khi softmax: [0.18099532353165798, 0.2064996668354196, 0.18378735821541642, 0.2253361539002223, 0.20338149751728357]
+number of cluster heads =  38
+Selected done :  110.93460840423131   110.93460840423131
+current_energy =  4017.4127440278153
+Timestep:  44  - Number of available nodes:  94 - Time K-connect:  43
+donedone
+check len =  10
+check len after add bridget =  65
+number of cluster heads =  65
+day ne
+prob =  0.7626396197540637
+rechoose!!
+check len =  43
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  45
+check len after add bridget =  49
+number of cluster heads =  49
+day ne
+check len =  45
+check len after add bridget =  92
+number of cluster heads =  92
+day ne
+check len =  42
+check len after add bridget =  42
+number of cluster heads =  42
+Accepted
+check len =  40
+check len after add bridget =  50
+number of cluster heads =  50
+day ne
+check len =  43
+check len after add bridget =  43
+number of cluster heads =  43
+Accepted
+check len =  44
+check len after add bridget =  45
+number of cluster heads =  45
+Accepted
+check len =  42
+check len after add bridget =  42
+number of cluster heads =  42
+Accepted
+check len =  46
+check len after add bridget =  46
+number of cluster heads =  46
+Accepted
+check len =  38
+check len after add bridget =  38
+number of cluster heads =  38
+Accepted
+Danh sách losses: [129.9771684447275, 124.65541300124164, 109.2594827216346, 124.5255272622713, 122.76169058861629, 100.12617314743777, 110.93460840423131]
+Sau khi softmax: [0.12812864614528918, 0.13359867988231866, 0.15242428559501006, 0.13373802932740136, 0.13565957372563686, 0.16632812441456854, 0.15012266090977527]
+number of cluster heads =  45
+Selected done :  129.9771684447275   129.9771684447275
+current_energy =  3894.334122768814
+Timestep:  45  - Number of available nodes:  91 - Time K-connect:  44
+donedone
+check len =  10
+check len after add bridget =  69
+number of cluster heads =  69
+day ne
+prob =  0.8371292176472236
+rechoose!!
+check len =  42
+check len after add bridget =  50
+number of cluster heads =  50
+day ne
+check len =  45
+check len after add bridget =  58
+number of cluster heads =  58
+day ne
+check len =  43
+check len after add bridget =  68
+number of cluster heads =  68
+day ne
+check len =  40
+check len after add bridget =  40
+number of cluster heads =  40
+Accepted
+check len =  39
+check len after add bridget =  46
+number of cluster heads =  46
+day ne
+check len =  41
+check len after add bridget =  41
+number of cluster heads =  41
+Accepted
+check len =  43
+check len after add bridget =  50
+number of cluster heads =  50
+day ne
+check len =  40
+check len after add bridget =  40
+number of cluster heads =  40
+Accepted
+check len =  44
+check len after add bridget =  47
+number of cluster heads =  47
+day ne
+check len =  38
+check len after add bridget =  38
+number of cluster heads =  38
+Accepted
+Danh sách losses: [125.2385031898713, 108.56753692099474, 120.24632302528482, 105.73649057410064]
+Sau khi softmax: [0.22833605130641516, 0.26339793704308706, 0.23781571495045462, 0.2704502967000432]
+number of cluster heads =  40
+Selected done :  125.2385031898713   125.2385031898713
+current_energy =  3770.9731351260725
+Timestep:  46  - Number of available nodes:  90 - Time K-connect:  45
+donedone
+check len =  9
+check len after add bridget =  58
+number of cluster heads =  58
+day ne
+prob =  0.8782856001550067
+rechoose!!
+check len =  41
+check len after add bridget =  44
+number of cluster heads =  44
+day ne
+check len =  44
+check len after add bridget =  46
+number of cluster heads =  46
+day ne
+check len =  42
+check len after add bridget =  67
+number of cluster heads =  67
+day ne
+check len =  40
+check len after add bridget =  40
+number of cluster heads =  40
+Accepted
+check len =  39
+check len after add bridget =  40
+number of cluster heads =  40
+Accepted
+check len =  41
+check len after add bridget =  41
+number of cluster heads =  41
+Accepted
+check len =  43
+check len after add bridget =  51
+number of cluster heads =  51
+day ne
+check len =  40
+check len after add bridget =  40
+number of cluster heads =  40
+Accepted
+check len =  44
+check len after add bridget =  49
+number of cluster heads =  49
+day ne
+check len =  37
+check len after add bridget =  37
+number of cluster heads =  37
+Accepted
+Danh sách losses: [124.29087775629871, 111.52260082815478, 107.21813793586624, 119.37964081723756, 106.51979092841391]
+Sau khi softmax: [0.1824252436557833, 0.20331119853397317, 0.2114734882207926, 0.18993015472454938, 0.21285991486490158]
+number of cluster heads =  37
+Selected done :  106.51979092841391   106.51979092841391
+current_energy =  3666.37774499383
+Timestep:  47  - Number of available nodes:  87 - Time K-connect:  46
+donedone
+check len =  9
+check len after add bridget =  48
+number of cluster heads =  48
+day ne
+prob =  0.1627874857444933
+rechoose!!
+check len =  40
+check len after add bridget =  44
+number of cluster heads =  44
+day ne
+check len =  43
+check len after add bridget =  47
+number of cluster heads =  47
+day ne
+check len =  42
+check len after add bridget =  58
+number of cluster heads =  58
+day ne
+check len =  38
+check len after add bridget =  41
+number of cluster heads =  41
+Accepted
+check len =  38
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  40
+check len after add bridget =  40
+number of cluster heads =  40
+Accepted
+check len =  43
+check len after add bridget =  57
+number of cluster heads =  57
+day ne
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  43
+check len after add bridget =  54
+number of cluster heads =  54
+day ne
+check len =  36
+check len after add bridget =  36
+number of cluster heads =  36
+Accepted
+Danh sách losses: [106.81951614891325, 105.00038824948894, 105.3521998830452, 121.1221459703982, 99.65178556465298]
+Sau khi softmax: [0.2005979380905055, 0.20407329002353852, 0.2033918105961834, 0.17691046124811724, 0.21502650004165544]
+number of cluster heads =  36
+Selected done :  99.65178556465298   99.65178556465298
+current_energy =  3568.7597450530043
+Timestep:  48  - Number of available nodes:  86 - Time K-connect:  47
+donedone
+check len =  9
+check len after add bridget =  43
+number of cluster heads =  43
+day ne
+prob =  0.8155760066748597
+rechoose!!
+check len =  40
+check len after add bridget =  44
+number of cluster heads =  44
+day ne
+check len =  43
+check len after add bridget =  62
+number of cluster heads =  62
+day ne
+check len =  41
+check len after add bridget =  57
+number of cluster heads =  57
+day ne
+check len =  37
+check len after add bridget =  54
+number of cluster heads =  54
+day ne
+check len =  37
+check len after add bridget =  54
+number of cluster heads =  54
+day ne
+check len =  40
+check len after add bridget =  40
+number of cluster heads =  40
+Accepted
+check len =  43
+check len after add bridget =  56
+number of cluster heads =  56
+day ne
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  43
+check len after add bridget =  51
+number of cluster heads =  51
+day ne
+check len =  36
+check len after add bridget =  36
+number of cluster heads =  36
+Accepted
+Danh sách losses: [106.40719638112645, 120.62108247404197, 98.92175191606599]
+Sau khi softmax: [0.33808555325016404, 0.2982458386235555, 0.3636686081262804]
+number of cluster heads =  36
+Selected done :  98.92175191606599   98.92175191606599
+current_energy =  3469.837993136938
+Timestep:  49  - Number of available nodes:  86 - Time K-connect:  48
+donedone
+check len =  9
+check len after add bridget =  52
+number of cluster heads =  52
+day ne
+prob =  0.37299045906421324
+rechoose!!
+check len =  40
+check len after add bridget =  43
+number of cluster heads =  43
+day ne
+check len =  43
+check len after add bridget =  57
+number of cluster heads =  57
+day ne
+check len =  41
+check len after add bridget =  51
+number of cluster heads =  51
+day ne
+check len =  37
+check len after add bridget =  43
+number of cluster heads =  43
+day ne
+check len =  37
+check len after add bridget =  46
+number of cluster heads =  46
+day ne
+check len =  40
+check len after add bridget =  40
+number of cluster heads =  40
+Accepted
+check len =  43
+check len after add bridget =  57
+number of cluster heads =  57
+day ne
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  43
+check len after add bridget =  55
+number of cluster heads =  55
+day ne
+check len =  36
+check len after add bridget =  36
+number of cluster heads =  36
+Accepted
+Danh sách losses: [106.40719638112645, 120.62108247404197, 98.92175191606599]
+Sau khi softmax: [0.33808555325016404, 0.2982458386235555, 0.3636686081262804]
+number of cluster heads =  36
+Selected done :  98.92175191606599   98.92175191606599
+current_energy =  3370.916241220874
+Timestep:  50  - Number of available nodes:  86 - Time K-connect:  49
+donedone
+check len =  9
+check len after add bridget =  66
+number of cluster heads =  66
+day ne
+prob =  0.562564048981109
+rechoose!!
+check len =  40
+check len after add bridget =  45
+number of cluster heads =  45
+day ne
+check len =  43
+check len after add bridget =  54
+number of cluster heads =  54
+day ne
+check len =  41
+check len after add bridget =  45
+number of cluster heads =  45
+day ne
+check len =  37
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  37
+check len after add bridget =  43
+number of cluster heads =  43
+day ne
+check len =  40
+check len after add bridget =  40
+number of cluster heads =  40
+Accepted
+check len =  43
+check len after add bridget =  57
+number of cluster heads =  57
+day ne
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  43
+check len after add bridget =  55
+number of cluster heads =  55
+day ne
+check len =  36
+check len after add bridget =  36
+number of cluster heads =  36
+Accepted
+Danh sách losses: [105.39518593158763, 106.40719638112645, 120.62108247404197, 98.92175191606599]
+Sau khi softmax: [0.25447234744429237, 0.2520521288775925, 0.22235051995352775, 0.2711250037245874]
+number of cluster heads =  39
+Selected done :  120.62108247404197   120.62108247404197
+current_energy =  3250.29515874683
+Timestep:  51  - Number of available nodes:  86 - Time K-connect:  50
+donedone
+check len =  9
+check len after add bridget =  52
+number of cluster heads =  52
+day ne
+prob =  0.1627236944849877
+rechoose!!
+check len =  40
+check len after add bridget =  45
+number of cluster heads =  45
+day ne
+check len =  43
+check len after add bridget =  52
+number of cluster heads =  52
+day ne
+check len =  41
+check len after add bridget =  70
+number of cluster heads =  70
+day ne
+check len =  37
+check len after add bridget =  41
+number of cluster heads =  41
+day ne
+check len =  37
+check len after add bridget =  49
+number of cluster heads =  49
+day ne
+check len =  40
+check len after add bridget =  40
+number of cluster heads =  40
+Accepted
+check len =  43
+check len after add bridget =  50
+number of cluster heads =  50
+day ne
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  43
+check len after add bridget =  54
+number of cluster heads =  54
+day ne
+check len =  36
+check len after add bridget =  36
+number of cluster heads =  36
+Accepted
+Danh sách losses: [106.40719638112645, 120.62108247404197, 98.92175191606599]
+Sau khi softmax: [0.33808555325016404, 0.2982458386235555, 0.3636686081262804]
+number of cluster heads =  36
+Selected done :  98.92175191606599   98.92175191606599
+current_energy =  3152.2355312037607
+Timestep:  52  - Number of available nodes:  84 - Time K-connect:  51
+donedone
+check len =  9
+check len after add bridget =  55
+number of cluster heads =  55
+day ne
+prob =  0.7876335322512608
+rechoose!!
+check len =  39
+check len after add bridget =  46
+number of cluster heads =  46
+day ne
+check len =  42
+check len after add bridget =  44
+number of cluster heads =  44
+day ne
+check len =  41
+check len after add bridget =  53
+number of cluster heads =  53
+day ne
+check len =  37
+check len after add bridget =  53
+number of cluster heads =  53
+day ne
+check len =  36
+check len after add bridget =  52
+number of cluster heads =  52
+day ne
+check len =  40
+check len after add bridget =  40
+number of cluster heads =  40
+Accepted
+check len =  43
+check len after add bridget =  54
+number of cluster heads =  54
+day ne
+check len =  38
+check len after add bridget =  38
+number of cluster heads =  38
+Accepted
+check len =  42
+check len after add bridget =  51
+number of cluster heads =  51
+day ne
+check len =  35
+check len after add bridget =  35
+number of cluster heads =  35
+Accepted
+Danh sách losses: [107.81184442558364, 118.02296646236171, 100.19475011539623]
+Sau khi softmax: [0.3345035611486723, 0.30556295104483616, 0.35993348780649154]
+number of cluster heads =  40
+Selected done :  107.81184442558364   107.81184442558364
+current_energy =  3047.4864758621875
+Timestep:  53  - Number of available nodes:  83 - Time K-connect:  52
+donedone
+check len =  9
+check len after add bridget =  49
+number of cluster heads =  49
+day ne
+prob =  0.9641155403309994
+rechoose!!
+check len =  39
+check len after add bridget =  43
+number of cluster heads =  43
+day ne
+check len =  41
+check len after add bridget =  44
+number of cluster heads =  44
+day ne
+check len =  41
+check len after add bridget =  51
+number of cluster heads =  51
+day ne
+check len =  36
+check len after add bridget =  43
+number of cluster heads =  43
+day ne
+check len =  36
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  40
+check len after add bridget =  40
+number of cluster heads =  40
+Accepted
+check len =  43
+check len after add bridget =  51
+number of cluster heads =  51
+day ne
+check len =  37
+check len after add bridget =  40
+number of cluster heads =  40
+Accepted
+check len =  42
+check len after add bridget =  50
+number of cluster heads =  50
+day ne
+check len =  35
+check len after add bridget =  35
+number of cluster heads =  35
+Accepted
+Danh sách losses: [100.6874796598473, 103.30850810975916, 115.46742481542258, 98.72819897325445]
+Sau khi softmax: [0.2586336223111648, 0.2520718580574468, 0.22552826184996178, 0.2637662577814265]
+number of cluster heads =  35
+Selected done :  98.72819897325445   98.72819897325445
+current_energy =  2950.2092511043425
+Timestep:  54  - Number of available nodes:  82 - Time K-connect:  53
+donedone
+check len =  9
+check len after add bridget =  55
+number of cluster heads =  55
+day ne
+prob =  0.36833955129240903
+rechoose!!
+check len =  38
+check len after add bridget =  49
+number of cluster heads =  49
+day ne
+check len =  40
+check len after add bridget =  46
+number of cluster heads =  46
+day ne
+check len =  40
+check len after add bridget =  63
+number of cluster heads =  63
+day ne
+check len =  36
+check len after add bridget =  54
+number of cluster heads =  54
+day ne
+check len =  36
+check len after add bridget =  41
+number of cluster heads =  41
+day ne
+check len =  39
+check len after add bridget =  39
+number of cluster heads =  39
+Accepted
+check len =  42
+check len after add bridget =  45
+number of cluster heads =  45
+day ne
+check len =  37
+check len after add bridget =  41
+number of cluster heads =  41
+day ne
+check len =  41
+check len after add bridget =  69
+number of cluster heads =  69
+day ne
+check len =  35
+check len after add bridget =  35
+number of cluster heads =  35
+Accepted
+Danh sách losses: [101.86690826042366, 95.95305442909859]
+Sau khi softmax: [0.4850524343167111, 0.514947565683289]
+number of cluster heads =  35
+Selected done :  95.95305442909859   95.95305442909859
+current_energy =  2858.0772432960835
+Timestep:  55  - Number of available nodes:  79 - Time K-connect:  54
+donedone
+check len =  8
+check len after add bridget =  57
+number of cluster heads =  57
+day ne
+prob =  0.7558785730846981
+rechoose!!
+check len =  38
+check len after add bridget =  45
+number of cluster heads =  45
+day ne
+check len =  40
+check len after add bridget =  46
+number of cluster heads =  46
+day ne
+check len =  38
+check len after add bridget =  62
+number of cluster heads =  62
+day ne
+check len =  35
+check len after add bridget =  41
+number of cluster heads =  41
+day ne
+check len =  34
+check len after add bridget =  54
+number of cluster heads =  54
+day ne
+check len =  37
+check len after add bridget =  37
+number of cluster heads =  37
+Accepted
+check len =  41
+check len after add bridget =  55
+number of cluster heads =  55
+day ne
+check len =  36
+check len after add bridget =  37
+number of cluster heads =  37
+Accepted
+check len =  40
+check len after add bridget =  53
+number of cluster heads =  53
+day ne
+check len =  33
+check len after add bridget =  39
+number of cluster heads =  39
+day ne
+Danh sách losses: [96.44344241054984, 102.52139250053733]
+Sau khi softmax: [0.515273930269155, 0.484726069730845]
+number of cluster heads =  37
+Selected done :  102.52139250053733   102.52139250053733
+current_energy =  2758.957044502604
+Timestep:  56  - Number of available nodes:  77 - Time K-connect:  55
+donedone
+check len =  8
+check len after add bridget =  58
+number of cluster heads =  58
+day ne
+prob =  0.5326488939313306
+rechoose!!
+check len =  38
+check len after add bridget =  44
+number of cluster heads =  44
+day ne
+check len =  39
+check len after add bridget =  54
+number of cluster heads =  54
+day ne
+check len =  37
+check len after add bridget =  49
+number of cluster heads =  49
+day ne
+check len =  35
+check len after add bridget =  37
+number of cluster heads =  37
+day ne
+check len =  34
+check len after add bridget =  42
+number of cluster heads =  42
+day ne
+check len =  37
+check len after add bridget =  37
+number of cluster heads =  37
+Accepted
+check len =  40
+check len after add bridget =  49
+number of cluster heads =  49
+day ne
+check len =  35
+check len after add bridget =  38
+number of cluster heads =  38
+day ne
+check len =  40
+check len after add bridget =  47
+number of cluster heads =  47
+day ne
+check len =  32
+check len after add bridget =  45
+number of cluster heads =  45
+day ne
+Danh sách losses: [100.0397264084222]
+Sau khi softmax: [1.0]
+number of cluster heads =  37
+Selected done :  100.0397264084222   100.0397264084222
+current_energy =  2663.7866790081885
+Timestep:  57  - Number of available nodes:  74 - Time K-connect:  56
+donedone
+check len =  8
+check len after add bridget =  72
+number of cluster heads =  72
+day ne
+prob =  0.6829865398278846
+rechoose!!
+check len =  36
+check len after add bridget =  49
+number of cluster heads =  49
+day ne
+check len =  36
+check len after add bridget =  49
+number of cluster heads =  49
+day ne
+check len =  35
+check len after add bridget =  62
+number of cluster heads =  62
+day ne
+check len =  33
+check len after add bridget =  36
+number of cluster heads =  36
+day ne
+check len =  34
+check len after add bridget =  56
+number of cluster heads =  56
+day ne
+check len =  36
+check len after add bridget =  45
+number of cluster heads =  45
+day ne
+check len =  39
+check len after add bridget =  58
+number of cluster heads =  58
+day ne
+check len =  34
+check len after add bridget =  42
+number of cluster heads =  42
+day ne
+check len =  39
+check len after add bridget =  53
+number of cluster heads =  53
+day ne
+check len =  31
+check len after add bridget =  57
+number of cluster heads =  57
+day ne
+No valid candidates found with is_k_connect == True
+number of cluster heads =  72
+day ne
+current_energy =  2501.068798755017
+energy_loss =  174.1272066700433
+Timestep:  58  - Number of available nodes:  70 - Time K-connect:  56
+donedone
+check len =  7
+check len after add bridget =  55
+number of cluster heads =  55
+day ne
+prob =  0.04686271044614354
+rechoose!!
+check len =  35
+check len after add bridget =  63
+number of cluster heads =  63
+day ne
+check len =  35
+check len after add bridget =  40
+number of cluster heads =  40
+day ne
+check len =  34
+check len after add bridget =  63
+number of cluster heads =  63
+day ne
+check len =  30
+check len after add bridget =  58
+number of cluster heads =  58
+day ne
+check len =  31
+check len after add bridget =  51
+number of cluster heads =  51
+day ne
+check len =  35
+check len after add bridget =  51
+number of cluster heads =  51
+day ne
+check len =  38
+check len after add bridget =  64
+number of cluster heads =  64
+day ne
+check len =  33
+check len after add bridget =  57
+number of cluster heads =  57
+day ne
+check len =  37
+check len after add bridget =  57
+number of cluster heads =  57
+day ne
+check len =  31
+check len after add bridget =  55
+number of cluster heads =  55
+day ne
+No valid candidates found with is_k_connect == True
+number of cluster heads =  55
+day ne
+current_energy =  2334.866351140164
+energy_loss =  185.32931968251606
+Timestep:  59  - Number of available nodes:  65 - Time K-connect:  56
+donedone
+check len =  7
+this this this
+check len after add bridget =  8
+thisthis
+number of cluster heads =  8
+day ne
+current_energy =  1942.7144718579784
+energy_loss =  423.3326675124441
+Timestep:  60  - Number of available nodes:  60 - Time K-connect:  56
+donedone
+check len =  6
+this this this
+check len after add bridget =  9
+thisthis
+number of cluster heads =  9
+day ne
+current_energy =  1589.601276410419
+energy_loss =  381.26096359184805
+Timestep:  61  - Number of available nodes:  53 - Time K-connect:  56
+donedone
+check len =  6
+this this this
+check len after add bridget =  7
+thisthis
+number of cluster heads =  7
+day ne
+current_energy =  1260.7339114440101
+energy_loss =  369.10857892300965
+Timestep:  62  - Number of available nodes:  44 - Time K-connect:  56
+donedone
+check len =  6
+this this this
+check len after add bridget =  8
+thisthis
+number of cluster heads =  8
+day ne
+current_energy =  989.7996629771279
+energy_loss =  297.7708620471506
+Timestep:  63  - Number of available nodes:  40 - Time K-connect:  56
+donedone
+check len =  10
+this this this
+check len after add bridget =  10
+thisthis
+number of cluster heads =  10
+day ne
+current_energy =  770.7943087508792
+energy_loss =  275.45611845941966
+Timestep:  64  - Number of available nodes:  29 - Time K-connect:  56
+donedone
+check len =  7
+this this this
+check len after add bridget =  7
+thisthis
+number of cluster heads =  7
+day ne
+current_energy =  611.1820390653203
+energy_loss =  210.70236340812582
+Timestep:  65  - Number of available nodes:  19 - Time K-connect:  56

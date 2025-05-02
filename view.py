@@ -17,19 +17,25 @@ def read_data(file_path):
     
     return timesteps, node_counts
 
-# Đọc dữ liệu từ hai file
-fmc_timesteps, fmc_nodes = read_data("FMC_log.txt")
-leach_timesteps, leach_nodes = read_data("LEACH_log.txt")
+# Danh sách các file và nhãn tương ứng
+files = [
+    ("FMC_log.txt", "FMC", 'red', 'o'),
+    ("LEACH.txt", "LEACH", 'blue', 's'),
+    ("I_LEACH1.txt", "LEACH_2018", 'green', '^'),
+    ("I_LEACH2.txt", "LEACH_2016", 'purple', 'd')
+]
 
-# Vẽ biểu đồ so sánh
+# Vẽ biểu đồ
 plt.figure(figsize=(10, 5))
-plt.plot(fmc_timesteps, fmc_nodes, label='FMC', color='red', markersize=2, marker='o')
-plt.plot(leach_timesteps, leach_nodes, label='LEACH', color='blue', markersize=2,  marker='s')
+
+for file_path, label, color, marker in files:
+    timesteps, node_counts = read_data(file_path)
+    plt.plot(timesteps, node_counts, label=label, color=color, marker=marker, markersize=2)
 
 # Định dạng biểu đồ
 plt.xlabel("Timestep")
 plt.ylabel("Number of available nodes")
-plt.title("Comparison of FMC and LEACH over time")
+plt.title("Comparison of Clustering Protocols Over Time")
 plt.legend()
 plt.grid()
 

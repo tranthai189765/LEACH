@@ -17,21 +17,28 @@ def read_k_connect_data(file_path):
     
     return timesteps, k_connect_times
 
-# Đọc dữ liệu từ hai file log
-fmc_timesteps, fmc_kconnect = read_k_connect_data("FMC_log.txt")
-leach_timesteps, leach_kconnect = read_k_connect_data("LEACH_log.txt")
+# Danh sách các file và nhãn tương ứng
+files = [
+    ("FMC_log.txt", "FMC", 'red', 'o'),
+    ("LEACH.txt", "LEACH", 'blue', 's'),
+    ("I_LEACH1.txt", "LEACH_2018", 'green', '^'),
+    ("I_LEACH2.txt", "LEACH_2016", 'purple', 'd')
+]
 
-# Vẽ biểu đồ so sánh Time K-connect
+# Vẽ biểu đồ
 plt.figure(figsize=(10, 5))
-plt.plot(fmc_timesteps, fmc_kconnect, label='FMC', color='red', marker='o', markersize=2)
-plt.plot(leach_timesteps, leach_kconnect, label='LEACH', color='blue', marker='s', markersize=2)
+
+for file_path, label, color, marker in files:
+    timesteps, node_counts = read_k_connect_data(file_path)
+    plt.plot(timesteps, node_counts, label=label, color=color, marker=marker, markersize=2)
 
 # Định dạng biểu đồ
 plt.xlabel("Timestep")
-plt.ylabel("Time K-connect")
-plt.title("Comparison of Time K-connect between FMC and LEACH")
+plt.ylabel("Number of available nodes")
+plt.title("Comparison of Clustering Protocols Over Time")
 plt.legend()
 plt.grid()
 
 # Hiển thị biểu đồ
 plt.show()
+

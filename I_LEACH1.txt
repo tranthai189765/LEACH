@@ -1,0 +1,836 @@
+current_energy =  992928.1098331395
+energy_loss =  7071.890166860476
+Timestep:  0  - Number of available nodes:  1000 - Time K-connect:  0
+number of cluster heads =  642
+day ne
+current_energy =  985470.8888180403
+energy_loss =  7457.22101509923
+Timestep:  1  - Number of available nodes:  1000 - Time K-connect:  0
+number of cluster heads =  492
+day ne
+current_energy =  974271.3269006293
+energy_loss =  11199.561917412497
+Timestep:  2  - Number of available nodes:  1000 - Time K-connect:  0
+number of cluster heads =  446
+current_energy =  970419.3475490074
+energy_loss =  3851.979351619935
+Timestep:  3  - Number of available nodes:  1000 - Time K-connect:  1
+number of cluster heads =  343
+current_energy =  966602.0788023998
+energy_loss =  3817.268746608482
+Timestep:  4  - Number of available nodes:  1000 - Time K-connect:  2
+number of cluster heads =  514
+day ne
+current_energy =  956637.2329018535
+energy_loss =  9964.845900545724
+Timestep:  5  - Number of available nodes:  1000 - Time K-connect:  2
+number of cluster heads =  481
+current_energy =  952791.6706540572
+energy_loss =  3845.562247795582
+Timestep:  6  - Number of available nodes:  1000 - Time K-connect:  3
+number of cluster heads =  515
+day ne
+current_energy =  942602.6949939249
+energy_loss =  10188.975660133277
+Timestep:  7  - Number of available nodes:  1000 - Time K-connect:  3
+number of cluster heads =  350
+current_energy =  938704.2565527722
+energy_loss =  3898.4384411539245
+Timestep:  8  - Number of available nodes:  1000 - Time K-connect:  4
+number of cluster heads =  436
+current_energy =  934844.817360144
+energy_loss =  3859.439192627176
+Timestep:  9  - Number of available nodes:  1000 - Time K-connect:  5
+number of cluster heads =  348
+current_energy =  930999.215835819
+energy_loss =  3845.6015243255606
+Timestep:  10  - Number of available nodes:  1000 - Time K-connect:  6
+number of cluster heads =  492
+day ne
+current_energy =  919819.177145743
+energy_loss =  11180.03869007635
+Timestep:  11  - Number of available nodes:  1000 - Time K-connect:  6
+number of cluster heads =  302
+current_energy =  915817.4845237323
+energy_loss =  4001.69262201037
+Timestep:  12  - Number of available nodes:  1000 - Time K-connect:  7
+number of cluster heads =  424
+current_energy =  911869.7404874171
+energy_loss =  3947.744036314869
+Timestep:  13  - Number of available nodes:  1000 - Time K-connect:  8
+number of cluster heads =  442
+current_energy =  908122.0976560874
+energy_loss =  3747.642831328937
+Timestep:  14  - Number of available nodes:  1000 - Time K-connect:  9
+number of cluster heads =  384
+current_energy =  904266.8948170888
+energy_loss =  3855.2028389996144
+Timestep:  15  - Number of available nodes:  1000 - Time K-connect:  10
+number of cluster heads =  378
+current_energy =  900275.8918829972
+energy_loss =  3991.002934091912
+Timestep:  16  - Number of available nodes:  1000 - Time K-connect:  11
+number of cluster heads =  584
+day ne
+current_energy =  891863.7818978913
+energy_loss =  8412.109985105251
+Timestep:  17  - Number of available nodes:  1000 - Time K-connect:  11
+number of cluster heads =  471
+day ne
+current_energy =  880167.3543237781
+energy_loss =  11696.427574114263
+Timestep:  18  - Number of available nodes:  1000 - Time K-connect:  11
+number of cluster heads =  385
+current_energy =  876452.0480757949
+energy_loss =  3715.3062479821065
+Timestep:  19  - Number of available nodes:  1000 - Time K-connect:  12
+number of cluster heads =  402
+current_energy =  872762.2467814488
+energy_loss =  3689.8012943447357
+Timestep:  20  - Number of available nodes:  1000 - Time K-connect:  13
+number of cluster heads =  378
+current_energy =  869060.89519973
+energy_loss =  3701.3515817199277
+Timestep:  21  - Number of available nodes:  1000 - Time K-connect:  14
+number of cluster heads =  670
+day ne
+current_energy =  861799.6657663729
+energy_loss =  7261.229433356929
+Timestep:  22  - Number of available nodes:  1000 - Time K-connect:  14
+number of cluster heads =  298
+current_energy =  857860.0385962358
+energy_loss =  3939.6271701383544
+Timestep:  23  - Number of available nodes:  1000 - Time K-connect:  15
+number of cluster heads =  301
+current_energy =  853940.9540944537
+energy_loss =  3919.08450178194
+Timestep:  24  - Number of available nodes:  1000 - Time K-connect:  16
+number of cluster heads =  441
+current_energy =  850170.8783788851
+energy_loss =  3770.075715567188
+Timestep:  25  - Number of available nodes:  1000 - Time K-connect:  17
+number of cluster heads =  596
+day ne
+current_energy =  842194.1100923832
+energy_loss =  7976.76828650224
+Timestep:  26  - Number of available nodes:  1000 - Time K-connect:  17
+number of cluster heads =  419
+current_energy =  838393.7948355873
+energy_loss =  3800.3152567963575
+Timestep:  27  - Number of available nodes:  1000 - Time K-connect:  18
+number of cluster heads =  613
+day ne
+current_energy =  830650.550911071
+energy_loss =  7743.243924515796
+Timestep:  28  - Number of available nodes:  1000 - Time K-connect:  18
+number of cluster heads =  585
+day ne
+current_energy =  822318.6835750238
+energy_loss =  8331.867336047064
+Timestep:  29  - Number of available nodes:  1000 - Time K-connect:  18
+number of cluster heads =  556
+day ne
+current_energy =  813414.0939857807
+energy_loss =  8904.589589243613
+Timestep:  30  - Number of available nodes:  1000 - Time K-connect:  18
+number of cluster heads =  528
+day ne
+current_energy =  803394.07477618
+energy_loss =  10020.019209600332
+Timestep:  31  - Number of available nodes:  1000 - Time K-connect:  18
+number of cluster heads =  589
+day ne
+current_energy =  795173.4492879153
+energy_loss =  8220.62548826616
+Timestep:  32  - Number of available nodes:  1000 - Time K-connect:  18
+number of cluster heads =  412
+current_energy =  791350.6315627904
+energy_loss =  3822.8177251239263
+Timestep:  33  - Number of available nodes:  1000 - Time K-connect:  19
+number of cluster heads =  517
+day ne
+current_energy =  781201.6294575167
+energy_loss =  10149.002105274072
+Timestep:  34  - Number of available nodes:  1000 - Time K-connect:  19
+number of cluster heads =  754
+day ne
+current_energy =  774620.3953887114
+energy_loss =  6581.234068805131
+Timestep:  35  - Number of available nodes:  1000 - Time K-connect:  19
+number of cluster heads =  426
+current_energy =  770766.0658637289
+energy_loss =  3854.329524981865
+Timestep:  36  - Number of available nodes:  1000 - Time K-connect:  20
+number of cluster heads =  356
+current_energy =  766751.5252462357
+energy_loss =  4014.5406174938144
+Timestep:  37  - Number of available nodes:  1000 - Time K-connect:  21
+number of cluster heads =  405
+current_energy =  762859.8200811457
+energy_loss =  3891.7051650893504
+Timestep:  38  - Number of available nodes:  1000 - Time K-connect:  22
+number of cluster heads =  388
+current_energy =  759070.3202533745
+energy_loss =  3789.4998277721297
+Timestep:  39  - Number of available nodes:  1000 - Time K-connect:  23
+number of cluster heads =  385
+current_energy =  755407.5860958241
+energy_loss =  3662.734157550629
+Timestep:  40  - Number of available nodes:  1000 - Time K-connect:  24
+number of cluster heads =  445
+current_energy =  751619.2018588331
+energy_loss =  3788.384236990971
+Timestep:  41  - Number of available nodes:  1000 - Time K-connect:  25
+number of cluster heads =  402
+current_energy =  747955.2209554442
+energy_loss =  3663.9809033887846
+Timestep:  42  - Number of available nodes:  1000 - Time K-connect:  26
+number of cluster heads =  416
+current_energy =  744210.9120050002
+energy_loss =  3744.3089504429936
+Timestep:  43  - Number of available nodes:  1000 - Time K-connect:  27
+number of cluster heads =  427
+current_energy =  740231.6356431076
+energy_loss =  3979.2763618936388
+Timestep:  44  - Number of available nodes:  1000 - Time K-connect:  28
+number of cluster heads =  316
+current_energy =  736327.5639180508
+energy_loss =  3904.0717250554844
+Timestep:  45  - Number of available nodes:  1000 - Time K-connect:  29
+number of cluster heads =  493
+day ne
+current_energy =  725275.8203019295
+energy_loss =  11051.743616123274
+Timestep:  46  - Number of available nodes:  1000 - Time K-connect:  29
+number of cluster heads =  305
+current_energy =  721459.7940034781
+energy_loss =  3816.0262984499122
+Timestep:  47  - Number of available nodes:  1000 - Time K-connect:  30
+number of cluster heads =  356
+current_energy =  717376.2601593354
+energy_loss =  4083.5338441422155
+Timestep:  48  - Number of available nodes:  1000 - Time K-connect:  31
+number of cluster heads =  629
+day ne
+current_energy =  709808.5521039315
+energy_loss =  7567.708055404782
+Timestep:  49  - Number of available nodes:  1000 - Time K-connect:  31
+number of cluster heads =  754
+day ne
+current_energy =  703221.5578248833
+energy_loss =  6586.994279049138
+Timestep:  50  - Number of available nodes:  1000 - Time K-connect:  31
+number of cluster heads =  353
+current_energy =  699279.0214125878
+energy_loss =  3942.5364122938663
+Timestep:  51  - Number of available nodes:  1000 - Time K-connect:  32
+number of cluster heads =  372
+current_energy =  695402.858562802
+energy_loss =  3876.162849786726
+Timestep:  52  - Number of available nodes:  1000 - Time K-connect:  33
+number of cluster heads =  575
+day ne
+current_energy =  686958.9533670632
+energy_loss =  8443.905195738804
+Timestep:  53  - Number of available nodes:  1000 - Time K-connect:  33
+number of cluster heads =  444
+current_energy =  683085.8610265141
+energy_loss =  3873.0923405492117
+Timestep:  54  - Number of available nodes:  1000 - Time K-connect:  34
+number of cluster heads =  317
+current_energy =  679201.3310101837
+energy_loss =  3884.5300163301354
+Timestep:  55  - Number of available nodes:  1000 - Time K-connect:  35
+number of cluster heads =  400
+current_energy =  675286.1181497257
+energy_loss =  3915.212860457931
+Timestep:  56  - Number of available nodes:  1000 - Time K-connect:  36
+number of cluster heads =  349
+current_energy =  671444.9324851413
+energy_loss =  3841.185664584734
+Timestep:  57  - Number of available nodes:  1000 - Time K-connect:  37
+number of cluster heads =  554
+day ne
+current_energy =  662749.8218209699
+energy_loss =  8695.110664170776
+Timestep:  58  - Number of available nodes:  1000 - Time K-connect:  37
+number of cluster heads =  345
+current_energy =  658939.0137535436
+energy_loss =  3810.8080674273842
+Timestep:  59  - Number of available nodes:  1000 - Time K-connect:  38
+number of cluster heads =  469
+current_energy =  655461.716906207
+energy_loss =  3477.2968473369965
+Timestep:  60  - Number of available nodes:  1000 - Time K-connect:  39
+number of cluster heads =  349
+current_energy =  651599.1673526339
+energy_loss =  3862.5495535718655
+Timestep:  61  - Number of available nodes:  1000 - Time K-connect:  40
+number of cluster heads =  337
+current_energy =  647654.1879437729
+energy_loss =  3944.9794088609065
+Timestep:  62  - Number of available nodes:  1000 - Time K-connect:  41
+number of cluster heads =  608
+day ne
+current_energy =  639739.4463222614
+energy_loss =  7914.741621511769
+Timestep:  63  - Number of available nodes:  1000 - Time K-connect:  41
+number of cluster heads =  396
+current_energy =  635901.7001124508
+energy_loss =  3837.746209809462
+Timestep:  64  - Number of available nodes:  1000 - Time K-connect:  42
+number of cluster heads =  432
+current_energy =  632033.6193907277
+energy_loss =  3868.080721723315
+Timestep:  65  - Number of available nodes:  1000 - Time K-connect:  43
+number of cluster heads =  351
+current_energy =  628007.0766601798
+energy_loss =  4026.5427305484486
+Timestep:  66  - Number of available nodes:  1000 - Time K-connect:  44
+number of cluster heads =  375
+current_energy =  624101.1401785734
+energy_loss =  3905.9364816069574
+Timestep:  67  - Number of available nodes:  1000 - Time K-connect:  45
+number of cluster heads =  470
+current_energy =  620083.7831685558
+energy_loss =  4017.3570100174916
+Timestep:  68  - Number of available nodes:  1000 - Time K-connect:  46
+number of cluster heads =  440
+day ne
+current_energy =  608632.7949737709
+energy_loss =  11450.988194784955
+Timestep:  69  - Number of available nodes:  1000 - Time K-connect:  46
+number of cluster heads =  350
+current_energy =  604843.0906107803
+energy_loss =  3789.7043629917234
+Timestep:  70  - Number of available nodes:  1000 - Time K-connect:  47
+number of cluster heads =  399
+current_energy =  601020.6018688189
+energy_loss =  3822.4887419608053
+Timestep:  71  - Number of available nodes:  1000 - Time K-connect:  48
+number of cluster heads =  362
+current_energy =  597167.3709990486
+energy_loss =  3853.2308697692993
+Timestep:  72  - Number of available nodes:  1000 - Time K-connect:  49
+number of cluster heads =  306
+current_energy =  593375.2763299721
+energy_loss =  3792.094669076584
+Timestep:  73  - Number of available nodes:  1000 - Time K-connect:  50
+number of cluster heads =  404
+current_energy =  589550.310090113
+energy_loss =  3824.9662398592127
+Timestep:  74  - Number of available nodes:  1000 - Time K-connect:  51
+number of cluster heads =  340
+current_energy =  585547.2064058128
+energy_loss =  4003.103684299744
+Timestep:  75  - Number of available nodes:  1000 - Time K-connect:  52
+number of cluster heads =  507
+day ne
+current_energy =  574696.582320901
+energy_loss =  10850.62408491311
+Timestep:  76  - Number of available nodes:  1000 - Time K-connect:  52
+number of cluster heads =  358
+current_energy =  570880.6934826465
+energy_loss =  3815.888838253567
+Timestep:  77  - Number of available nodes:  1000 - Time K-connect:  53
+number of cluster heads =  533
+day ne
+current_energy =  561184.0502905266
+energy_loss =  9696.643192119624
+Timestep:  78  - Number of available nodes:  1000 - Time K-connect:  53
+number of cluster heads =  459
+current_energy =  557480.6619042958
+energy_loss =  3703.3883862302655
+Timestep:  79  - Number of available nodes:  1000 - Time K-connect:  54
+number of cluster heads =  513
+day ne
+current_energy =  547097.8448274402
+energy_loss =  10382.817076855903
+Timestep:  80  - Number of available nodes:  1000 - Time K-connect:  54
+number of cluster heads =  417
+current_energy =  543217.4727044909
+energy_loss =  3880.372122950536
+Timestep:  81  - Number of available nodes:  1000 - Time K-connect:  55
+number of cluster heads =  412
+current_energy =  539453.4301010688
+energy_loss =  3764.042603421339
+Timestep:  82  - Number of available nodes:  1000 - Time K-connect:  56
+number of cluster heads =  482
+day ne
+current_energy =  527958.99236909
+energy_loss =  11494.437731979897
+Timestep:  83  - Number of available nodes:  1000 - Time K-connect:  56
+number of cluster heads =  373
+current_energy =  524050.845612192
+energy_loss =  3908.146756897178
+Timestep:  84  - Number of available nodes:  1000 - Time K-connect:  57
+number of cluster heads =  379
+current_energy =  520122.7501210474
+energy_loss =  3928.0954911445815
+Timestep:  85  - Number of available nodes:  1000 - Time K-connect:  58
+number of cluster heads =  350
+current_energy =  516201.77491307654
+energy_loss =  3920.9752079705377
+Timestep:  86  - Number of available nodes:  1000 - Time K-connect:  59
+number of cluster heads =  395
+current_energy =  512308.8232702188
+energy_loss =  3892.9516428586594
+Timestep:  87  - Number of available nodes:  1000 - Time K-connect:  60
+number of cluster heads =  506
+day ne
+current_energy =  501538.23508533643
+energy_loss =  10770.588184881426
+Timestep:  88  - Number of available nodes:  1000 - Time K-connect:  60
+number of cluster heads =  521
+day ne
+current_energy =  491376.6961962788
+energy_loss =  10161.538889059018
+Timestep:  89  - Number of available nodes:  1000 - Time K-connect:  60
+number of cluster heads =  387
+current_energy =  487327.32452474715
+energy_loss =  4049.3716715303926
+Timestep:  90  - Number of available nodes:  1000 - Time K-connect:  61
+number of cluster heads =  348
+current_energy =  483549.91517828073
+energy_loss =  3777.4093464663265
+Timestep:  91  - Number of available nodes:  1000 - Time K-connect:  62
+number of cluster heads =  656
+day ne
+current_energy =  476365.85427519144
+energy_loss =  7184.060903088865
+Timestep:  92  - Number of available nodes:  1000 - Time K-connect:  62
+number of cluster heads =  360
+current_energy =  472346.0936992304
+energy_loss =  4019.7605759615653
+Timestep:  93  - Number of available nodes:  1000 - Time K-connect:  63
+number of cluster heads =  491
+day ne
+current_energy =  461283.71506554185
+energy_loss =  11080.739634095882
+Timestep:  94  - Number of available nodes:  999 - Time K-connect:  63
+number of cluster heads =  561
+day ne
+current_energy =  452378.6443024486
+energy_loss =  8905.070763094132
+Timestep:  95  - Number of available nodes:  999 - Time K-connect:  63
+number of cluster heads =  455
+current_energy =  448513.48693615553
+energy_loss =  3865.157366292605
+Timestep:  96  - Number of available nodes:  999 - Time K-connect:  64
+number of cluster heads =  405
+current_energy =  444776.5514710929
+energy_loss =  3736.9354650618675
+Timestep:  97  - Number of available nodes:  999 - Time K-connect:  65
+number of cluster heads =  389
+current_energy =  441061.7908136497
+energy_loss =  3714.760657444171
+Timestep:  98  - Number of available nodes:  999 - Time K-connect:  66
+number of cluster heads =  511
+day ne
+current_energy =  430309.0720855191
+energy_loss =  10752.71872813019
+Timestep:  99  - Number of available nodes:  999 - Time K-connect:  66
+number of cluster heads =  387
+current_energy =  426425.6253110598
+energy_loss =  3883.4467744587687
+Timestep:  100  - Number of available nodes:  999 - Time K-connect:  67
+number of cluster heads =  456
+current_energy =  422648.7114761569
+energy_loss =  3785.4304814718103
+Timestep:  101  - Number of available nodes:  998 - Time K-connect:  68
+number of cluster heads =  407
+current_energy =  418863.89972865954
+energy_loss =  3784.811747497285
+Timestep:  102  - Number of available nodes:  998 - Time K-connect:  69
+number of cluster heads =  475
+day ne
+current_energy =  406915.9236782332
+energy_loss =  11954.529627466647
+Timestep:  103  - Number of available nodes:  997 - Time K-connect:  69
+number of cluster heads =  423
+current_energy =  403157.6406148118
+energy_loss =  3758.378457467361
+Timestep:  104  - Number of available nodes:  996 - Time K-connect:  70
+number of cluster heads =  578
+day ne
+current_energy =  394922.34163583844
+energy_loss =  8236.048622320306
+Timestep:  105  - Number of available nodes:  995 - Time K-connect:  70
+number of cluster heads =  415
+current_energy =  391074.5567954583
+energy_loss =  3848.269362978104
+Timestep:  106  - Number of available nodes:  994 - Time K-connect:  71
+number of cluster heads =  581
+day ne
+current_energy =  382753.7734931532
+energy_loss =  8360.56002645724
+Timestep:  107  - Number of available nodes:  990 - Time K-connect:  71
+number of cluster heads =  532
+day ne
+current_energy =  372990.408961853
+energy_loss =  9795.96349170541
+Timestep:  108  - Number of available nodes:  987 - Time K-connect:  71
+number of cluster heads =  479
+day ne
+current_energy =  362261.3910272812
+energy_loss =  10753.12087284827
+Timestep:  109  - Number of available nodes:  986 - Time K-connect:  71
+number of cluster heads =  328
+current_energy =  358366.93241615716
+energy_loss =  3900.9411477599497
+Timestep:  110  - Number of available nodes:  985 - Time K-connect:  72
+number of cluster heads =  732
+day ne
+current_energy =  351933.5770782946
+energy_loss =  6485.047054259567
+Timestep:  111  - Number of available nodes:  981 - Time K-connect:  72
+number of cluster heads =  666
+day ne
+current_energy =  344959.14800137863
+energy_loss =  6995.207729471975
+Timestep:  112  - Number of available nodes:  978 - Time K-connect:  72
+number of cluster heads =  413
+current_energy =  341148.01443471527
+energy_loss =  3822.344925680725
+Timestep:  113  - Number of available nodes:  975 - Time K-connect:  73
+number of cluster heads =  632
+day ne
+current_energy =  333903.3211792025
+energy_loss =  7261.365343735721
+Timestep:  114  - Number of available nodes:  974 - Time K-connect:  73
+number of cluster heads =  368
+current_energy =  330104.1506330393
+energy_loss =  3803.367408395644
+Timestep:  115  - Number of available nodes:  973 - Time K-connect:  74
+number of cluster heads =  450
+day ne
+current_energy =  319147.1992410771
+energy_loss =  10985.954706615285
+Timestep:  116  - Number of available nodes:  967 - Time K-connect:  74
+number of cluster heads =  526
+day ne
+current_energy =  309927.2553314807
+energy_loss =  9237.39196884369
+Timestep:  117  - Number of available nodes:  963 - Time K-connect:  74
+number of cluster heads =  527
+day ne
+current_energy =  301034.62194487837
+energy_loss =  8986.454362288907
+Timestep:  118  - Number of available nodes:  955 - Time K-connect:  74
+number of cluster heads =  441
+day ne
+current_energy =  289752.97822617175
+energy_loss =  11370.929918336638
+Timestep:  119  - Number of available nodes:  948 - Time K-connect:  74
+number of cluster heads =  425
+day ne
+current_energy =  279218.87269361055
+energy_loss =  10637.966941496426
+Timestep:  120  - Number of available nodes:  935 - Time K-connect:  74
+number of cluster heads =  486
+day ne
+current_energy =  269932.2077707897
+energy_loss =  9381.289614837297
+Timestep:  121  - Number of available nodes:  925 - Time K-connect:  74
+number of cluster heads =  418
+day ne
+current_energy =  258847.71037971808
+energy_loss =  11298.206412825712
+Timestep:  122  - Number of available nodes:  909 - Time K-connect:  74
+number of cluster heads =  566
+day ne
+current_energy =  251891.9091284978
+energy_loss =  7045.392265097141
+Timestep:  123  - Number of available nodes:  899 - Time K-connect:  74
+number of cluster heads =  462
+day ne
+current_energy =  242393.7675073292
+energy_loss =  9628.283543475301
+Timestep:  124  - Number of available nodes:  886 - Time K-connect:  74
+number of cluster heads =  783
+day ne
+current_energy =  236821.80593728748
+energy_loss =  5619.282699208021
+Timestep:  125  - Number of available nodes:  881 - Time K-connect:  74
+number of cluster heads =  527
+day ne
+current_energy =  229707.15752650745
+energy_loss =  7206.937591850245
+Timestep:  126  - Number of available nodes:  868 - Time K-connect:  74
+number of cluster heads =  605
+day ne
+current_energy =  223593.8233007347
+energy_loss =  6217.72641321867
+Timestep:  127  - Number of available nodes:  849 - Time K-connect:  74
+number of cluster heads =  358
+current_energy =  220190.47323544187
+energy_loss =  3432.5265955657455
+Timestep:  128  - Number of available nodes:  839 - Time K-connect:  75
+number of cluster heads =  615
+day ne
+current_energy =  214378.58403642612
+energy_loss =  5893.628769007869
+Timestep:  129  - Number of available nodes:  827 - Time K-connect:  75
+number of cluster heads =  397
+day ne
+current_energy =  204382.74033241614
+energy_loss =  10381.933796317806
+Timestep:  130  - Number of available nodes:  806 - Time K-connect:  75
+number of cluster heads =  474
+day ne
+current_energy =  197546.13006940472
+energy_loss =  6897.805120556076
+Timestep:  131  - Number of available nodes:  794 - Time K-connect:  75
+number of cluster heads =  38
+day ne
+current_energy =  178488.34714125714
+energy_loss =  19348.385814059755
+Timestep:  132  - Number of available nodes:  771 - Time K-connect:  75
+number of cluster heads =  47
+day ne
+current_energy =  161318.05365474525
+energy_loss =  17912.708665358932
+Timestep:  133  - Number of available nodes:  724 - Time K-connect:  75
+number of cluster heads =  61
+day ne
+current_energy =  146576.84563155405
+energy_loss =  15322.781848958148
+Timestep:  134  - Number of available nodes:  687 - Time K-connect:  75
+number of cluster heads =  106
+day ne
+current_energy =  135900.98279114056
+energy_loss =  10980.292479008753
+Timestep:  135  - Number of available nodes:  653 - Time K-connect:  75
+number of cluster heads =  50
+day ne
+current_energy =  122531.64324267278
+energy_loss =  13813.00533838962
+Timestep:  136  - Number of available nodes:  615 - Time K-connect:  75
+number of cluster heads =  47
+day ne
+current_energy =  109564.90639559402
+energy_loss =  13711.83266041299
+Timestep:  137  - Number of available nodes:  569 - Time K-connect:  75
+number of cluster heads =  106
+day ne
+current_energy =  100829.6343927407
+energy_loss =  9091.121128687619
+Timestep:  138  - Number of available nodes:  542 - Time K-connect:  75
+number of cluster heads =  96
+day ne
+current_energy =  92243.6393020375
+energy_loss =  8806.701159275604
+Timestep:  139  - Number of available nodes:  517 - Time K-connect:  75
+number of cluster heads =  33
+day ne
+current_energy =  80942.60465010298
+energy_loss =  12269.733664777097
+Timestep:  140  - Number of available nodes:  470 - Time K-connect:  75
+number of cluster heads =  42
+day ne
+current_energy =  70988.52018795336
+energy_loss =  10803.524459345545
+Timestep:  141  - Number of available nodes:  420 - Time K-connect:  75
+number of cluster heads =  126
+day ne
+current_energy =  63083.801781144815
+energy_loss =  8478.003115239651
+Timestep:  142  - Number of available nodes:  383 - Time K-connect:  75
+number of cluster heads =  54
+day ne
+current_energy =  55611.297506740964
+energy_loss =  8152.492520267928
+Timestep:  143  - Number of available nodes:  349 - Time K-connect:  75
+number of cluster heads =  84
+day ne
+current_energy =  49520.55708471782
+energy_loss =  6504.244846447122
+Timestep:  144  - Number of available nodes:  320 - Time K-connect:  75
+number of cluster heads =  88
+day ne
+current_energy =  44385.478331829465
+energy_loss =  5552.874610034093
+Timestep:  145  - Number of available nodes:  292 - Time K-connect:  75
+number of cluster heads =  123
+day ne
+current_energy =  39942.2899217518
+energy_loss =  4767.547480729528
+Timestep:  146  - Number of available nodes:  273 - Time K-connect:  75
+number of cluster heads =  63
+day ne
+current_energy =  34998.87350514923
+energy_loss =  5297.341378157538
+Timestep:  147  - Number of available nodes:  251 - Time K-connect:  75
+number of cluster heads =  120
+day ne
+current_energy =  31176.173364952414
+energy_loss =  4516.306109833113
+Timestep:  148  - Number of available nodes:  218 - Time K-connect:  75
+number of cluster heads =  51
+day ne
+current_energy =  26916.129787731246
+energy_loss =  4789.38190553438
+Timestep:  149  - Number of available nodes:  192 - Time K-connect:  75
+number of cluster heads =  120
+day ne
+current_energy =  24373.702832887368
+energy_loss =  2606.3072348604546
+Timestep:  150  - Number of available nodes:  182 - Time K-connect:  75
+number of cluster heads =  121
+day ne
+current_energy =  22065.656747797482
+energy_loss =  2476.094587005698
+Timestep:  151  - Number of available nodes:  170 - Time K-connect:  75
+number of cluster heads =  58
+day ne
+current_energy =  19077.59483322896
+energy_loss =  3672.9434795956067
+Timestep:  152  - Number of available nodes:  145 - Time K-connect:  75
+number of cluster heads =  122
+day ne
+current_energy =  15084.561886325992
+energy_loss =  1660.6824017447564
+Timestep:  153  - Number of available nodes:  122 - Time K-connect:  75
+number of cluster heads =  82
+day ne
+current_energy =  12427.101982830807
+energy_loss =  1469.4147295314901
+Timestep:  154  - Number of available nodes:  95 - Time K-connect:  75
+number of cluster heads =  31
+day ne
+current_energy =  8467.145627110662
+energy_loss =  1738.8246354498935
+Timestep:  155  - Number of available nodes:  62 - Time K-connect:  75
+number of cluster heads =  43
+day ne
+current_energy =  7612.175260482097
+energy_loss =  988.705396059194
+Timestep:  156  - Number of available nodes:  54 - Time K-connect:  75
+number of cluster heads =  32
+day ne
+current_energy =  5574.801668018502
+energy_loss =  737.2560681579702
+Timestep:  157  - Number of available nodes:  36 - Time K-connect:  75
+number of cluster heads =  29
+day ne
+current_energy =  5000.486772653405
+energy_loss =  681.3841285911404
+Timestep:  158  - Number of available nodes:  32 - Time K-connect:  75
+number of cluster heads =  32
+day ne
+current_energy =  4580.4307489171315
+energy_loss =  623.9172082709262
+Timestep:  159  - Number of available nodes:  25 - Time K-connect:  75
+number of cluster heads =  15
+day ne
+current_energy =  3545.429729644052
+energy_loss =  254.48613723413916
+Timestep:  160  - Number of available nodes:  14 - Time K-connect:  75
+number of cluster heads =  2
+day ne
+current_energy =  1455.4729951079553
+energy_loss =  125.86037502059807
+Timestep:  161  - Number of available nodes:  7 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  1318.7379833209432
+energy_loss =  136.7350117870117
+Timestep:  162  - Number of available nodes:  7 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  1184.069198288658
+energy_loss =  136.7350117870117
+Timestep:  163  - Number of available nodes:  6 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  1082.1984326889879
+energy_loss =  114.95849047412698
+Timestep:  164  - Number of available nodes:  5 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  994.1382906995245
+energy_loss =  88.06014198946336
+Timestep:  165  - Number of available nodes:  5 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  909.4038289044668
+energy_loss =  94.93853363688548
+Timestep:  166  - Number of available nodes:  4 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  841.025730893878
+energy_loss =  70.94569216677004
+Timestep:  167  - Number of available nodes:  3 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  773.1475855115974
+energy_loss =  67.87814538228051
+Timestep:  168  - Number of available nodes:  3 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  705.269440129317
+energy_loss =  67.87814538228051
+Timestep:  169  - Number of available nodes:  3 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  641.4002411252402
+energy_loss =  68.06198183284054
+Timestep:  170  - Number of available nodes:  2 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  575.5414243397262
+energy_loss =  65.85881678551394
+Timestep:  171  - Number of available nodes:  2 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  509.6826075542122
+energy_loss =  65.85881678551394
+Timestep:  172  - Number of available nodes:  2 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  442.93325703641585
+energy_loss =  66.74935051779636
+Timestep:  173  - Number of available nodes:  2 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  377.07444025090194
+energy_loss =  65.85881678551394
+Timestep:  174  - Number of available nodes:  2 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  311.215623465388
+energy_loss =  65.85881678551394
+Timestep:  175  - Number of available nodes:  2 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  244.46627294759162
+energy_loss =  66.74935051779636
+Timestep:  176  - Number of available nodes:  2 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  231.8538259737045
+energy_loss =  65.85881678551394
+Timestep:  177  - Number of available nodes:  1 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  166.19652277165298
+energy_loss =  65.65730320205151
+Timestep:  178  - Number of available nodes:  1 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  100.53921956960147
+energy_loss =  65.65730320205151
+Timestep:  179  - Number of available nodes:  1 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  34.88191636754996
+energy_loss =  65.65730320205151
+Timestep:  180  - Number of available nodes:  1 - Time K-connect:  75
+number of cluster heads =  1
+day ne
+current_energy =  0
+energy_loss =  65.65730320205151
+Timestep:  181  - Number of available nodes:  0 - Time K-connect:  75
+Time K-connect:  75
+Time life:  182
+

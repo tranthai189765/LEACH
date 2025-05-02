@@ -2,8 +2,8 @@
 import random
 
 ENEGY_0 = 1000  # Initial energy
-W = 1000
-H = 1000
+W = 100
+H = 100
 class Node:
     """
     Represents a node in a sensor network.

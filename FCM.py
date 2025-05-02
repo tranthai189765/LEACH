@@ -159,6 +159,7 @@ class FuzzyCMeansClustering:
                 )
                 prob = random.uniform(0, 1)
                 if(prob < 0.05):
+                    # print("0.5")
                 
                     temp_cluster_heads.append(bridge_node)
                     current_cluster_heads_ids.append(bridge_node.id)
@@ -176,6 +177,7 @@ class FuzzyCMeansClustering:
                 connected, _, components= graph.is_connected_with_component()
             
         else:
+            print("this this this")
             non_accept = 1
             graph_nodes = [self.network.sink_node] + temp_cluster_heads
             graph = Graph(graph_nodes, (self.network.R))
@@ -212,6 +214,7 @@ def run(network, P, K1, K2, K, display=False):
     non_accept, temp_cluster_heads, current_cluster_heads_ids = fcm.fit()
     # network.display_network(folder="new_log")
     if non_accept==1:
+        print("thisthis")
         current_energy = 0
         energy_loss, is_k_connect, final_chs = network.step(temp_cluster_heads, non_accept, display)
         for node in network.available_nodes:

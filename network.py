@@ -1,6 +1,6 @@
 """Network Setup"""
-W = 1000
-H = 1000
+W = 100
+H = 100
 from entity import Node 
 import matplotlib.pyplot as plt
 import copy  # Thêm dòng này để import module copy
@@ -9,6 +9,7 @@ import json
 from datetime import datetime
 from buffer import ClusterHeadBufferTest
 from graph_updated import Graph
+import time
 class Network:
     def __init__(self, num_nodes, width=W, height=H, seed=None, K1=0.075, K2=0.075/2, K=2):
         self.width = width
@@ -29,7 +30,7 @@ class Network:
         self.cluster_heads_buffer = ClusterHeadBufferTest(mem_size=20)
         self.cluster_heads_2_buffer = ClusterHeadBufferTest(mem_size=20)
         self.error = "None"
-        self.R = 300
+        self.R = 75
         self.time_k_connect = 0
         self.is_dead = False
         self.K1 = K1
@@ -137,9 +138,7 @@ class Network:
         
     def step(self, selected_chs, non_accept, display, folder="image"):
 
-        # Đặt lại trạng thái của tất cả các node trước khi bắt đầu
         self.reset()
-        # self.update_network()
         for node in self.available_nodes:
             node.is_cluster_head = False
             node.degree = 1  # Đặt lại degree
@@ -287,6 +286,8 @@ class Network:
             
         
         if non_accept == 0:
+            # time.sleep(10000)
+            # print("non_accept =  0, K = ", self.K)
             if self.is_k_connect(self.K):
                 self.time_k_connect += 1
                 is_k_connect = True

@@ -1,7 +1,7 @@
 from network import Network
 from LEACH_basic_updated import run
 
-WSN = Network(num_nodes=1000, seed=64)
+WSN = Network(num_nodes=100, seed=65)
 WSN.save_network()
 for i in range(1000):
     run(WSN, P=0.1, K1=2.0, K2=2.0, K=2, display=False)
