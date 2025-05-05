@@ -111,10 +111,7 @@ class FuzzyCMeansClustering:
                 if not node.is_sink and node.id not in coveraged_node_ids
             ]
             if not candidate_node_ids_clusters:
-                for node in self.network.available_nodes:
-                    if node.distance_to(self.network.sink_node) <= self.network.R:
-                            temp_cluster_heads.append(node)
-                            current_cluster_heads_ids.append(node.id)
+                break
             else:
                 random_id = random.choice(candidate_node_ids_clusters)
                 selected_node = Node.nodes[random_id]

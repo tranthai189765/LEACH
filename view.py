@@ -19,10 +19,10 @@ def read_data(file_path):
 
 # Danh sách các file và nhãn tương ứng
 files = [
-    ("FMC_log.txt", "FMC", 'red', 'o'),
-    ("LEACH.txt", "LEACH", 'blue', 's'),
-    ("I_LEACH1.txt", "LEACH_2018", 'green', '^'),
-    ("I_LEACH2.txt", "LEACH_2016", 'purple', 'd')
+    ("FCM_log_100.txt", "FMC", 'red', 'o'),
+    ("LEACH_basic_100.txt", "LEACH", 'blue', 's'),
+    ("LEACH_2018_100.txt", "LEACH_2018", 'green', '^'),
+    ("LEACH_2016_100.txt", "LEACH_2016", 'purple', 'd')
 ]
 
 # Vẽ biểu đồ

@@ -1,35 +1,64 @@
+import math
+from collections import defaultdict
+import copy
 from entity import Node
 from graph_updated import Graph
 import random
-import copy
-time_out = 0
-fixed_k = 0
-non_accept = 0
-class ClusterHeadSelector:
+
+class ClusterHeadSelectorI_LEACH:
     def __init__(self, network):
         self.network = network
 
-    def select_cluster_heads(self, P):
-        maximum_round = int(1/P)
-        last_cluster_heads = self.network.cluster_heads_buffer.take(maximum_round)
-        print("last_cluster_heads : ", len(last_cluster_heads))
-        candidate_nodes = [node for node in self.network.available_nodes 
-                        if not node.is_sink and node.id not in last_cluster_heads]
-        current_cluster_heads_ids = []
-        temp_cluster_heads = []  # Reset cluster_heads
-        for node in candidate_nodes:
-            probability = P/(1 - P*(self.network.time_life % maximum_round))
-            random_number = random.uniform(0, 1)
-            if (random_number <= probability):
-                temp_cluster_heads.append(node)
-                current_cluster_heads_ids.append(node.id)
-        print("len temp_cluster_heads = ", len(temp_cluster_heads))
-        self.network.cluster_heads_buffer.add(copy.deepcopy(current_cluster_heads_ids))
-        # print("last_cluster_heads : ", len(self.network.cluster_heads_buffer.take(maximum_round)))
-        non_accept, temp_cluster_heads, current_cluster_heads_ids = self.select_more_cluster_heads(temp_cluster_heads, current_cluster_heads_ids)
-        return non_accept, temp_cluster_heads, current_cluster_heads_ids
+    def select_cluster_heads(self, p):
+        # Bước 1: Chia mạng thành các cụm hình tròn (circular clusters)
+        W = self.network.width
+        H = self.network.height
+        N = len([n for n in self.network.available_nodes if not n.is_sink])
+        numRx = int(math.sqrt(p * N))  # số cụm trên mỗi chiều
+        if numRx == 0:
+            numRx = 1  # tránh chia cho 0
 
+        dr = W / numRx  # đường kính mỗi cụm
+        radius = dr / 2
+
+        # Bước 2: Gom các nodes vào các cụm (vị trí center của cụm: lưới cách đều)
+        clusters = defaultdict(list)
+        for node in self.network.available_nodes:
+            if node.is_sink:
+                continue
+            x = node.x
+            y = node.y
+            i = int(x // dr)
+            j = int(y // dr)
+            cluster_id = (i, j)
+            clusters[cluster_id].append(node)
+
+        # Bước 3: Tính năng lượng trung bình toàn mạng
+        total_energy = sum(n.energy for n in self.network.available_nodes if not n.is_sink)
+        avg_energy = total_energy / N if N > 0 else 0
+
+        # Bước 4: Trong mỗi cụm, chọn 1 node có năng lượng cao hơn mức trung bình
+        selected_chs = []
+        selected_ch_ids = []
+
+        for cluster_nodes in clusters.values():
+            # lọc node đủ năng lượng
+            valid_nodes = [n for n in cluster_nodes if n.energy >= avg_energy]
+            if not valid_nodes:
+                continue
+            # chọn node có năng lượng cao nhất trong cụm
+            ch_node = max(valid_nodes, key=lambda n: n.energy)
+            selected_chs.append(ch_node)
+            selected_ch_ids.append(ch_node.id)
+
+        # lưu lại lịch sử các CHs
+        self.network.cluster_heads_buffer.add(copy.deepcopy(selected_ch_ids))
         
+        # Bạn có thể tùy chọn thêm bước "select_more_cluster_heads" nếu muốn
+        non_accept, selected_chs, selected_ch_ids = self.select_more_cluster_heads(selected_chs, selected_ch_ids)
+
+        return non_accept, selected_chs, selected_ch_ids
+    
     def select_more_cluster_heads(self, temp_cluster_heads, current_cluster_heads_ids):
         non_accept = 0
         while True:
@@ -96,7 +125,6 @@ class ClusterHeadSelector:
         return non_accept, temp_cluster_heads, current_cluster_heads_ids
 
 
-
 def run(network, P, K1, K2, K, display=False):
     graph_nodes = [network.sink_node] + network.available_nodes
     graph = Graph(graph_nodes, (network.R))
@@ -104,11 +132,12 @@ def run(network, P, K1, K2, K, display=False):
     current_energy = 0
     if not connected:            
         network.available_nodes = [node for node in network.available_nodes if not node.is_sink and node.id in component]
-    leach = ClusterHeadSelector(network)
-    non_accept, temp_cluster_heads, current_cluster_heads_ids = leach.select_cluster_heads(P=P)
+    leach = ClusterHeadSelectorI_LEACH(network)
+    non_accept, temp_cluster_heads, current_cluster_heads_ids = leach.select_cluster_heads(p = P)
     energy_loss, is_k_connect, final_chs = network.step(temp_cluster_heads, non_accept, display)
     for node in network.available_nodes:
         current_energy += node.energy
     print("current_energy = ", current_energy )
     print("energy_loss = ", energy_loss)
     network.reset()
+

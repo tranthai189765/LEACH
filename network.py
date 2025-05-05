@@ -379,7 +379,7 @@ class Network:
 
     def update_network(self):
         """Cập nhật mạng: loại bỏ các node chết và giảm số lượng node"""
-        self.available_nodes = [node for node in self.available_nodes if not node.is_dead]  # Giữ lại node còn sống
+        self.available_nodes = [node for node in self.available_nodes if not node.is_dead and not node.is_sink]  # Giữ lại node còn sống
         self.num_nodes = len(self.available_nodes)  # Cập nhật số lượng node
         if(self.num_nodes == 0):
             self.is_dead = True

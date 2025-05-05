@@ -14,8 +14,9 @@ class ClusterHeadSelector:
         candidate_nodes = [node for node in self.network.available_nodes 
                         if not node.is_sink and node.id not in last_cluster_heads]
         
+        print("len = ", len(self.network.available_nodes))
         max_energy = max(node.energy for node in self.network.available_nodes if not node.is_sink)
-        max_distance = max(self.network.get_distance(node, self.network.sink_node)
+        max_distance = max(node.distance_to(self.network.sink_node)
                            for node in self.network.available_nodes if not node.is_sink)
 
         current_cluster_heads_ids = []
@@ -24,7 +25,7 @@ class ClusterHeadSelector:
         for node in candidate_nodes:
             prob_base = P / (1 - P * (self.network.time_life % maximum_round))
             E_ratio = node.energy / max_energy if max_energy > 0 else 0
-            d_to_bs = self.network.get_distance(node, self.network.sink_node)
+            d_to_bs = node.distance_to(self.network.sink_node)
             d_ratio = d_to_bs / max_distance if max_distance > 0 else 0
             scrfn = self.w1 * E_ratio + self.w2 * (1 - d_ratio)  # càng gần BS càng tốt
 
@@ -39,15 +40,23 @@ class ClusterHeadSelector:
     
     def select_more_cluster_heads(self, temp_cluster_heads, current_cluster_heads_ids):
         non_accept = 0
-        while not self.network.is_coveraged(temp_cluster_heads)[1]:
-            # print("this")
-            coveraged_set, _ = self.network.is_coveraged(temp_cluster_heads)
-            candidate_node_ids_clusters = [node.id for node in self.network.available_nodes if not node.is_sink and node not in coveraged_set ]
-            # print("length set ", len(coveraged_set))
-            random_id = random.choice(candidate_node_ids_clusters)
-            selected_node = Node.nodes[random_id]
-            temp_cluster_heads.append(selected_node)
-            current_cluster_heads_ids.append(selected_node.id)
+        while True:
+            coveraged_set, is_fully_coveraged = self.network.is_coveraged(temp_cluster_heads)
+            if is_fully_coveraged:
+                break
+        
+            coveraged_node_ids = {node.id for node in coveraged_set}
+            candidate_node_ids_clusters = [
+                node.id for node in self.network.available_nodes 
+                if not node.is_sink and node.id not in coveraged_node_ids
+            ]
+            if not candidate_node_ids_clusters:
+                break
+            else:
+                random_id = random.choice(candidate_node_ids_clusters)
+                selected_node = Node.nodes[random_id]
+                temp_cluster_heads.append(selected_node)
+                current_cluster_heads_ids.append(selected_node.id)
 
         graph_nodes = [self.network.sink_node] + self.network.available_nodes
         graph = Graph(graph_nodes, (self.network.R)/3) 

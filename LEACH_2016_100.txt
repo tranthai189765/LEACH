@@ -1,0 +1,4228 @@
+last_cluster_heads :  0
+len temp_cluster_heads =  13
+number of cluster heads =  55
+day ne
+current_energy =  99707.23302533993
+energy_loss =  292.76697466002724
+Timestep:  0  - Number of available nodes:  100 - Time K-connect:  0
+last_cluster_heads :  13
+len temp_cluster_heads =  10
+number of cluster heads =  48
+current_energy =  99591.42450519632
+energy_loss =  115.80852014365044
+Timestep:  1  - Number of available nodes:  100 - Time K-connect:  1
+last_cluster_heads :  23
+len temp_cluster_heads =  9
+number of cluster heads =  44
+current_energy =  99466.48611605917
+energy_loss =  124.93838913714913
+Timestep:  2  - Number of available nodes:  100 - Time K-connect:  2
+last_cluster_heads :  32
+len temp_cluster_heads =  9
+number of cluster heads =  61
+day ne
+current_energy =  99209.73967991192
+energy_loss =  256.7464361472679
+Timestep:  3  - Number of available nodes:  100 - Time K-connect:  2
+last_cluster_heads :  41
+len temp_cluster_heads =  10
+number of cluster heads =  81
+day ne
+current_energy =  98988.83707457565
+energy_loss =  220.9026053362682
+Timestep:  4  - Number of available nodes:  100 - Time K-connect:  2
+last_cluster_heads :  51
+len temp_cluster_heads =  9
+number of cluster heads =  67
+day ne
+current_energy =  98725.73444655818
+energy_loss =  263.10262801745756
+Timestep:  5  - Number of available nodes:  100 - Time K-connect:  2
+last_cluster_heads :  60
+len temp_cluster_heads =  9
+number of cluster heads =  62
+day ne
+current_energy =  98448.92306764159
+energy_loss =  276.811378916623
+Timestep:  6  - Number of available nodes:  100 - Time K-connect:  2
+last_cluster_heads :  69
+len temp_cluster_heads =  7
+number of cluster heads =  63
+day ne
+current_energy =  98174.282766636
+energy_loss =  274.64030100561314
+Timestep:  7  - Number of available nodes:  100 - Time K-connect:  2
+last_cluster_heads :  76
+len temp_cluster_heads =  8
+number of cluster heads =  93
+day ne
+current_energy =  97958.69206647761
+energy_loss =  215.59070015831674
+Timestep:  8  - Number of available nodes:  100 - Time K-connect:  2
+last_cluster_heads :  84
+len temp_cluster_heads =  15
+number of cluster heads =  49
+day ne
+current_energy =  97613.0508973365
+energy_loss =  345.64116914118273
+Timestep:  9  - Number of available nodes:  100 - Time K-connect:  2
+last_cluster_heads :  99
+len temp_cluster_heads =  0
+number of cluster heads =  34
+current_energy =  97488.49829022023
+energy_loss =  124.55260711624447
+Timestep:  10  - Number of available nodes:  100 - Time K-connect:  3
+last_cluster_heads :  86
+len temp_cluster_heads =  2
+number of cluster heads =  51
+day ne
+current_energy =  97093.91300345503
+energy_loss =  394.5852867651412
+Timestep:  11  - Number of available nodes:  100 - Time K-connect:  3
+last_cluster_heads :  78
+len temp_cluster_heads =  5
+number of cluster heads =  72
+day ne
+current_energy =  96836.08762030718
+energy_loss =  257.8253831479055
+Timestep:  12  - Number of available nodes:  100 - Time K-connect:  3
+last_cluster_heads :  74
+len temp_cluster_heads =  3
+number of cluster heads =  49
+day ne
+current_energy =  96453.64881449415
+energy_loss =  382.4388058130307
+Timestep:  13  - Number of available nodes:  100 - Time K-connect:  3
+last_cluster_heads :  68
+len temp_cluster_heads =  6
+number of cluster heads =  46
+current_energy =  96334.07012267981
+energy_loss =  119.57869181431418
+Timestep:  14  - Number of available nodes:  100 - Time K-connect:  4
+last_cluster_heads :  64
+len temp_cluster_heads =  11
+number of cluster heads =  37
+current_energy =  96197.35527370525
+energy_loss =  136.714848974576
+Timestep:  15  - Number of available nodes:  100 - Time K-connect:  5
+last_cluster_heads :  66
+len temp_cluster_heads =  9
+number of cluster heads =  52
+day ne
+current_energy =  95869.75839511417
+energy_loss =  327.5968785910737
+Timestep:  16  - Number of available nodes:  100 - Time K-connect:  5
+last_cluster_heads :  66
+len temp_cluster_heads =  16
+number of cluster heads =  50
+day ne
+current_energy =  95545.38219284921
+energy_loss =  324.37620226503293
+Timestep:  17  - Number of available nodes:  100 - Time K-connect:  5
+last_cluster_heads :  75
+len temp_cluster_heads =  12
+number of cluster heads =  53
+day ne
+current_energy =  95168.14932816339
+energy_loss =  377.2328646857863
+Timestep:  18  - Number of available nodes:  100 - Time K-connect:  5
+last_cluster_heads :  79
+len temp_cluster_heads =  20
+number of cluster heads =  38
+current_energy =  95043.17523298018
+energy_loss =  124.974095183196
+Timestep:  19  - Number of available nodes:  100 - Time K-connect:  6
+last_cluster_heads :  84
+len temp_cluster_heads =  0
+number of cluster heads =  72
+day ne
+current_energy =  94806.88298196375
+energy_loss =  236.29225101648194
+Timestep:  20  - Number of available nodes:  100 - Time K-connect:  6
+last_cluster_heads :  84
+len temp_cluster_heads =  1
+number of cluster heads =  65
+day ne
+current_energy =  94555.23896245216
+energy_loss =  251.6440195115194
+Timestep:  21  - Number of available nodes:  100 - Time K-connect:  6
+last_cluster_heads :  83
+len temp_cluster_heads =  2
+number of cluster heads =  51
+day ne
+current_energy =  94225.399405938
+energy_loss =  329.8395565142201
+Timestep:  22  - Number of available nodes:  100 - Time K-connect:  6
+last_cluster_heads :  80
+len temp_cluster_heads =  5
+number of cluster heads =  51
+day ne
+current_energy =  93894.17188386389
+energy_loss =  331.2275220741331
+Timestep:  23  - Number of available nodes:  100 - Time K-connect:  6
+last_cluster_heads :  82
+len temp_cluster_heads =  1
+number of cluster heads =  41
+current_energy =  93779.84585520817
+energy_loss =  114.32602865567186
+Timestep:  24  - Number of available nodes:  100 - Time K-connect:  7
+last_cluster_heads :  77
+len temp_cluster_heads =  5
+number of cluster heads =  56
+day ne
+current_energy =  93489.02557400413
+energy_loss =  290.8202812041036
+Timestep:  25  - Number of available nodes:  100 - Time K-connect:  7
+last_cluster_heads :  71
+len temp_cluster_heads =  7
+number of cluster heads =  35
+current_energy =  93364.72826838074
+energy_loss =  124.29730562332988
+Timestep:  26  - Number of available nodes:  100 - Time K-connect:  8
+last_cluster_heads :  69
+len temp_cluster_heads =  8
+number of cluster heads =  53
+day ne
+current_energy =  93056.14872171236
+energy_loss =  308.57954666844734
+Timestep:  27  - Number of available nodes:  100 - Time K-connect:  8
+last_cluster_heads :  61
+len temp_cluster_heads =  15
+number of cluster heads =  58
+day ne
+current_energy =  92757.8163292323
+energy_loss =  298.33239248005026
+Timestep:  28  - Number of available nodes:  100 - Time K-connect:  8
+last_cluster_heads :  64
+len temp_cluster_heads =  35
+number of cluster heads =  51
+day ne
+current_energy =  92443.82781955528
+energy_loss =  313.9885096769384
+Timestep:  29  - Number of available nodes:  100 - Time K-connect:  8
+last_cluster_heads :  79
+len temp_cluster_heads =  1
+number of cluster heads =  58
+day ne
+current_energy =  92106.9142156211
+energy_loss =  336.9136039342342
+Timestep:  30  - Number of available nodes:  100 - Time K-connect:  8
+last_cluster_heads :  80
+len temp_cluster_heads =  2
+number of cluster heads =  47
+current_energy =  91989.09533256112
+energy_loss =  117.81888305997077
+Timestep:  31  - Number of available nodes:  100 - Time K-connect:  9
+last_cluster_heads :  81
+len temp_cluster_heads =  2
+number of cluster heads =  49
+day ne
+current_energy =  91590.64857233761
+energy_loss =  398.4467602235158
+Timestep:  32  - Number of available nodes:  100 - Time K-connect:  9
+last_cluster_heads :  81
+len temp_cluster_heads =  1
+number of cluster heads =  53
+day ne
+current_energy =  91267.29994166995
+energy_loss =  323.34863066765155
+Timestep:  33  - Number of available nodes:  100 - Time K-connect:  9
+last_cluster_heads :  77
+len temp_cluster_heads =  4
+number of cluster heads =  78
+day ne
+current_energy =  91034.3712837723
+energy_loss =  232.92865789764454
+Timestep:  34  - Number of available nodes:  100 - Time K-connect:  9
+last_cluster_heads :  80
+len temp_cluster_heads =  4
+number of cluster heads =  35
+current_energy =  90900.24511186093
+energy_loss =  134.1261719113737
+Timestep:  35  - Number of available nodes:  100 - Time K-connect:  10
+last_cluster_heads :  79
+len temp_cluster_heads =  7
+number of cluster heads =  49
+day ne
+current_energy =  90525.61666840273
+energy_loss =  374.62844345823373
+Timestep:  36  - Number of available nodes:  100 - Time K-connect:  10
+last_cluster_heads :  79
+len temp_cluster_heads =  9
+number of cluster heads =  76
+day ne
+current_energy =  90296.18623806021
+energy_loss =  229.4304303425273
+Timestep:  37  - Number of available nodes:  100 - Time K-connect:  10
+last_cluster_heads :  80
+len temp_cluster_heads =  11
+number of cluster heads =  59
+day ne
+current_energy =  90025.81809720882
+energy_loss =  270.3681408513433
+Timestep:  38  - Number of available nodes:  100 - Time K-connect:  10
+last_cluster_heads :  76
+len temp_cluster_heads =  23
+number of cluster heads =  34
+current_energy =  89903.8965809125
+energy_loss =  121.92151629635235
+Timestep:  39  - Number of available nodes:  100 - Time K-connect:  11
+last_cluster_heads :  64
+len temp_cluster_heads =  1
+number of cluster heads =  52
+day ne
+current_energy =  89545.25748745588
+energy_loss =  358.6390934565859
+Timestep:  40  - Number of available nodes:  100 - Time K-connect:  11
+last_cluster_heads :  64
+len temp_cluster_heads =  0
+number of cluster heads =  50
+day ne
+current_energy =  89183.00310899768
+energy_loss =  362.2543784582594
+Timestep:  41  - Number of available nodes:  100 - Time K-connect:  11
+last_cluster_heads :  62
+len temp_cluster_heads =  3
+number of cluster heads =  69
+day ne
+current_energy =  88940.94656601947
+energy_loss =  242.05654297820783
+Timestep:  42  - Number of available nodes:  100 - Time K-connect:  11
+last_cluster_heads :  63
+len temp_cluster_heads =  2
+number of cluster heads =  45
+current_energy =  88819.4213814151
+energy_loss =  121.52518460432718
+Timestep:  43  - Number of available nodes:  100 - Time K-connect:  12
+last_cluster_heads :  64
+len temp_cluster_heads =  10
+number of cluster heads =  27
+current_energy =  88693.89730704392
+energy_loss =  125.52407437117016
+Timestep:  44  - Number of available nodes:  100 - Time K-connect:  13
+last_cluster_heads :  70
+len temp_cluster_heads =  9
+number of cluster heads =  44
+current_energy =  88551.50024261193
+energy_loss =  142.39706443203082
+Timestep:  45  - Number of available nodes:  100 - Time K-connect:  14
+last_cluster_heads :  75
+len temp_cluster_heads =  3
+number of cluster heads =  44
+current_energy =  88429.19734109983
+energy_loss =  122.3029015120693
+Timestep:  46  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  71
+len temp_cluster_heads =  11
+number of cluster heads =  93
+day ne
+current_energy =  88215.95454628572
+energy_loss =  213.24279481410804
+Timestep:  47  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  73
+len temp_cluster_heads =  10
+number of cluster heads =  75
+day ne
+current_energy =  87983.04604489316
+energy_loss =  232.9085013925836
+Timestep:  48  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  72
+len temp_cluster_heads =  27
+number of cluster heads =  80
+day ne
+current_energy =  87760.07042721858
+energy_loss =  222.9756176745396
+Timestep:  49  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  76
+len temp_cluster_heads =  3
+number of cluster heads =  53
+day ne
+current_energy =  87421.61031633554
+energy_loss =  338.46011088308916
+Timestep:  50  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  78
+len temp_cluster_heads =  2
+number of cluster heads =  61
+day ne
+current_energy =  87147.43463130275
+energy_loss =  274.1756850327871
+Timestep:  51  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  80
+len temp_cluster_heads =  1
+number of cluster heads =  61
+day ne
+current_energy =  86861.335135282
+energy_loss =  286.09949602071663
+Timestep:  52  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  78
+len temp_cluster_heads =  4
+number of cluster heads =  51
+day ne
+current_energy =  86482.58564502047
+energy_loss =  378.74949026157043
+Timestep:  53  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  80
+len temp_cluster_heads =  2
+number of cluster heads =  52
+day ne
+current_energy =  86119.2818239473
+energy_loss =  363.30382107318195
+Timestep:  54  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  72
+len temp_cluster_heads =  3
+number of cluster heads =  62
+day ne
+current_energy =  85851.04336026461
+energy_loss =  268.23846368268937
+Timestep:  55  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  66
+len temp_cluster_heads =  6
+number of cluster heads =  66
+day ne
+current_energy =  85609.27220839566
+energy_loss =  241.77115186896532
+Timestep:  56  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  69
+len temp_cluster_heads =  9
+number of cluster heads =  41
+current_energy =  85485.16719258031
+energy_loss =  124.10501581535169
+Timestep:  57  - Number of available nodes:  100 - Time K-connect:  16
+last_cluster_heads :  67
+len temp_cluster_heads =  17
+number of cluster heads =  88
+day ne
+current_energy =  85265.50810683185
+energy_loss =  219.65908574842817
+Timestep:  58  - Number of available nodes:  100 - Time K-connect:  16
+last_cluster_heads :  74
+len temp_cluster_heads =  25
+number of cluster heads =  56
+day ne
+current_energy =  84911.53929587883
+energy_loss =  353.96881095307293
+Timestep:  59  - Number of available nodes:  100 - Time K-connect:  16
+last_cluster_heads :  72
+len temp_cluster_heads =  3
+number of cluster heads =  53
+day ne
+current_energy =  84608.54466915026
+energy_loss =  302.99462672853184
+Timestep:  60  - Number of available nodes:  100 - Time K-connect:  16
+last_cluster_heads :  72
+len temp_cluster_heads =  2
+number of cluster heads =  87
+day ne
+current_energy =  84388.49866860942
+energy_loss =  220.04600054089315
+Timestep:  61  - Number of available nodes:  100 - Time K-connect:  16
+last_cluster_heads :  72
+len temp_cluster_heads =  3
+number of cluster heads =  44
+current_energy =  84263.66686894624
+energy_loss =  124.83179966314312
+Timestep:  62  - Number of available nodes:  100 - Time K-connect:  17
+last_cluster_heads :  74
+len temp_cluster_heads =  6
+number of cluster heads =  32
+current_energy =  84123.9253683334
+energy_loss =  139.74150061287716
+Timestep:  63  - Number of available nodes:  100 - Time K-connect:  18
+last_cluster_heads :  76
+len temp_cluster_heads =  7
+number of cluster heads =  47
+day ne
+current_energy =  83737.8101962784
+energy_loss =  386.1151720549529
+Timestep:  64  - Number of available nodes:  100 - Time K-connect:  18
+last_cluster_heads :  81
+len temp_cluster_heads =  4
+number of cluster heads =  47
+current_energy =  83616.3854462917
+energy_loss =  121.42474998675306
+Timestep:  65  - Number of available nodes:  100 - Time K-connect:  19
+last_cluster_heads :  82
+len temp_cluster_heads =  2
+number of cluster heads =  35
+current_energy =  83485.64977614343
+energy_loss =  130.73567014820892
+Timestep:  66  - Number of available nodes:  100 - Time K-connect:  20
+last_cluster_heads :  78
+len temp_cluster_heads =  9
+number of cluster heads =  39
+current_energy =  83358.73973535337
+energy_loss =  126.91004079005344
+Timestep:  67  - Number of available nodes:  100 - Time K-connect:  21
+last_cluster_heads :  78
+len temp_cluster_heads =  8
+number of cluster heads =  46
+current_energy =  83233.34177923718
+energy_loss =  125.39795611623434
+Timestep:  68  - Number of available nodes:  100 - Time K-connect:  22
+last_cluster_heads :  69
+len temp_cluster_heads =  30
+number of cluster heads =  44
+current_energy =  83105.22146156941
+energy_loss =  128.12031766776676
+Timestep:  69  - Number of available nodes:  100 - Time K-connect:  23
+last_cluster_heads :  74
+len temp_cluster_heads =  2
+number of cluster heads =  77
+day ne
+current_energy =  82876.62604743298
+energy_loss =  228.59541413646298
+Timestep:  70  - Number of available nodes:  100 - Time K-connect:  23
+last_cluster_heads :  73
+len temp_cluster_heads =  2
+number of cluster heads =  81
+day ne
+current_energy =  82651.6966923227
+energy_loss =  224.92935511025286
+Timestep:  71  - Number of available nodes:  100 - Time K-connect:  23
+last_cluster_heads :  73
+len temp_cluster_heads =  1
+number of cluster heads =  47
+current_energy =  82534.22922980158
+energy_loss =  117.46746252111652
+Timestep:  72  - Number of available nodes:  100 - Time K-connect:  24
+last_cluster_heads :  71
+len temp_cluster_heads =  2
+number of cluster heads =  51
+day ne
+current_energy =  82163.64183283593
+energy_loss =  370.5873969656418
+Timestep:  73  - Number of available nodes:  100 - Time K-connect:  24
+last_cluster_heads :  67
+len temp_cluster_heads =  9
+number of cluster heads =  88
+day ne
+current_energy =  81945.56176707846
+energy_loss =  218.08006575746316
+Timestep:  74  - Number of available nodes:  100 - Time K-connect:  24
+last_cluster_heads :  69
+len temp_cluster_heads =  6
+number of cluster heads =  47
+current_energy =  81812.43912919334
+energy_loss =  133.12263788514488
+Timestep:  75  - Number of available nodes:  100 - Time K-connect:  25
+last_cluster_heads :  71
+len temp_cluster_heads =  9
+number of cluster heads =  86
+day ne
+current_energy =  81594.25222272392
+energy_loss =  218.18690646940865
+Timestep:  76  - Number of available nodes:  100 - Time K-connect:  25
+last_cluster_heads :  78
+len temp_cluster_heads =  11
+number of cluster heads =  53
+day ne
+current_energy =  81252.10073626839
+energy_loss =  342.15148645548254
+Timestep:  77  - Number of available nodes:  100 - Time K-connect:  25
+last_cluster_heads :  80
+len temp_cluster_heads =  10
+number of cluster heads =  64
+day ne
+current_energy =  80990.2225481852
+energy_loss =  261.8781880832477
+Timestep:  78  - Number of available nodes:  100 - Time K-connect:  25
+last_cluster_heads :  82
+len temp_cluster_heads =  17
+number of cluster heads =  52
+day ne
+current_energy =  80635.68362267019
+energy_loss =  354.53892551505834
+Timestep:  79  - Number of available nodes:  100 - Time K-connect:  25
+last_cluster_heads :  69
+len temp_cluster_heads =  5
+number of cluster heads =  59
+day ne
+current_energy =  80325.24587627282
+energy_loss =  310.4377463973069
+Timestep:  80  - Number of available nodes:  100 - Time K-connect:  25
+last_cluster_heads :  72
+len temp_cluster_heads =  4
+number of cluster heads =  38
+current_energy =  80200.8512902502
+energy_loss =  124.39458602262658
+Timestep:  81  - Number of available nodes:  100 - Time K-connect:  26
+last_cluster_heads :  74
+len temp_cluster_heads =  2
+number of cluster heads =  47
+current_energy =  80077.05465853705
+energy_loss =  123.79663171316068
+Timestep:  82  - Number of available nodes:  100 - Time K-connect:  27
+last_cluster_heads :  75
+len temp_cluster_heads =  5
+number of cluster heads =  83
+day ne
+current_energy =  79854.53362462943
+energy_loss =  222.52103390761025
+Timestep:  83  - Number of available nodes:  100 - Time K-connect:  27
+last_cluster_heads :  78
+len temp_cluster_heads =  6
+number of cluster heads =  40
+current_energy =  79735.67724690812
+energy_loss =  118.85637772132242
+Timestep:  84  - Number of available nodes:  100 - Time K-connect:  28
+last_cluster_heads :  75
+len temp_cluster_heads =  4
+number of cluster heads =  58
+day ne
+current_energy =  79451.795651702
+energy_loss =  283.88159520613584
+Timestep:  85  - Number of available nodes:  100 - Time K-connect:  28
+last_cluster_heads :  73
+len temp_cluster_heads =  4
+number of cluster heads =  71
+day ne
+current_energy =  79214.30896622632
+energy_loss =  237.4866854756246
+Timestep:  86  - Number of available nodes:  100 - Time K-connect:  28
+last_cluster_heads :  68
+len temp_cluster_heads =  12
+number of cluster heads =  59
+day ne
+current_energy =  78919.08450462793
+energy_loss =  295.22446159840706
+Timestep:  87  - Number of available nodes:  100 - Time K-connect:  28
+last_cluster_heads :  69
+len temp_cluster_heads =  16
+number of cluster heads =  63
+day ne
+current_energy =  78646.95916863042
+energy_loss =  272.12533599754573
+Timestep:  88  - Number of available nodes:  100 - Time K-connect:  28
+last_cluster_heads :  75
+len temp_cluster_heads =  24
+number of cluster heads =  44
+current_energy =  78514.07856378042
+energy_loss =  132.88060485000176
+Timestep:  89  - Number of available nodes:  100 - Time K-connect:  29
+last_cluster_heads :  82
+len temp_cluster_heads =  2
+number of cluster heads =  61
+day ne
+current_energy =  78246.06622396236
+energy_loss =  268.0123398180084
+Timestep:  90  - Number of available nodes:  100 - Time K-connect:  29
+last_cluster_heads :  79
+len temp_cluster_heads =  0
+number of cluster heads =  65
+day ne
+current_energy =  77990.2457904545
+energy_loss =  255.82043350789382
+Timestep:  91  - Number of available nodes:  100 - Time K-connect:  29
+last_cluster_heads :  75
+len temp_cluster_heads =  1
+number of cluster heads =  51
+day ne
+current_energy =  77640.25527702708
+energy_loss =  349.9905134274497
+Timestep:  92  - Number of available nodes:  100 - Time K-connect:  29
+last_cluster_heads :  74
+len temp_cluster_heads =  3
+number of cluster heads =  59
+day ne
+current_energy =  77373.01023710903
+energy_loss =  267.24503991803493
+Timestep:  93  - Number of available nodes:  100 - Time K-connect:  29
+last_cluster_heads :  72
+len temp_cluster_heads =  3
+number of cluster heads =  41
+current_energy =  77239.3157093015
+energy_loss =  133.69452780753292
+Timestep:  94  - Number of available nodes:  100 - Time K-connect:  30
+last_cluster_heads :  69
+len temp_cluster_heads =  2
+number of cluster heads =  51
+day ne
+current_energy =  76864.1485905689
+energy_loss =  375.1671187326136
+Timestep:  95  - Number of available nodes:  100 - Time K-connect:  30
+last_cluster_heads :  67
+len temp_cluster_heads =  8
+number of cluster heads =  22
+current_energy =  76720.95841243867
+energy_loss =  143.19017813021622
+Timestep:  96  - Number of available nodes:  100 - Time K-connect:  31
+last_cluster_heads :  71
+len temp_cluster_heads =  11
+number of cluster heads =  57
+day ne
+current_energy =  76428.74980214272
+energy_loss =  292.2086102959903
+Timestep:  97  - Number of available nodes:  100 - Time K-connect:  31
+last_cluster_heads :  70
+len temp_cluster_heads =  14
+number of cluster heads =  50
+day ne
+current_energy =  76078.71044437287
+energy_loss =  350.0393577698406
+Timestep:  98  - Number of available nodes:  100 - Time K-connect:  31
+last_cluster_heads :  68
+len temp_cluster_heads =  31
+number of cluster heads =  53
+day ne
+current_energy =  75773.14459586774
+energy_loss =  305.56584850512274
+Timestep:  99  - Number of available nodes:  100 - Time K-connect:  31
+last_cluster_heads :  75
+len temp_cluster_heads =  0
+number of cluster heads =  41
+current_energy =  75646.16652167661
+energy_loss =  126.9780741911309
+Timestep:  100  - Number of available nodes:  100 - Time K-connect:  32
+last_cluster_heads :  73
+len temp_cluster_heads =  1
+number of cluster heads =  68
+day ne
+current_energy =  75400.59653013817
+energy_loss =  245.56999153845229
+Timestep:  101  - Number of available nodes:  100 - Time K-connect:  32
+last_cluster_heads :  74
+len temp_cluster_heads =  4
+number of cluster heads =  33
+current_energy =  75284.33160174233
+energy_loss =  116.26492839581714
+Timestep:  102  - Number of available nodes:  100 - Time K-connect:  33
+last_cluster_heads :  77
+len temp_cluster_heads =  4
+number of cluster heads =  71
+day ne
+current_energy =  75045.5522032708
+energy_loss =  238.77939847155614
+Timestep:  103  - Number of available nodes:  100 - Time K-connect:  33
+last_cluster_heads :  78
+len temp_cluster_heads =  5
+number of cluster heads =  65
+day ne
+current_energy =  74790.12306069255
+energy_loss =  255.4291425782643
+Timestep:  104  - Number of available nodes:  100 - Time K-connect:  33
+last_cluster_heads :  80
+len temp_cluster_heads =  2
+number of cluster heads =  62
+day ne
+current_energy =  74522.96150427662
+energy_loss =  267.1615564158935
+Timestep:  105  - Number of available nodes:  100 - Time K-connect:  33
+last_cluster_heads :  80
+len temp_cluster_heads =  4
+number of cluster heads =  63
+day ne
+current_energy =  74262.36479739838
+energy_loss =  260.59670687823075
+Timestep:  106  - Number of available nodes:  100 - Time K-connect:  33
+last_cluster_heads :  76
+len temp_cluster_heads =  11
+number of cluster heads =  69
+day ne
+current_energy =  74024.38986817976
+energy_loss =  237.9749292187074
+Timestep:  107  - Number of available nodes:  100 - Time K-connect:  33
+last_cluster_heads :  76
+len temp_cluster_heads =  12
+number of cluster heads =  75
+day ne
+current_energy =  73788.32844755083
+energy_loss =  236.06142062888148
+Timestep:  108  - Number of available nodes:  100 - Time K-connect:  33
+last_cluster_heads :  74
+len temp_cluster_heads =  25
+number of cluster heads =  69
+day ne
+current_energy =  73537.62296222291
+energy_loss =  250.7054853278901
+Timestep:  109  - Number of available nodes:  100 - Time K-connect:  33
+last_cluster_heads :  68
+len temp_cluster_heads =  2
+number of cluster heads =  40
+current_energy =  73421.68776015867
+energy_loss =  115.93520206432551
+Timestep:  110  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  70
+len temp_cluster_heads =  5
+number of cluster heads =  68
+day ne
+current_energy =  73164.33686415301
+energy_loss =  257.3508960055853
+Timestep:  111  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  74
+len temp_cluster_heads =  2
+number of cluster heads =  66
+day ne
+current_energy =  72907.45311415785
+energy_loss =  256.8837499952103
+Timestep:  112  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  72
+len temp_cluster_heads =  2
+number of cluster heads =  65
+day ne
+current_energy =  72657.01638989913
+energy_loss =  250.4367242587153
+Timestep:  113  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  70
+len temp_cluster_heads =  2
+number of cluster heads =  56
+day ne
+current_energy =  72367.5750104073
+energy_loss =  289.4413794918447
+Timestep:  114  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  67
+len temp_cluster_heads =  9
+number of cluster heads =  50
+day ne
+current_energy =  72019.98461061146
+energy_loss =  347.59039979584395
+Timestep:  115  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  74
+len temp_cluster_heads =  8
+number of cluster heads =  57
+day ne
+current_energy =  71716.36606387827
+energy_loss =  303.6185467331954
+Timestep:  116  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  78
+len temp_cluster_heads =  9
+number of cluster heads =  70
+day ne
+current_energy =  71470.91294856711
+energy_loss =  245.4531153110967
+Timestep:  117  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  76
+len temp_cluster_heads =  13
+number of cluster heads =  61
+day ne
+current_energy =  71173.08612444132
+energy_loss =  297.82682412583114
+Timestep:  118  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  77
+len temp_cluster_heads =  22
+number of cluster heads =  75
+day ne
+current_energy =  70945.15877328055
+energy_loss =  227.92735116077088
+Timestep:  119  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  74
+len temp_cluster_heads =  1
+number of cluster heads =  73
+day ne
+current_energy =  70702.89447940285
+energy_loss =  242.26429387771503
+Timestep:  120  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  73
+len temp_cluster_heads =  0
+number of cluster heads =  43
+current_energy =  70578.73230068809
+energy_loss =  124.1621787147567
+Timestep:  121  - Number of available nodes:  100 - Time K-connect:  35
+last_cluster_heads :  68
+len temp_cluster_heads =  3
+number of cluster heads =  34
+current_energy =  70433.66352242343
+energy_loss =  145.0687782646629
+Timestep:  122  - Number of available nodes:  100 - Time K-connect:  36
+last_cluster_heads :  69
+len temp_cluster_heads =  3
+number of cluster heads =  64
+day ne
+current_energy =  70174.92004803404
+energy_loss =  258.7434743894113
+Timestep:  123  - Number of available nodes:  100 - Time K-connect:  36
+last_cluster_heads :  70
+len temp_cluster_heads =  7
+number of cluster heads =  58
+day ne
+current_energy =  69896.16654926614
+energy_loss =  278.75349876790733
+Timestep:  124  - Number of available nodes:  100 - Time K-connect:  36
+last_cluster_heads :  75
+len temp_cluster_heads =  3
+number of cluster heads =  48
+current_energy =  69765.53823448173
+energy_loss =  130.62831478440012
+Timestep:  125  - Number of available nodes:  100 - Time K-connect:  37
+last_cluster_heads :  69
+len temp_cluster_heads =  7
+number of cluster heads =  72
+day ne
+current_energy =  69521.16303028891
+energy_loss =  244.37520419281438
+Timestep:  126  - Number of available nodes:  100 - Time K-connect:  37
+last_cluster_heads :  68
+len temp_cluster_heads =  7
+number of cluster heads =  54
+day ne
+current_energy =  69243.77462214635
+energy_loss =  277.3884081425295
+Timestep:  127  - Number of available nodes:  100 - Time K-connect:  37
+last_cluster_heads :  66
+len temp_cluster_heads =  17
+number of cluster heads =  46
+current_energy =  69117.80454257526
+energy_loss =  125.97007957109366
+Timestep:  128  - Number of available nodes:  100 - Time K-connect:  38
+last_cluster_heads :  70
+len temp_cluster_heads =  29
+number of cluster heads =  63
+day ne
+current_energy =  68836.0708274866
+energy_loss =  281.7337150886725
+Timestep:  129  - Number of available nodes:  100 - Time K-connect:  38
+last_cluster_heads :  77
+len temp_cluster_heads =  2
+number of cluster heads =  52
+day ne
+current_energy =  68469.17409827029
+energy_loss =  366.8967292163161
+Timestep:  130  - Number of available nodes:  100 - Time K-connect:  38
+last_cluster_heads :  78
+len temp_cluster_heads =  2
+number of cluster heads =  58
+day ne
+current_energy =  68186.01510456382
+energy_loss =  283.1589937064906
+Timestep:  131  - Number of available nodes:  100 - Time K-connect:  38
+last_cluster_heads :  80
+len temp_cluster_heads =  5
+number of cluster heads =  49
+current_energy =  68062.55102557718
+energy_loss =  123.46407898664151
+Timestep:  132  - Number of available nodes:  100 - Time K-connect:  39
+last_cluster_heads :  82
+len temp_cluster_heads =  4
+number of cluster heads =  76
+day ne
+current_energy =  67829.10808109191
+energy_loss =  233.44294448525207
+Timestep:  133  - Number of available nodes:  100 - Time K-connect:  39
+last_cluster_heads :  83
+len temp_cluster_heads =  4
+number of cluster heads =  62
+day ne
+current_energy =  67559.27532474331
+energy_loss =  269.83275634861263
+Timestep:  134  - Number of available nodes:  100 - Time K-connect:  39
+last_cluster_heads :  80
+len temp_cluster_heads =  4
+number of cluster heads =  53
+day ne
+current_energy =  67248.10703913258
+energy_loss =  311.16828561076267
+Timestep:  135  - Number of available nodes:  100 - Time K-connect:  39
+last_cluster_heads :  81
+len temp_cluster_heads =  8
+number of cluster heads =  69
+day ne
+current_energy =  67013.32698088499
+energy_loss =  234.78005824756113
+Timestep:  136  - Number of available nodes:  100 - Time K-connect:  39
+last_cluster_heads :  82
+len temp_cluster_heads =  3
+number of cluster heads =  58
+day ne
+current_energy =  66731.05536880747
+energy_loss =  282.2716120775254
+Timestep:  137  - Number of available nodes:  100 - Time K-connect:  39
+last_cluster_heads :  78
+len temp_cluster_heads =  15
+number of cluster heads =  45
+current_energy =  66599.84087616438
+energy_loss =  131.21449264308555
+Timestep:  138  - Number of available nodes:  100 - Time K-connect:  40
+last_cluster_heads :  76
+len temp_cluster_heads =  23
+number of cluster heads =  51
+day ne
+current_energy =  66270.96814289637
+energy_loss =  328.8727332680029
+Timestep:  139  - Number of available nodes:  100 - Time K-connect:  40
+last_cluster_heads :  70
+len temp_cluster_heads =  7
+number of cluster heads =  52
+day ne
+current_energy =  65939.17113815184
+energy_loss =  331.7970047445671
+Timestep:  140  - Number of available nodes:  100 - Time K-connect:  40
+last_cluster_heads :  75
+len temp_cluster_heads =  2
+number of cluster heads =  38
+current_energy =  65822.12872730424
+energy_loss =  117.04241084761846
+Timestep:  141  - Number of available nodes:  100 - Time K-connect:  41
+last_cluster_heads :  75
+len temp_cluster_heads =  3
+number of cluster heads =  40
+current_energy =  65702.36374432978
+energy_loss =  119.76498297444755
+Timestep:  142  - Number of available nodes:  100 - Time K-connect:  42
+last_cluster_heads :  73
+len temp_cluster_heads =  4
+number of cluster heads =  67
+day ne
+current_energy =  65456.06406834608
+energy_loss =  246.2996759836913
+Timestep:  143  - Number of available nodes:  100 - Time K-connect:  42
+last_cluster_heads :  73
+len temp_cluster_heads =  4
+number of cluster heads =  50
+day ne
+current_energy =  65138.143228756286
+energy_loss =  317.9208395897988
+Timestep:  144  - Number of available nodes:  100 - Time K-connect:  42
+last_cluster_heads :  73
+len temp_cluster_heads =  7
+number of cluster heads =  52
+day ne
+current_energy =  64825.19922621139
+energy_loss =  312.9440025448756
+Timestep:  145  - Number of available nodes:  100 - Time K-connect:  42
+last_cluster_heads :  76
+len temp_cluster_heads =  7
+number of cluster heads =  69
+day ne
+current_energy =  64559.33675293585
+energy_loss =  265.86247327554224
+Timestep:  146  - Number of available nodes:  100 - Time K-connect:  42
+last_cluster_heads :  75
+len temp_cluster_heads =  10
+number of cluster heads =  68
+day ne
+current_energy =  64307.32319860202
+energy_loss =  252.0135543338554
+Timestep:  147  - Number of available nodes:  100 - Time K-connect:  42
+last_cluster_heads :  82
+len temp_cluster_heads =  5
+number of cluster heads =  82
+day ne
+current_energy =  64085.50304517344
+energy_loss =  221.82015342858045
+Timestep:  148  - Number of available nodes:  100 - Time K-connect:  42
+last_cluster_heads :  72
+len temp_cluster_heads =  27
+number of cluster heads =  65
+day ne
+current_energy =  63845.0097224528
+energy_loss =  240.49332272064856
+Timestep:  149  - Number of available nodes:  100 - Time K-connect:  42
+last_cluster_heads :  76
+len temp_cluster_heads =  2
+number of cluster heads =  59
+day ne
+current_energy =  63574.7504517258
+energy_loss =  270.2592707270002
+Timestep:  150  - Number of available nodes:  100 - Time K-connect:  42
+last_cluster_heads :  71
+len temp_cluster_heads =  1
+number of cluster heads =  45
+current_energy =  63461.92733173567
+energy_loss =  112.82311999013814
+Timestep:  151  - Number of available nodes:  100 - Time K-connect:  43
+last_cluster_heads :  70
+len temp_cluster_heads =  2
+number of cluster heads =  72
+day ne
+current_energy =  63225.31856410751
+energy_loss =  236.60876762815286
+Timestep:  152  - Number of available nodes:  100 - Time K-connect:  43
+last_cluster_heads :  69
+len temp_cluster_heads =  2
+number of cluster heads =  45
+current_energy =  63114.156663526526
+energy_loss =  111.16190058099116
+Timestep:  153  - Number of available nodes:  100 - Time K-connect:  44
+last_cluster_heads :  67
+len temp_cluster_heads =  7
+number of cluster heads =  52
+day ne
+current_energy =  62777.064229898264
+energy_loss =  337.0924336282721
+Timestep:  154  - Number of available nodes:  100 - Time K-connect:  44
+last_cluster_heads :  70
+len temp_cluster_heads =  6
+number of cluster heads =  67
+day ne
+current_energy =  62527.92219499895
+energy_loss =  249.14203489930802
+Timestep:  155  - Number of available nodes:  100 - Time K-connect:  44
+last_cluster_heads :  69
+len temp_cluster_heads =  10
+number of cluster heads =  33
+current_energy =  62401.60030430482
+energy_loss =  126.32189069411848
+Timestep:  156  - Number of available nodes:  100 - Time K-connect:  45
+last_cluster_heads :  72
+len temp_cluster_heads =  9
+number of cluster heads =  55
+day ne
+current_energy =  62055.21196026727
+energy_loss =  346.3883440375658
+Timestep:  157  - Number of available nodes:  100 - Time K-connect:  45
+last_cluster_heads :  71
+len temp_cluster_heads =  15
+number of cluster heads =  37
+current_energy =  61923.03194835508
+energy_loss =  132.1800119122055
+Timestep:  158  - Number of available nodes:  100 - Time K-connect:  46
+last_cluster_heads :  81
+len temp_cluster_heads =  18
+number of cluster heads =  44
+current_energy =  61805.68469067363
+energy_loss =  117.34725768141162
+Timestep:  159  - Number of available nodes:  100 - Time K-connect:  47
+last_cluster_heads :  72
+len temp_cluster_heads =  5
+number of cluster heads =  58
+day ne
+current_energy =  61517.95174208142
+energy_loss =  287.73294859222557
+Timestep:  160  - Number of available nodes:  100 - Time K-connect:  47
+last_cluster_heads :  75
+len temp_cluster_heads =  2
+number of cluster heads =  62
+day ne
+current_energy =  61257.876031515225
+energy_loss =  260.07571056617786
+Timestep:  161  - Number of available nodes:  100 - Time K-connect:  47
+last_cluster_heads :  76
+len temp_cluster_heads =  2
+number of cluster heads =  76
+day ne
+current_energy =  61031.5648724303
+energy_loss =  226.31115908491648
+Timestep:  162  - Number of available nodes:  100 - Time K-connect:  47
+last_cluster_heads :  76
+len temp_cluster_heads =  1
+number of cluster heads =  71
+day ne
+current_energy =  60788.63411397909
+energy_loss =  242.93075845124224
+Timestep:  163  - Number of available nodes:  100 - Time K-connect:  47
+last_cluster_heads :  75
+len temp_cluster_heads =  3
+number of cluster heads =  85
+day ne
+current_energy =  60564.315067487216
+energy_loss =  224.31904649187237
+Timestep:  164  - Number of available nodes:  100 - Time K-connect:  47
+last_cluster_heads :  71
+len temp_cluster_heads =  6
+number of cluster heads =  54
+day ne
+current_energy =  60229.184304504575
+energy_loss =  335.1307629826454
+Timestep:  165  - Number of available nodes:  100 - Time K-connect:  47
+last_cluster_heads :  71
+len temp_cluster_heads =  9
+number of cluster heads =  33
+current_energy =  60115.81440842788
+energy_loss =  113.36989607671138
+Timestep:  166  - Number of available nodes:  100 - Time K-connect:  48
+last_cluster_heads :  70
+len temp_cluster_heads =  16
+number of cluster heads =  37
+current_energy =  59992.63797245867
+energy_loss =  123.17643596916814
+Timestep:  167  - Number of available nodes:  100 - Time K-connect:  49
+last_cluster_heads :  77
+len temp_cluster_heads =  9
+number of cluster heads =  58
+day ne
+current_energy =  59717.72843461438
+energy_loss =  274.90953784430235
+Timestep:  168  - Number of available nodes:  100 - Time K-connect:  49
+last_cluster_heads :  71
+len temp_cluster_heads =  28
+number of cluster heads =  70
+day ne
+current_energy =  59479.148950801035
+energy_loss =  238.57948381335183
+Timestep:  169  - Number of available nodes:  100 - Time K-connect:  49
+last_cluster_heads :  81
+len temp_cluster_heads =  1
+number of cluster heads =  56
+day ne
+current_energy =  59183.781282785465
+energy_loss =  295.36766801556223
+Timestep:  170  - Number of available nodes:  100 - Time K-connect:  49
+last_cluster_heads :  77
+len temp_cluster_heads =  3
+number of cluster heads =  54
+day ne
+current_energy =  58832.42549938126
+energy_loss =  351.3557834042213
+Timestep:  171  - Number of available nodes:  100 - Time K-connect:  49
+last_cluster_heads :  78
+len temp_cluster_heads =  2
+number of cluster heads =  41
+current_energy =  58705.215288673695
+energy_loss =  127.2102107075775
+Timestep:  172  - Number of available nodes:  100 - Time K-connect:  50
+last_cluster_heads :  78
+len temp_cluster_heads =  3
+number of cluster heads =  50
+day ne
+current_energy =  58350.37040933412
+energy_loss =  354.84487933956945
+Timestep:  173  - Number of available nodes:  100 - Time K-connect:  50
+last_cluster_heads :  80
+len temp_cluster_heads =  3
+number of cluster heads =  46
+current_energy =  58223.517968187625
+energy_loss =  126.85244114649586
+Timestep:  174  - Number of available nodes:  100 - Time K-connect:  51
+last_cluster_heads :  80
+len temp_cluster_heads =  6
+number of cluster heads =  42
+current_energy =  58089.48787844027
+energy_loss =  134.030089747338
+Timestep:  175  - Number of available nodes:  100 - Time K-connect:  52
+last_cluster_heads :  80
+len temp_cluster_heads =  6
+number of cluster heads =  51
+day ne
+current_energy =  57763.07540079829
+energy_loss =  326.4124776419799
+Timestep:  176  - Number of available nodes:  100 - Time K-connect:  52
+last_cluster_heads :  77
+len temp_cluster_heads =  4
+number of cluster heads =  66
+day ne
+current_energy =  57489.675455219556
+energy_loss =  273.39994557875
+Timestep:  177  - Number of available nodes:  100 - Time K-connect:  52
+last_cluster_heads :  65
+len temp_cluster_heads =  24
+number of cluster heads =  49
+current_energy =  57366.44409509032
+energy_loss =  123.23136012923132
+Timestep:  178  - Number of available nodes:  100 - Time K-connect:  53
+last_cluster_heads :  80
+len temp_cluster_heads =  19
+number of cluster heads =  48
+current_energy =  57249.63056873952
+energy_loss =  116.81352635081598
+Timestep:  179  - Number of available nodes:  100 - Time K-connect:  54
+last_cluster_heads :  71
+len temp_cluster_heads =  1
+number of cluster heads =  71
+day ne
+current_energy =  57005.092375098895
+energy_loss =  244.53819364060553
+Timestep:  180  - Number of available nodes:  100 - Time K-connect:  54
+last_cluster_heads :  71
+len temp_cluster_heads =  2
+number of cluster heads =  47
+current_energy =  56874.69815656917
+energy_loss =  130.39421852973567
+Timestep:  181  - Number of available nodes:  100 - Time K-connect:  55
+last_cluster_heads :  70
+len temp_cluster_heads =  5
+number of cluster heads =  52
+day ne
+current_energy =  56527.90471235305
+energy_loss =  346.7934442161099
+Timestep:  182  - Number of available nodes:  100 - Time K-connect:  55
+last_cluster_heads :  73
+len temp_cluster_heads =  1
+number of cluster heads =  62
+day ne
+current_energy =  56262.13224971703
+energy_loss =  265.77246263601654
+Timestep:  183  - Number of available nodes:  100 - Time K-connect:  55
+last_cluster_heads :  71
+len temp_cluster_heads =  8
+number of cluster heads =  54
+day ne
+current_energy =  55937.94444976478
+energy_loss =  324.18779995224975
+Timestep:  184  - Number of available nodes:  100 - Time K-connect:  55
+last_cluster_heads :  76
+len temp_cluster_heads =  4
+number of cluster heads =  52
+day ne
+current_energy =  55613.461456962585
+energy_loss =  324.4829928021839
+Timestep:  185  - Number of available nodes:  100 - Time K-connect:  55
+last_cluster_heads :  74
+len temp_cluster_heads =  11
+number of cluster heads =  61
+day ne
+current_energy =  55359.66210524829
+energy_loss =  253.79935171431518
+Timestep:  186  - Number of available nodes:  100 - Time K-connect:  55
+last_cluster_heads :  79
+len temp_cluster_heads =  7
+number of cluster heads =  55
+day ne
+current_energy =  55062.01490905448
+energy_loss =  297.64719619381975
+Timestep:  187  - Number of available nodes:  100 - Time K-connect:  55
+last_cluster_heads :  82
+len temp_cluster_heads =  11
+number of cluster heads =  48
+current_energy =  54938.47167476403
+energy_loss =  123.5432342904156
+Timestep:  188  - Number of available nodes:  100 - Time K-connect:  56
+last_cluster_heads :  69
+len temp_cluster_heads =  30
+number of cluster heads =  42
+current_energy =  54807.84773117197
+energy_loss =  130.62394359207576
+Timestep:  189  - Number of available nodes:  100 - Time K-connect:  57
+last_cluster_heads :  80
+len temp_cluster_heads =  2
+number of cluster heads =  63
+day ne
+current_energy =  54534.09931703439
+energy_loss =  273.74841413759407
+Timestep:  190  - Number of available nodes:  100 - Time K-connect:  57
+last_cluster_heads :  81
+len temp_cluster_heads =  2
+number of cluster heads =  48
+current_energy =  54422.88700665333
+energy_loss =  111.21231038104052
+Timestep:  191  - Number of available nodes:  100 - Time K-connect:  58
+last_cluster_heads :  81
+len temp_cluster_heads =  0
+number of cluster heads =  69
+day ne
+current_energy =  54186.792908149204
+energy_loss =  236.09409850415312
+Timestep:  192  - Number of available nodes:  100 - Time K-connect:  58
+last_cluster_heads :  76
+len temp_cluster_heads =  2
+number of cluster heads =  72
+day ne
+current_energy =  53949.25069396854
+energy_loss =  237.54221418064407
+Timestep:  193  - Number of available nodes:  100 - Time K-connect:  58
+last_cluster_heads :  77
+len temp_cluster_heads =  2
+number of cluster heads =  34
+current_energy =  53821.574802725045
+energy_loss =  127.67589124350518
+Timestep:  194  - Number of available nodes:  100 - Time K-connect:  59
+last_cluster_heads :  71
+len temp_cluster_heads =  9
+number of cluster heads =  53
+day ne
+current_energy =  53512.22108034005
+energy_loss =  309.3537223850183
+Timestep:  195  - Number of available nodes:  100 - Time K-connect:  59
+last_cluster_heads :  76
+len temp_cluster_heads =  8
+number of cluster heads =  65
+day ne
+current_energy =  53261.52107152679
+energy_loss =  250.7000088132581
+Timestep:  196  - Number of available nodes:  100 - Time K-connect:  59
+last_cluster_heads :  73
+len temp_cluster_heads =  8
+number of cluster heads =  47
+current_energy =  53135.06427168986
+energy_loss =  126.45679983692517
+Timestep:  197  - Number of available nodes:  100 - Time K-connect:  60
+last_cluster_heads :  74
+len temp_cluster_heads =  16
+number of cluster heads =  67
+day ne
+current_energy =  52893.726990236886
+energy_loss =  241.33728145297317
+Timestep:  198  - Number of available nodes:  100 - Time K-connect:  60
+last_cluster_heads :  79
+len temp_cluster_heads =  20
+number of cluster heads =  42
+current_energy =  52772.5729953475
+energy_loss =  121.15399488936586
+Timestep:  199  - Number of available nodes:  100 - Time K-connect:  61
+last_cluster_heads :  69
+len temp_cluster_heads =  2
+number of cluster heads =  89
+day ne
+current_energy =  52556.51346133356
+energy_loss =  216.05953401394362
+Timestep:  200  - Number of available nodes:  100 - Time K-connect:  61
+last_cluster_heads :  69
+len temp_cluster_heads =  3
+number of cluster heads =  75
+day ne
+current_energy =  52313.639037754314
+energy_loss =  242.87442357924812
+Timestep:  201  - Number of available nodes:  100 - Time K-connect:  61
+last_cluster_heads :  70
+len temp_cluster_heads =  4
+number of cluster heads =  84
+day ne
+current_energy =  52092.44478262581
+energy_loss =  221.19425512850526
+Timestep:  202  - Number of available nodes:  100 - Time K-connect:  61
+last_cluster_heads :  74
+len temp_cluster_heads =  5
+number of cluster heads =  55
+day ne
+current_energy =  51766.61562919665
+energy_loss =  325.82915342916044
+Timestep:  203  - Number of available nodes:  100 - Time K-connect:  61
+last_cluster_heads :  77
+len temp_cluster_heads =  2
+number of cluster heads =  45
+current_energy =  51637.85455596028
+energy_loss =  128.76107323637746
+Timestep:  204  - Number of available nodes:  100 - Time K-connect:  62
+last_cluster_heads :  77
+len temp_cluster_heads =  7
+number of cluster heads =  43
+current_energy =  51501.605878408176
+energy_loss =  136.2486775520954
+Timestep:  205  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  75
+len temp_cluster_heads =  4
+number of cluster heads =  62
+day ne
+current_energy =  51227.245000231975
+energy_loss =  274.3608781761989
+Timestep:  206  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  71
+len temp_cluster_heads =  5
+number of cluster heads =  58
+day ne
+current_energy =  50951.088663400165
+energy_loss =  276.1563368318078
+Timestep:  207  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  68
+len temp_cluster_heads =  16
+number of cluster heads =  51
+day ne
+current_energy =  50596.51001526672
+energy_loss =  354.57864813344776
+Timestep:  208  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  68
+len temp_cluster_heads =  31
+number of cluster heads =  80
+day ne
+current_energy =  50371.8726074039
+energy_loss =  224.6374078628447
+Timestep:  209  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  79
+len temp_cluster_heads =  2
+number of cluster heads =  68
+day ne
+current_energy =  50118.393978362554
+energy_loss =  253.4786290413454
+Timestep:  210  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  79
+len temp_cluster_heads =  1
+number of cluster heads =  67
+day ne
+current_energy =  49873.38618942395
+energy_loss =  245.00778893858032
+Timestep:  211  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  77
+len temp_cluster_heads =  1
+number of cluster heads =  62
+day ne
+current_energy =  49610.03086199076
+energy_loss =  263.3553274331913
+Timestep:  212  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  74
+len temp_cluster_heads =  4
+number of cluster heads =  75
+day ne
+current_energy =  49376.09068751992
+energy_loss =  233.94017447087202
+Timestep:  213  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  73
+len temp_cluster_heads =  3
+number of cluster heads =  48
+day ne
+current_energy =  49038.956117859365
+energy_loss =  337.1345696605317
+Timestep:  214  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  74
+len temp_cluster_heads =  7
+number of cluster heads =  54
+day ne
+current_energy =  48742.14186503094
+energy_loss =  296.81425282843605
+Timestep:  215  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  74
+len temp_cluster_heads =  5
+number of cluster heads =  41
+current_energy =  48622.69436180432
+energy_loss =  119.44750322660117
+Timestep:  216  - Number of available nodes:  100 - Time K-connect:  64
+last_cluster_heads :  75
+len temp_cluster_heads =  7
+number of cluster heads =  68
+day ne
+current_energy =  48377.208537025515
+energy_loss =  245.48582477881538
+Timestep:  217  - Number of available nodes:  100 - Time K-connect:  64
+last_cluster_heads :  77
+len temp_cluster_heads =  10
+number of cluster heads =  42
+current_energy =  48247.34132571938
+energy_loss =  129.86721130615592
+Timestep:  218  - Number of available nodes:  100 - Time K-connect:  65
+last_cluster_heads :  71
+len temp_cluster_heads =  28
+number of cluster heads =  69
+day ne
+current_energy =  48005.86041266251
+energy_loss =  241.48091305682897
+Timestep:  219  - Number of available nodes:  100 - Time K-connect:  65
+last_cluster_heads :  68
+len temp_cluster_heads =  2
+number of cluster heads =  43
+current_energy =  47885.85372136344
+energy_loss =  120.00669129909281
+Timestep:  220  - Number of available nodes:  100 - Time K-connect:  66
+last_cluster_heads :  68
+len temp_cluster_heads =  7
+number of cluster heads =  69
+day ne
+current_energy =  47640.975279397375
+energy_loss =  244.87844196608143
+Timestep:  221  - Number of available nodes:  100 - Time K-connect:  66
+last_cluster_heads :  74
+len temp_cluster_heads =  3
+number of cluster heads =  36
+current_energy =  47519.340760482766
+energy_loss =  121.63451891456303
+Timestep:  222  - Number of available nodes:  100 - Time K-connect:  67
+last_cluster_heads :  76
+len temp_cluster_heads =  5
+number of cluster heads =  63
+day ne
+current_energy =  47234.60624216044
+energy_loss =  284.7345183223605
+Timestep:  223  - Number of available nodes:  100 - Time K-connect:  67
+last_cluster_heads :  77
+len temp_cluster_heads =  4
+number of cluster heads =  60
+day ne
+current_energy =  46964.98815426014
+energy_loss =  269.61808790027806
+Timestep:  224  - Number of available nodes:  100 - Time K-connect:  67
+last_cluster_heads :  78
+len temp_cluster_heads =  4
+number of cluster heads =  46
+current_energy =  46822.55459801647
+energy_loss =  142.43355624365944
+Timestep:  225  - Number of available nodes:  100 - Time K-connect:  68
+last_cluster_heads :  75
+len temp_cluster_heads =  9
+number of cluster heads =  56
+day ne
+current_energy =  46533.61198158356
+energy_loss =  288.94261643292987
+Timestep:  226  - Number of available nodes:  100 - Time K-connect:  68
+last_cluster_heads :  79
+len temp_cluster_heads =  8
+number of cluster heads =  35
+current_energy =  46397.908252703935
+energy_loss =  135.70372887962554
+Timestep:  227  - Number of available nodes:  100 - Time K-connect:  69
+last_cluster_heads :  80
+len temp_cluster_heads =  8
+number of cluster heads =  79
+day ne
+current_energy =  46171.64418854728
+energy_loss =  226.26406415666193
+Timestep:  228  - Number of available nodes:  100 - Time K-connect:  69
+last_cluster_heads :  78
+len temp_cluster_heads =  21
+number of cluster heads =  54
+day ne
+current_energy =  45842.03548525481
+energy_loss =  329.60870329246075
+Timestep:  229  - Number of available nodes:  100 - Time K-connect:  69
+last_cluster_heads :  71
+len temp_cluster_heads =  0
+number of cluster heads =  39
+current_energy =  45721.598296770964
+energy_loss =  120.4371884838481
+Timestep:  230  - Number of available nodes:  100 - Time K-connect:  70
+last_cluster_heads :  69
+len temp_cluster_heads =  2
+number of cluster heads =  40
+current_energy =  45597.516759335915
+energy_loss =  124.08153743506422
+Timestep:  231  - Number of available nodes:  100 - Time K-connect:  71
+last_cluster_heads :  64
+len temp_cluster_heads =  4
+number of cluster heads =  39
+current_energy =  45478.013045922344
+energy_loss =  119.50371341351313
+Timestep:  232  - Number of available nodes:  100 - Time K-connect:  72
+last_cluster_heads :  65
+len temp_cluster_heads =  4
+number of cluster heads =  64
+day ne
+current_energy =  45229.845843392795
+energy_loss =  248.16720252956262
+Timestep:  233  - Number of available nodes:  100 - Time K-connect:  72
+last_cluster_heads :  64
+len temp_cluster_heads =  2
+number of cluster heads =  67
+day ne
+current_energy =  44988.757128317724
+energy_loss =  241.08871507511085
+Timestep:  234  - Number of available nodes:  100 - Time K-connect:  72
+last_cluster_heads :  62
+len temp_cluster_heads =  5
+number of cluster heads =  67
+day ne
+current_energy =  44740.850819554544
+energy_loss =  247.90630876314822
+Timestep:  235  - Number of available nodes:  100 - Time K-connect:  72
+last_cluster_heads :  63
+len temp_cluster_heads =  10
+number of cluster heads =  56
+day ne
+add Codeadd Markdown
+# !pip install scikit-fuzzy
+import os
+os.chdir('/kaggle/working')
+os.chdir('LEACH')
+from network import Network
+from LEACH_basic_updated import run
+
+WSN = Network(num_nodes=100, seed=64)
+WSN.save_network()
+for i in range(1000):
+    if len(WSN.available_nodes) > 10:
+        run(WSN, P=10/len(WSN.available_nodes), K1=0.2, K2=0.02, K=2, display=False)
+    else:
+        run(WSN, P=0.1, K1=0.2, K2=0.02, K=2, display=False)
+    current = 0
+    print("Timestep: ", i, " - Number of available nodes: ", len(WSN.available_nodes), "- Time K-connect: ", WSN.time_k_connect)
+    if(len(WSN.available_nodes) == 0):
+        print("Time K-connect: ", WSN.time_k_connect)
+        print("Time life: ", WSN.time_life)
+        break
+
+last_cluster_heads :  0
+len temp_cluster_heads =  13
+number of cluster heads =  55
+day ne
+ERROR! Session/line number was not unique in database. History logging moved to new session 29
+current_energy =  99707.23302533993
+energy_loss =  292.76697466002724
+Timestep:  0  - Number of available nodes:  100 - Time K-connect:  0
+last_cluster_heads :  13
+len temp_cluster_heads =  10
+number of cluster heads =  48
+current_energy =  99591.42450519632
+energy_loss =  115.80852014365044
+Timestep:  1  - Number of available nodes:  100 - Time K-connect:  1
+last_cluster_heads :  23
+len temp_cluster_heads =  9
+number of cluster heads =  44
+current_energy =  99466.48611605917
+energy_loss =  124.93838913714913
+Timestep:  2  - Number of available nodes:  100 - Time K-connect:  2
+last_cluster_heads :  32
+len temp_cluster_heads =  9
+number of cluster heads =  61
+day ne
+current_energy =  99209.73967991192
+energy_loss =  256.7464361472679
+Timestep:  3  - Number of available nodes:  100 - Time K-connect:  2
+last_cluster_heads :  41
+len temp_cluster_heads =  10
+number of cluster heads =  81
+day ne
+current_energy =  98988.83707457565
+energy_loss =  220.9026053362682
+Timestep:  4  - Number of available nodes:  100 - Time K-connect:  2
+last_cluster_heads :  51
+len temp_cluster_heads =  9
+number of cluster heads =  67
+day ne
+current_energy =  98725.73444655818
+energy_loss =  263.10262801745756
+Timestep:  5  - Number of available nodes:  100 - Time K-connect:  2
+last_cluster_heads :  60
+len temp_cluster_heads =  9
+number of cluster heads =  62
+day ne
+current_energy =  98448.92306764159
+energy_loss =  276.811378916623
+Timestep:  6  - Number of available nodes:  100 - Time K-connect:  2
+last_cluster_heads :  69
+len temp_cluster_heads =  7
+number of cluster heads =  63
+day ne
+current_energy =  98174.282766636
+energy_loss =  274.64030100561314
+Timestep:  7  - Number of available nodes:  100 - Time K-connect:  2
+last_cluster_heads :  76
+len temp_cluster_heads =  8
+number of cluster heads =  93
+day ne
+current_energy =  97958.69206647761
+energy_loss =  215.59070015831674
+Timestep:  8  - Number of available nodes:  100 - Time K-connect:  2
+last_cluster_heads :  84
+len temp_cluster_heads =  15
+number of cluster heads =  49
+day ne
+current_energy =  97613.0508973365
+energy_loss =  345.64116914118273
+Timestep:  9  - Number of available nodes:  100 - Time K-connect:  2
+last_cluster_heads :  99
+len temp_cluster_heads =  0
+number of cluster heads =  34
+current_energy =  97488.49829022023
+energy_loss =  124.55260711624447
+Timestep:  10  - Number of available nodes:  100 - Time K-connect:  3
+last_cluster_heads :  86
+len temp_cluster_heads =  2
+number of cluster heads =  51
+day ne
+current_energy =  97093.91300345503
+energy_loss =  394.5852867651412
+Timestep:  11  - Number of available nodes:  100 - Time K-connect:  3
+last_cluster_heads :  78
+len temp_cluster_heads =  5
+number of cluster heads =  72
+day ne
+current_energy =  96836.08762030718
+energy_loss =  257.8253831479055
+Timestep:  12  - Number of available nodes:  100 - Time K-connect:  3
+last_cluster_heads :  74
+len temp_cluster_heads =  3
+number of cluster heads =  49
+day ne
+current_energy =  96453.64881449415
+energy_loss =  382.4388058130307
+Timestep:  13  - Number of available nodes:  100 - Time K-connect:  3
+last_cluster_heads :  68
+len temp_cluster_heads =  6
+number of cluster heads =  46
+current_energy =  96334.07012267981
+energy_loss =  119.57869181431418
+Timestep:  14  - Number of available nodes:  100 - Time K-connect:  4
+last_cluster_heads :  64
+len temp_cluster_heads =  11
+number of cluster heads =  37
+current_energy =  96197.35527370525
+energy_loss =  136.714848974576
+Timestep:  15  - Number of available nodes:  100 - Time K-connect:  5
+last_cluster_heads :  66
+len temp_cluster_heads =  9
+number of cluster heads =  52
+day ne
+current_energy =  95869.75839511417
+energy_loss =  327.5968785910737
+Timestep:  16  - Number of available nodes:  100 - Time K-connect:  5
+last_cluster_heads :  66
+len temp_cluster_heads =  16
+number of cluster heads =  50
+day ne
+current_energy =  95545.38219284921
+energy_loss =  324.37620226503293
+Timestep:  17  - Number of available nodes:  100 - Time K-connect:  5
+last_cluster_heads :  75
+len temp_cluster_heads =  12
+number of cluster heads =  53
+day ne
+current_energy =  95168.14932816339
+energy_loss =  377.2328646857863
+Timestep:  18  - Number of available nodes:  100 - Time K-connect:  5
+last_cluster_heads :  79
+len temp_cluster_heads =  20
+number of cluster heads =  38
+current_energy =  95043.17523298018
+energy_loss =  124.974095183196
+Timestep:  19  - Number of available nodes:  100 - Time K-connect:  6
+last_cluster_heads :  84
+len temp_cluster_heads =  0
+number of cluster heads =  72
+day ne
+current_energy =  94806.88298196375
+energy_loss =  236.29225101648194
+Timestep:  20  - Number of available nodes:  100 - Time K-connect:  6
+last_cluster_heads :  84
+len temp_cluster_heads =  1
+number of cluster heads =  65
+day ne
+current_energy =  94555.23896245216
+energy_loss =  251.6440195115194
+Timestep:  21  - Number of available nodes:  100 - Time K-connect:  6
+last_cluster_heads :  83
+len temp_cluster_heads =  2
+number of cluster heads =  51
+day ne
+current_energy =  94225.399405938
+energy_loss =  329.8395565142201
+Timestep:  22  - Number of available nodes:  100 - Time K-connect:  6
+last_cluster_heads :  80
+len temp_cluster_heads =  5
+number of cluster heads =  51
+day ne
+current_energy =  93894.17188386389
+energy_loss =  331.2275220741331
+Timestep:  23  - Number of available nodes:  100 - Time K-connect:  6
+last_cluster_heads :  82
+len temp_cluster_heads =  1
+number of cluster heads =  41
+current_energy =  93779.84585520817
+energy_loss =  114.32602865567186
+Timestep:  24  - Number of available nodes:  100 - Time K-connect:  7
+last_cluster_heads :  77
+len temp_cluster_heads =  5
+number of cluster heads =  56
+day ne
+current_energy =  93489.02557400413
+energy_loss =  290.8202812041036
+Timestep:  25  - Number of available nodes:  100 - Time K-connect:  7
+last_cluster_heads :  71
+len temp_cluster_heads =  7
+number of cluster heads =  35
+current_energy =  93364.72826838074
+energy_loss =  124.29730562332988
+Timestep:  26  - Number of available nodes:  100 - Time K-connect:  8
+last_cluster_heads :  69
+len temp_cluster_heads =  8
+number of cluster heads =  53
+day ne
+current_energy =  93056.14872171236
+energy_loss =  308.57954666844734
+Timestep:  27  - Number of available nodes:  100 - Time K-connect:  8
+last_cluster_heads :  61
+len temp_cluster_heads =  15
+number of cluster heads =  58
+day ne
+current_energy =  92757.8163292323
+energy_loss =  298.33239248005026
+Timestep:  28  - Number of available nodes:  100 - Time K-connect:  8
+last_cluster_heads :  64
+len temp_cluster_heads =  35
+number of cluster heads =  51
+day ne
+current_energy =  92443.82781955528
+energy_loss =  313.9885096769384
+Timestep:  29  - Number of available nodes:  100 - Time K-connect:  8
+last_cluster_heads :  79
+len temp_cluster_heads =  1
+number of cluster heads =  58
+day ne
+current_energy =  92106.9142156211
+energy_loss =  336.9136039342342
+Timestep:  30  - Number of available nodes:  100 - Time K-connect:  8
+last_cluster_heads :  80
+len temp_cluster_heads =  2
+number of cluster heads =  47
+current_energy =  91989.09533256112
+energy_loss =  117.81888305997077
+Timestep:  31  - Number of available nodes:  100 - Time K-connect:  9
+last_cluster_heads :  81
+len temp_cluster_heads =  2
+number of cluster heads =  49
+day ne
+current_energy =  91590.64857233761
+energy_loss =  398.4467602235158
+Timestep:  32  - Number of available nodes:  100 - Time K-connect:  9
+last_cluster_heads :  81
+len temp_cluster_heads =  1
+number of cluster heads =  53
+day ne
+current_energy =  91267.29994166995
+energy_loss =  323.34863066765155
+Timestep:  33  - Number of available nodes:  100 - Time K-connect:  9
+last_cluster_heads :  77
+len temp_cluster_heads =  4
+number of cluster heads =  78
+day ne
+current_energy =  91034.3712837723
+energy_loss =  232.92865789764454
+Timestep:  34  - Number of available nodes:  100 - Time K-connect:  9
+last_cluster_heads :  80
+len temp_cluster_heads =  4
+number of cluster heads =  35
+current_energy =  90900.24511186093
+energy_loss =  134.1261719113737
+Timestep:  35  - Number of available nodes:  100 - Time K-connect:  10
+last_cluster_heads :  79
+len temp_cluster_heads =  7
+number of cluster heads =  49
+day ne
+current_energy =  90525.61666840273
+energy_loss =  374.62844345823373
+Timestep:  36  - Number of available nodes:  100 - Time K-connect:  10
+last_cluster_heads :  79
+len temp_cluster_heads =  9
+number of cluster heads =  76
+day ne
+current_energy =  90296.18623806021
+energy_loss =  229.4304303425273
+Timestep:  37  - Number of available nodes:  100 - Time K-connect:  10
+last_cluster_heads :  80
+len temp_cluster_heads =  11
+number of cluster heads =  59
+day ne
+current_energy =  90025.81809720882
+energy_loss =  270.3681408513433
+Timestep:  38  - Number of available nodes:  100 - Time K-connect:  10
+last_cluster_heads :  76
+len temp_cluster_heads =  23
+number of cluster heads =  34
+current_energy =  89903.8965809125
+energy_loss =  121.92151629635235
+Timestep:  39  - Number of available nodes:  100 - Time K-connect:  11
+last_cluster_heads :  64
+len temp_cluster_heads =  1
+number of cluster heads =  52
+day ne
+current_energy =  89545.25748745588
+energy_loss =  358.6390934565859
+Timestep:  40  - Number of available nodes:  100 - Time K-connect:  11
+last_cluster_heads :  64
+len temp_cluster_heads =  0
+number of cluster heads =  50
+day ne
+current_energy =  89183.00310899768
+energy_loss =  362.2543784582594
+Timestep:  41  - Number of available nodes:  100 - Time K-connect:  11
+last_cluster_heads :  62
+len temp_cluster_heads =  3
+number of cluster heads =  69
+day ne
+current_energy =  88940.94656601947
+energy_loss =  242.05654297820783
+Timestep:  42  - Number of available nodes:  100 - Time K-connect:  11
+last_cluster_heads :  63
+len temp_cluster_heads =  2
+number of cluster heads =  45
+current_energy =  88819.4213814151
+energy_loss =  121.52518460432718
+Timestep:  43  - Number of available nodes:  100 - Time K-connect:  12
+last_cluster_heads :  64
+len temp_cluster_heads =  10
+number of cluster heads =  27
+current_energy =  88693.89730704392
+energy_loss =  125.52407437117016
+Timestep:  44  - Number of available nodes:  100 - Time K-connect:  13
+last_cluster_heads :  70
+len temp_cluster_heads =  9
+number of cluster heads =  44
+current_energy =  88551.50024261193
+energy_loss =  142.39706443203082
+Timestep:  45  - Number of available nodes:  100 - Time K-connect:  14
+last_cluster_heads :  75
+len temp_cluster_heads =  3
+number of cluster heads =  44
+current_energy =  88429.19734109983
+energy_loss =  122.3029015120693
+Timestep:  46  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  71
+len temp_cluster_heads =  11
+number of cluster heads =  93
+day ne
+current_energy =  88215.95454628572
+energy_loss =  213.24279481410804
+Timestep:  47  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  73
+len temp_cluster_heads =  10
+number of cluster heads =  75
+day ne
+current_energy =  87983.04604489316
+energy_loss =  232.9085013925836
+Timestep:  48  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  72
+len temp_cluster_heads =  27
+number of cluster heads =  80
+day ne
+current_energy =  87760.07042721858
+energy_loss =  222.9756176745396
+Timestep:  49  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  76
+len temp_cluster_heads =  3
+number of cluster heads =  53
+day ne
+current_energy =  87421.61031633554
+energy_loss =  338.46011088308916
+Timestep:  50  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  78
+len temp_cluster_heads =  2
+number of cluster heads =  61
+day ne
+current_energy =  87147.43463130275
+energy_loss =  274.1756850327871
+Timestep:  51  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  80
+len temp_cluster_heads =  1
+number of cluster heads =  61
+day ne
+current_energy =  86861.335135282
+energy_loss =  286.09949602071663
+Timestep:  52  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  78
+len temp_cluster_heads =  4
+number of cluster heads =  51
+day ne
+current_energy =  86482.58564502047
+energy_loss =  378.74949026157043
+Timestep:  53  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  80
+len temp_cluster_heads =  2
+number of cluster heads =  52
+day ne
+current_energy =  86119.2818239473
+energy_loss =  363.30382107318195
+Timestep:  54  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  72
+len temp_cluster_heads =  3
+number of cluster heads =  62
+day ne
+current_energy =  85851.04336026461
+energy_loss =  268.23846368268937
+Timestep:  55  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  66
+len temp_cluster_heads =  6
+number of cluster heads =  66
+day ne
+current_energy =  85609.27220839566
+energy_loss =  241.77115186896532
+Timestep:  56  - Number of available nodes:  100 - Time K-connect:  15
+last_cluster_heads :  69
+len temp_cluster_heads =  9
+number of cluster heads =  41
+current_energy =  85485.16719258031
+energy_loss =  124.10501581535169
+Timestep:  57  - Number of available nodes:  100 - Time K-connect:  16
+last_cluster_heads :  67
+len temp_cluster_heads =  17
+number of cluster heads =  88
+day ne
+current_energy =  85265.50810683185
+energy_loss =  219.65908574842817
+Timestep:  58  - Number of available nodes:  100 - Time K-connect:  16
+last_cluster_heads :  74
+len temp_cluster_heads =  25
+number of cluster heads =  56
+day ne
+current_energy =  84911.53929587883
+energy_loss =  353.96881095307293
+Timestep:  59  - Number of available nodes:  100 - Time K-connect:  16
+last_cluster_heads :  72
+len temp_cluster_heads =  3
+number of cluster heads =  53
+day ne
+current_energy =  84608.54466915026
+energy_loss =  302.99462672853184
+Timestep:  60  - Number of available nodes:  100 - Time K-connect:  16
+last_cluster_heads :  72
+len temp_cluster_heads =  2
+number of cluster heads =  87
+day ne
+current_energy =  84388.49866860942
+energy_loss =  220.04600054089315
+Timestep:  61  - Number of available nodes:  100 - Time K-connect:  16
+last_cluster_heads :  72
+len temp_cluster_heads =  3
+number of cluster heads =  44
+current_energy =  84263.66686894624
+energy_loss =  124.83179966314312
+Timestep:  62  - Number of available nodes:  100 - Time K-connect:  17
+last_cluster_heads :  74
+len temp_cluster_heads =  6
+number of cluster heads =  32
+current_energy =  84123.9253683334
+energy_loss =  139.74150061287716
+Timestep:  63  - Number of available nodes:  100 - Time K-connect:  18
+last_cluster_heads :  76
+len temp_cluster_heads =  7
+number of cluster heads =  47
+day ne
+current_energy =  83737.8101962784
+energy_loss =  386.1151720549529
+Timestep:  64  - Number of available nodes:  100 - Time K-connect:  18
+last_cluster_heads :  81
+len temp_cluster_heads =  4
+number of cluster heads =  47
+current_energy =  83616.3854462917
+energy_loss =  121.42474998675306
+Timestep:  65  - Number of available nodes:  100 - Time K-connect:  19
+last_cluster_heads :  82
+len temp_cluster_heads =  2
+number of cluster heads =  35
+current_energy =  83485.64977614343
+energy_loss =  130.73567014820892
+Timestep:  66  - Number of available nodes:  100 - Time K-connect:  20
+last_cluster_heads :  78
+len temp_cluster_heads =  9
+number of cluster heads =  39
+current_energy =  83358.73973535337
+energy_loss =  126.91004079005344
+Timestep:  67  - Number of available nodes:  100 - Time K-connect:  21
+last_cluster_heads :  78
+len temp_cluster_heads =  8
+number of cluster heads =  46
+current_energy =  83233.34177923718
+energy_loss =  125.39795611623434
+Timestep:  68  - Number of available nodes:  100 - Time K-connect:  22
+last_cluster_heads :  69
+len temp_cluster_heads =  30
+number of cluster heads =  44
+current_energy =  83105.22146156941
+energy_loss =  128.12031766776676
+Timestep:  69  - Number of available nodes:  100 - Time K-connect:  23
+last_cluster_heads :  74
+len temp_cluster_heads =  2
+number of cluster heads =  77
+day ne
+current_energy =  82876.62604743298
+energy_loss =  228.59541413646298
+Timestep:  70  - Number of available nodes:  100 - Time K-connect:  23
+last_cluster_heads :  73
+len temp_cluster_heads =  2
+number of cluster heads =  81
+day ne
+current_energy =  82651.6966923227
+energy_loss =  224.92935511025286
+Timestep:  71  - Number of available nodes:  100 - Time K-connect:  23
+last_cluster_heads :  73
+len temp_cluster_heads =  1
+number of cluster heads =  47
+current_energy =  82534.22922980158
+energy_loss =  117.46746252111652
+Timestep:  72  - Number of available nodes:  100 - Time K-connect:  24
+last_cluster_heads :  71
+len temp_cluster_heads =  2
+number of cluster heads =  51
+day ne
+current_energy =  82163.64183283593
+energy_loss =  370.5873969656418
+Timestep:  73  - Number of available nodes:  100 - Time K-connect:  24
+last_cluster_heads :  67
+len temp_cluster_heads =  9
+number of cluster heads =  88
+day ne
+current_energy =  81945.56176707846
+energy_loss =  218.08006575746316
+Timestep:  74  - Number of available nodes:  100 - Time K-connect:  24
+last_cluster_heads :  69
+len temp_cluster_heads =  6
+number of cluster heads =  47
+current_energy =  81812.43912919334
+energy_loss =  133.12263788514488
+Timestep:  75  - Number of available nodes:  100 - Time K-connect:  25
+last_cluster_heads :  71
+len temp_cluster_heads =  9
+number of cluster heads =  86
+day ne
+current_energy =  81594.25222272392
+energy_loss =  218.18690646940865
+Timestep:  76  - Number of available nodes:  100 - Time K-connect:  25
+last_cluster_heads :  78
+len temp_cluster_heads =  11
+number of cluster heads =  53
+day ne
+current_energy =  81252.10073626839
+energy_loss =  342.15148645548254
+Timestep:  77  - Number of available nodes:  100 - Time K-connect:  25
+last_cluster_heads :  80
+len temp_cluster_heads =  10
+number of cluster heads =  64
+day ne
+current_energy =  80990.2225481852
+energy_loss =  261.8781880832477
+Timestep:  78  - Number of available nodes:  100 - Time K-connect:  25
+last_cluster_heads :  82
+len temp_cluster_heads =  17
+number of cluster heads =  52
+day ne
+current_energy =  80635.68362267019
+energy_loss =  354.53892551505834
+Timestep:  79  - Number of available nodes:  100 - Time K-connect:  25
+last_cluster_heads :  69
+len temp_cluster_heads =  5
+number of cluster heads =  59
+day ne
+current_energy =  80325.24587627282
+energy_loss =  310.4377463973069
+Timestep:  80  - Number of available nodes:  100 - Time K-connect:  25
+last_cluster_heads :  72
+len temp_cluster_heads =  4
+number of cluster heads =  38
+current_energy =  80200.8512902502
+energy_loss =  124.39458602262658
+Timestep:  81  - Number of available nodes:  100 - Time K-connect:  26
+last_cluster_heads :  74
+len temp_cluster_heads =  2
+number of cluster heads =  47
+current_energy =  80077.05465853705
+energy_loss =  123.79663171316068
+Timestep:  82  - Number of available nodes:  100 - Time K-connect:  27
+last_cluster_heads :  75
+len temp_cluster_heads =  5
+number of cluster heads =  83
+day ne
+current_energy =  79854.53362462943
+energy_loss =  222.52103390761025
+Timestep:  83  - Number of available nodes:  100 - Time K-connect:  27
+last_cluster_heads :  78
+len temp_cluster_heads =  6
+number of cluster heads =  40
+current_energy =  79735.67724690812
+energy_loss =  118.85637772132242
+Timestep:  84  - Number of available nodes:  100 - Time K-connect:  28
+last_cluster_heads :  75
+len temp_cluster_heads =  4
+number of cluster heads =  58
+day ne
+current_energy =  79451.795651702
+energy_loss =  283.88159520613584
+Timestep:  85  - Number of available nodes:  100 - Time K-connect:  28
+last_cluster_heads :  73
+len temp_cluster_heads =  4
+number of cluster heads =  71
+day ne
+current_energy =  79214.30896622632
+energy_loss =  237.4866854756246
+Timestep:  86  - Number of available nodes:  100 - Time K-connect:  28
+last_cluster_heads :  68
+len temp_cluster_heads =  12
+number of cluster heads =  59
+day ne
+current_energy =  78919.08450462793
+energy_loss =  295.22446159840706
+Timestep:  87  - Number of available nodes:  100 - Time K-connect:  28
+last_cluster_heads :  69
+len temp_cluster_heads =  16
+number of cluster heads =  63
+day ne
+current_energy =  78646.95916863042
+energy_loss =  272.12533599754573
+Timestep:  88  - Number of available nodes:  100 - Time K-connect:  28
+last_cluster_heads :  75
+len temp_cluster_heads =  24
+number of cluster heads =  44
+current_energy =  78514.07856378042
+energy_loss =  132.88060485000176
+Timestep:  89  - Number of available nodes:  100 - Time K-connect:  29
+last_cluster_heads :  82
+len temp_cluster_heads =  2
+number of cluster heads =  61
+day ne
+current_energy =  78246.06622396236
+energy_loss =  268.0123398180084
+Timestep:  90  - Number of available nodes:  100 - Time K-connect:  29
+last_cluster_heads :  79
+len temp_cluster_heads =  0
+number of cluster heads =  65
+day ne
+current_energy =  77990.2457904545
+energy_loss =  255.82043350789382
+Timestep:  91  - Number of available nodes:  100 - Time K-connect:  29
+last_cluster_heads :  75
+len temp_cluster_heads =  1
+number of cluster heads =  51
+day ne
+current_energy =  77640.25527702708
+energy_loss =  349.9905134274497
+Timestep:  92  - Number of available nodes:  100 - Time K-connect:  29
+last_cluster_heads :  74
+len temp_cluster_heads =  3
+number of cluster heads =  59
+day ne
+current_energy =  77373.01023710903
+energy_loss =  267.24503991803493
+Timestep:  93  - Number of available nodes:  100 - Time K-connect:  29
+last_cluster_heads :  72
+len temp_cluster_heads =  3
+number of cluster heads =  41
+current_energy =  77239.3157093015
+energy_loss =  133.69452780753292
+Timestep:  94  - Number of available nodes:  100 - Time K-connect:  30
+last_cluster_heads :  69
+len temp_cluster_heads =  2
+number of cluster heads =  51
+day ne
+current_energy =  76864.1485905689
+energy_loss =  375.1671187326136
+Timestep:  95  - Number of available nodes:  100 - Time K-connect:  30
+last_cluster_heads :  67
+len temp_cluster_heads =  8
+number of cluster heads =  22
+current_energy =  76720.95841243867
+energy_loss =  143.19017813021622
+Timestep:  96  - Number of available nodes:  100 - Time K-connect:  31
+last_cluster_heads :  71
+len temp_cluster_heads =  11
+number of cluster heads =  57
+day ne
+current_energy =  76428.74980214272
+energy_loss =  292.2086102959903
+Timestep:  97  - Number of available nodes:  100 - Time K-connect:  31
+last_cluster_heads :  70
+len temp_cluster_heads =  14
+number of cluster heads =  50
+day ne
+current_energy =  76078.71044437287
+energy_loss =  350.0393577698406
+Timestep:  98  - Number of available nodes:  100 - Time K-connect:  31
+last_cluster_heads :  68
+len temp_cluster_heads =  31
+number of cluster heads =  53
+day ne
+current_energy =  75773.14459586774
+energy_loss =  305.56584850512274
+Timestep:  99  - Number of available nodes:  100 - Time K-connect:  31
+last_cluster_heads :  75
+len temp_cluster_heads =  0
+number of cluster heads =  41
+current_energy =  75646.16652167661
+energy_loss =  126.9780741911309
+Timestep:  100  - Number of available nodes:  100 - Time K-connect:  32
+last_cluster_heads :  73
+len temp_cluster_heads =  1
+number of cluster heads =  68
+day ne
+current_energy =  75400.59653013817
+energy_loss =  245.56999153845229
+Timestep:  101  - Number of available nodes:  100 - Time K-connect:  32
+last_cluster_heads :  74
+len temp_cluster_heads =  4
+number of cluster heads =  33
+current_energy =  75284.33160174233
+energy_loss =  116.26492839581714
+Timestep:  102  - Number of available nodes:  100 - Time K-connect:  33
+last_cluster_heads :  77
+len temp_cluster_heads =  4
+number of cluster heads =  71
+day ne
+current_energy =  75045.5522032708
+energy_loss =  238.77939847155614
+Timestep:  103  - Number of available nodes:  100 - Time K-connect:  33
+last_cluster_heads :  78
+len temp_cluster_heads =  5
+number of cluster heads =  65
+day ne
+current_energy =  74790.12306069255
+energy_loss =  255.4291425782643
+Timestep:  104  - Number of available nodes:  100 - Time K-connect:  33
+last_cluster_heads :  80
+len temp_cluster_heads =  2
+number of cluster heads =  62
+day ne
+current_energy =  74522.96150427662
+energy_loss =  267.1615564158935
+Timestep:  105  - Number of available nodes:  100 - Time K-connect:  33
+last_cluster_heads :  80
+len temp_cluster_heads =  4
+number of cluster heads =  63
+day ne
+current_energy =  74262.36479739838
+energy_loss =  260.59670687823075
+Timestep:  106  - Number of available nodes:  100 - Time K-connect:  33
+last_cluster_heads :  76
+len temp_cluster_heads =  11
+number of cluster heads =  69
+day ne
+current_energy =  74024.38986817976
+energy_loss =  237.9749292187074
+Timestep:  107  - Number of available nodes:  100 - Time K-connect:  33
+last_cluster_heads :  76
+len temp_cluster_heads =  12
+number of cluster heads =  75
+day ne
+current_energy =  73788.32844755083
+energy_loss =  236.06142062888148
+Timestep:  108  - Number of available nodes:  100 - Time K-connect:  33
+last_cluster_heads :  74
+len temp_cluster_heads =  25
+number of cluster heads =  69
+day ne
+current_energy =  73537.62296222291
+energy_loss =  250.7054853278901
+Timestep:  109  - Number of available nodes:  100 - Time K-connect:  33
+last_cluster_heads :  68
+len temp_cluster_heads =  2
+number of cluster heads =  40
+current_energy =  73421.68776015867
+energy_loss =  115.93520206432551
+Timestep:  110  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  70
+len temp_cluster_heads =  5
+number of cluster heads =  68
+day ne
+current_energy =  73164.33686415301
+energy_loss =  257.3508960055853
+Timestep:  111  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  74
+len temp_cluster_heads =  2
+number of cluster heads =  66
+day ne
+current_energy =  72907.45311415785
+energy_loss =  256.8837499952103
+Timestep:  112  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  72
+len temp_cluster_heads =  2
+number of cluster heads =  65
+day ne
+current_energy =  72657.01638989913
+energy_loss =  250.4367242587153
+Timestep:  113  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  70
+len temp_cluster_heads =  2
+number of cluster heads =  56
+day ne
+current_energy =  72367.5750104073
+energy_loss =  289.4413794918447
+Timestep:  114  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  67
+len temp_cluster_heads =  9
+number of cluster heads =  50
+day ne
+current_energy =  72019.98461061146
+energy_loss =  347.59039979584395
+Timestep:  115  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  74
+len temp_cluster_heads =  8
+number of cluster heads =  57
+day ne
+current_energy =  71716.36606387827
+energy_loss =  303.6185467331954
+Timestep:  116  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  78
+len temp_cluster_heads =  9
+number of cluster heads =  70
+day ne
+current_energy =  71470.91294856711
+energy_loss =  245.4531153110967
+Timestep:  117  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  76
+len temp_cluster_heads =  13
+number of cluster heads =  61
+day ne
+current_energy =  71173.08612444132
+energy_loss =  297.82682412583114
+Timestep:  118  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  77
+len temp_cluster_heads =  22
+number of cluster heads =  75
+day ne
+current_energy =  70945.15877328055
+energy_loss =  227.92735116077088
+Timestep:  119  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  74
+len temp_cluster_heads =  1
+number of cluster heads =  73
+day ne
+current_energy =  70702.89447940285
+energy_loss =  242.26429387771503
+Timestep:  120  - Number of available nodes:  100 - Time K-connect:  34
+last_cluster_heads :  73
+len temp_cluster_heads =  0
+number of cluster heads =  43
+current_energy =  70578.73230068809
+energy_loss =  124.1621787147567
+Timestep:  121  - Number of available nodes:  100 - Time K-connect:  35
+last_cluster_heads :  68
+len temp_cluster_heads =  3
+number of cluster heads =  34
+current_energy =  70433.66352242343
+energy_loss =  145.0687782646629
+Timestep:  122  - Number of available nodes:  100 - Time K-connect:  36
+last_cluster_heads :  69
+len temp_cluster_heads =  3
+number of cluster heads =  64
+day ne
+current_energy =  70174.92004803404
+energy_loss =  258.7434743894113
+Timestep:  123  - Number of available nodes:  100 - Time K-connect:  36
+last_cluster_heads :  70
+len temp_cluster_heads =  7
+number of cluster heads =  58
+day ne
+current_energy =  69896.16654926614
+energy_loss =  278.75349876790733
+Timestep:  124  - Number of available nodes:  100 - Time K-connect:  36
+last_cluster_heads :  75
+len temp_cluster_heads =  3
+number of cluster heads =  48
+current_energy =  69765.53823448173
+energy_loss =  130.62831478440012
+Timestep:  125  - Number of available nodes:  100 - Time K-connect:  37
+last_cluster_heads :  69
+len temp_cluster_heads =  7
+number of cluster heads =  72
+day ne
+current_energy =  69521.16303028891
+energy_loss =  244.37520419281438
+Timestep:  126  - Number of available nodes:  100 - Time K-connect:  37
+last_cluster_heads :  68
+len temp_cluster_heads =  7
+number of cluster heads =  54
+day ne
+current_energy =  69243.77462214635
+energy_loss =  277.3884081425295
+Timestep:  127  - Number of available nodes:  100 - Time K-connect:  37
+last_cluster_heads :  66
+len temp_cluster_heads =  17
+number of cluster heads =  46
+current_energy =  69117.80454257526
+energy_loss =  125.97007957109366
+Timestep:  128  - Number of available nodes:  100 - Time K-connect:  38
+last_cluster_heads :  70
+len temp_cluster_heads =  29
+number of cluster heads =  63
+day ne
+current_energy =  68836.0708274866
+energy_loss =  281.7337150886725
+Timestep:  129  - Number of available nodes:  100 - Time K-connect:  38
+last_cluster_heads :  77
+len temp_cluster_heads =  2
+number of cluster heads =  52
+day ne
+current_energy =  68469.17409827029
+energy_loss =  366.8967292163161
+Timestep:  130  - Number of available nodes:  100 - Time K-connect:  38
+last_cluster_heads :  78
+len temp_cluster_heads =  2
+number of cluster heads =  58
+day ne
+current_energy =  68186.01510456382
+energy_loss =  283.1589937064906
+Timestep:  131  - Number of available nodes:  100 - Time K-connect:  38
+last_cluster_heads :  80
+len temp_cluster_heads =  5
+number of cluster heads =  49
+current_energy =  68062.55102557718
+energy_loss =  123.46407898664151
+Timestep:  132  - Number of available nodes:  100 - Time K-connect:  39
+last_cluster_heads :  82
+len temp_cluster_heads =  4
+number of cluster heads =  76
+day ne
+current_energy =  67829.10808109191
+energy_loss =  233.44294448525207
+Timestep:  133  - Number of available nodes:  100 - Time K-connect:  39
+last_cluster_heads :  83
+len temp_cluster_heads =  4
+number of cluster heads =  62
+day ne
+current_energy =  67559.27532474331
+energy_loss =  269.83275634861263
+Timestep:  134  - Number of available nodes:  100 - Time K-connect:  39
+last_cluster_heads :  80
+len temp_cluster_heads =  4
+number of cluster heads =  53
+day ne
+current_energy =  67248.10703913258
+energy_loss =  311.16828561076267
+Timestep:  135  - Number of available nodes:  100 - Time K-connect:  39
+last_cluster_heads :  81
+len temp_cluster_heads =  8
+number of cluster heads =  69
+day ne
+current_energy =  67013.32698088499
+energy_loss =  234.78005824756113
+Timestep:  136  - Number of available nodes:  100 - Time K-connect:  39
+last_cluster_heads :  82
+len temp_cluster_heads =  3
+number of cluster heads =  58
+day ne
+current_energy =  66731.05536880747
+energy_loss =  282.2716120775254
+Timestep:  137  - Number of available nodes:  100 - Time K-connect:  39
+last_cluster_heads :  78
+len temp_cluster_heads =  15
+number of cluster heads =  45
+current_energy =  66599.84087616438
+energy_loss =  131.21449264308555
+Timestep:  138  - Number of available nodes:  100 - Time K-connect:  40
+last_cluster_heads :  76
+len temp_cluster_heads =  23
+number of cluster heads =  51
+day ne
+current_energy =  66270.96814289637
+energy_loss =  328.8727332680029
+Timestep:  139  - Number of available nodes:  100 - Time K-connect:  40
+last_cluster_heads :  70
+len temp_cluster_heads =  7
+number of cluster heads =  52
+day ne
+current_energy =  65939.17113815184
+energy_loss =  331.7970047445671
+Timestep:  140  - Number of available nodes:  100 - Time K-connect:  40
+last_cluster_heads :  75
+len temp_cluster_heads =  2
+number of cluster heads =  38
+current_energy =  65822.12872730424
+energy_loss =  117.04241084761846
+Timestep:  141  - Number of available nodes:  100 - Time K-connect:  41
+last_cluster_heads :  75
+len temp_cluster_heads =  3
+number of cluster heads =  40
+current_energy =  65702.36374432978
+energy_loss =  119.76498297444755
+Timestep:  142  - Number of available nodes:  100 - Time K-connect:  42
+last_cluster_heads :  73
+len temp_cluster_heads =  4
+number of cluster heads =  67
+day ne
+current_energy =  65456.06406834608
+energy_loss =  246.2996759836913
+Timestep:  143  - Number of available nodes:  100 - Time K-connect:  42
+last_cluster_heads :  73
+len temp_cluster_heads =  4
+number of cluster heads =  50
+day ne
+current_energy =  65138.143228756286
+energy_loss =  317.9208395897988
+Timestep:  144  - Number of available nodes:  100 - Time K-connect:  42
+last_cluster_heads :  73
+len temp_cluster_heads =  7
+number of cluster heads =  52
+day ne
+current_energy =  64825.19922621139
+energy_loss =  312.9440025448756
+Timestep:  145  - Number of available nodes:  100 - Time K-connect:  42
+last_cluster_heads :  76
+len temp_cluster_heads =  7
+number of cluster heads =  69
+day ne
+current_energy =  64559.33675293585
+energy_loss =  265.86247327554224
+Timestep:  146  - Number of available nodes:  100 - Time K-connect:  42
+last_cluster_heads :  75
+len temp_cluster_heads =  10
+number of cluster heads =  68
+day ne
+current_energy =  64307.32319860202
+energy_loss =  252.0135543338554
+Timestep:  147  - Number of available nodes:  100 - Time K-connect:  42
+last_cluster_heads :  82
+len temp_cluster_heads =  5
+number of cluster heads =  82
+day ne
+current_energy =  64085.50304517344
+energy_loss =  221.82015342858045
+Timestep:  148  - Number of available nodes:  100 - Time K-connect:  42
+last_cluster_heads :  72
+len temp_cluster_heads =  27
+number of cluster heads =  65
+day ne
+current_energy =  63845.0097224528
+energy_loss =  240.49332272064856
+Timestep:  149  - Number of available nodes:  100 - Time K-connect:  42
+last_cluster_heads :  76
+len temp_cluster_heads =  2
+number of cluster heads =  59
+day ne
+current_energy =  63574.7504517258
+energy_loss =  270.2592707270002
+Timestep:  150  - Number of available nodes:  100 - Time K-connect:  42
+last_cluster_heads :  71
+len temp_cluster_heads =  1
+number of cluster heads =  45
+current_energy =  63461.92733173567
+energy_loss =  112.82311999013814
+Timestep:  151  - Number of available nodes:  100 - Time K-connect:  43
+last_cluster_heads :  70
+len temp_cluster_heads =  2
+number of cluster heads =  72
+day ne
+current_energy =  63225.31856410751
+energy_loss =  236.60876762815286
+Timestep:  152  - Number of available nodes:  100 - Time K-connect:  43
+last_cluster_heads :  69
+len temp_cluster_heads =  2
+number of cluster heads =  45
+current_energy =  63114.156663526526
+energy_loss =  111.16190058099116
+Timestep:  153  - Number of available nodes:  100 - Time K-connect:  44
+last_cluster_heads :  67
+len temp_cluster_heads =  7
+number of cluster heads =  52
+day ne
+current_energy =  62777.064229898264
+energy_loss =  337.0924336282721
+Timestep:  154  - Number of available nodes:  100 - Time K-connect:  44
+last_cluster_heads :  70
+len temp_cluster_heads =  6
+number of cluster heads =  67
+day ne
+current_energy =  62527.92219499895
+energy_loss =  249.14203489930802
+Timestep:  155  - Number of available nodes:  100 - Time K-connect:  44
+last_cluster_heads :  69
+len temp_cluster_heads =  10
+number of cluster heads =  33
+current_energy =  62401.60030430482
+energy_loss =  126.32189069411848
+Timestep:  156  - Number of available nodes:  100 - Time K-connect:  45
+last_cluster_heads :  72
+len temp_cluster_heads =  9
+number of cluster heads =  55
+day ne
+current_energy =  62055.21196026727
+energy_loss =  346.3883440375658
+Timestep:  157  - Number of available nodes:  100 - Time K-connect:  45
+last_cluster_heads :  71
+len temp_cluster_heads =  15
+number of cluster heads =  37
+current_energy =  61923.03194835508
+energy_loss =  132.1800119122055
+Timestep:  158  - Number of available nodes:  100 - Time K-connect:  46
+last_cluster_heads :  81
+len temp_cluster_heads =  18
+number of cluster heads =  44
+current_energy =  61805.68469067363
+energy_loss =  117.34725768141162
+Timestep:  159  - Number of available nodes:  100 - Time K-connect:  47
+last_cluster_heads :  72
+len temp_cluster_heads =  5
+number of cluster heads =  58
+day ne
+current_energy =  61517.95174208142
+energy_loss =  287.73294859222557
+Timestep:  160  - Number of available nodes:  100 - Time K-connect:  47
+last_cluster_heads :  75
+len temp_cluster_heads =  2
+number of cluster heads =  62
+day ne
+current_energy =  61257.876031515225
+energy_loss =  260.07571056617786
+Timestep:  161  - Number of available nodes:  100 - Time K-connect:  47
+last_cluster_heads :  76
+len temp_cluster_heads =  2
+number of cluster heads =  76
+day ne
+current_energy =  61031.5648724303
+energy_loss =  226.31115908491648
+Timestep:  162  - Number of available nodes:  100 - Time K-connect:  47
+last_cluster_heads :  76
+len temp_cluster_heads =  1
+number of cluster heads =  71
+day ne
+current_energy =  60788.63411397909
+energy_loss =  242.93075845124224
+Timestep:  163  - Number of available nodes:  100 - Time K-connect:  47
+last_cluster_heads :  75
+len temp_cluster_heads =  3
+number of cluster heads =  85
+day ne
+current_energy =  60564.315067487216
+energy_loss =  224.31904649187237
+Timestep:  164  - Number of available nodes:  100 - Time K-connect:  47
+last_cluster_heads :  71
+len temp_cluster_heads =  6
+number of cluster heads =  54
+day ne
+current_energy =  60229.184304504575
+energy_loss =  335.1307629826454
+Timestep:  165  - Number of available nodes:  100 - Time K-connect:  47
+last_cluster_heads :  71
+len temp_cluster_heads =  9
+number of cluster heads =  33
+current_energy =  60115.81440842788
+energy_loss =  113.36989607671138
+Timestep:  166  - Number of available nodes:  100 - Time K-connect:  48
+last_cluster_heads :  70
+len temp_cluster_heads =  16
+number of cluster heads =  37
+current_energy =  59992.63797245867
+energy_loss =  123.17643596916814
+Timestep:  167  - Number of available nodes:  100 - Time K-connect:  49
+last_cluster_heads :  77
+len temp_cluster_heads =  9
+number of cluster heads =  58
+day ne
+current_energy =  59717.72843461438
+energy_loss =  274.90953784430235
+Timestep:  168  - Number of available nodes:  100 - Time K-connect:  49
+last_cluster_heads :  71
+len temp_cluster_heads =  28
+number of cluster heads =  70
+day ne
+current_energy =  59479.148950801035
+energy_loss =  238.57948381335183
+Timestep:  169  - Number of available nodes:  100 - Time K-connect:  49
+last_cluster_heads :  81
+len temp_cluster_heads =  1
+number of cluster heads =  56
+day ne
+current_energy =  59183.781282785465
+energy_loss =  295.36766801556223
+Timestep:  170  - Number of available nodes:  100 - Time K-connect:  49
+last_cluster_heads :  77
+len temp_cluster_heads =  3
+number of cluster heads =  54
+day ne
+current_energy =  58832.42549938126
+energy_loss =  351.3557834042213
+Timestep:  171  - Number of available nodes:  100 - Time K-connect:  49
+last_cluster_heads :  78
+len temp_cluster_heads =  2
+number of cluster heads =  41
+current_energy =  58705.215288673695
+energy_loss =  127.2102107075775
+Timestep:  172  - Number of available nodes:  100 - Time K-connect:  50
+last_cluster_heads :  78
+len temp_cluster_heads =  3
+number of cluster heads =  50
+day ne
+current_energy =  58350.37040933412
+energy_loss =  354.84487933956945
+Timestep:  173  - Number of available nodes:  100 - Time K-connect:  50
+last_cluster_heads :  80
+len temp_cluster_heads =  3
+number of cluster heads =  46
+current_energy =  58223.517968187625
+energy_loss =  126.85244114649586
+Timestep:  174  - Number of available nodes:  100 - Time K-connect:  51
+last_cluster_heads :  80
+len temp_cluster_heads =  6
+number of cluster heads =  42
+current_energy =  58089.48787844027
+energy_loss =  134.030089747338
+Timestep:  175  - Number of available nodes:  100 - Time K-connect:  52
+last_cluster_heads :  80
+len temp_cluster_heads =  6
+number of cluster heads =  51
+day ne
+current_energy =  57763.07540079829
+energy_loss =  326.4124776419799
+Timestep:  176  - Number of available nodes:  100 - Time K-connect:  52
+last_cluster_heads :  77
+len temp_cluster_heads =  4
+number of cluster heads =  66
+day ne
+current_energy =  57489.675455219556
+energy_loss =  273.39994557875
+Timestep:  177  - Number of available nodes:  100 - Time K-connect:  52
+last_cluster_heads :  65
+len temp_cluster_heads =  24
+number of cluster heads =  49
+current_energy =  57366.44409509032
+energy_loss =  123.23136012923132
+Timestep:  178  - Number of available nodes:  100 - Time K-connect:  53
+last_cluster_heads :  80
+len temp_cluster_heads =  19
+number of cluster heads =  48
+current_energy =  57249.63056873952
+energy_loss =  116.81352635081598
+Timestep:  179  - Number of available nodes:  100 - Time K-connect:  54
+last_cluster_heads :  71
+len temp_cluster_heads =  1
+number of cluster heads =  71
+day ne
+current_energy =  57005.092375098895
+energy_loss =  244.53819364060553
+Timestep:  180  - Number of available nodes:  100 - Time K-connect:  54
+last_cluster_heads :  71
+len temp_cluster_heads =  2
+number of cluster heads =  47
+current_energy =  56874.69815656917
+energy_loss =  130.39421852973567
+Timestep:  181  - Number of available nodes:  100 - Time K-connect:  55
+last_cluster_heads :  70
+len temp_cluster_heads =  5
+number of cluster heads =  52
+day ne
+current_energy =  56527.90471235305
+energy_loss =  346.7934442161099
+Timestep:  182  - Number of available nodes:  100 - Time K-connect:  55
+last_cluster_heads :  73
+len temp_cluster_heads =  1
+number of cluster heads =  62
+day ne
+current_energy =  56262.13224971703
+energy_loss =  265.77246263601654
+Timestep:  183  - Number of available nodes:  100 - Time K-connect:  55
+last_cluster_heads :  71
+len temp_cluster_heads =  8
+number of cluster heads =  54
+day ne
+current_energy =  55937.94444976478
+energy_loss =  324.18779995224975
+Timestep:  184  - Number of available nodes:  100 - Time K-connect:  55
+last_cluster_heads :  76
+len temp_cluster_heads =  4
+number of cluster heads =  52
+day ne
+current_energy =  55613.461456962585
+energy_loss =  324.4829928021839
+Timestep:  185  - Number of available nodes:  100 - Time K-connect:  55
+last_cluster_heads :  74
+len temp_cluster_heads =  11
+number of cluster heads =  61
+day ne
+current_energy =  55359.66210524829
+energy_loss =  253.79935171431518
+Timestep:  186  - Number of available nodes:  100 - Time K-connect:  55
+last_cluster_heads :  79
+len temp_cluster_heads =  7
+number of cluster heads =  55
+day ne
+current_energy =  55062.01490905448
+energy_loss =  297.64719619381975
+Timestep:  187  - Number of available nodes:  100 - Time K-connect:  55
+last_cluster_heads :  82
+len temp_cluster_heads =  11
+number of cluster heads =  48
+current_energy =  54938.47167476403
+energy_loss =  123.5432342904156
+Timestep:  188  - Number of available nodes:  100 - Time K-connect:  56
+last_cluster_heads :  69
+len temp_cluster_heads =  30
+number of cluster heads =  42
+current_energy =  54807.84773117197
+energy_loss =  130.62394359207576
+Timestep:  189  - Number of available nodes:  100 - Time K-connect:  57
+last_cluster_heads :  80
+len temp_cluster_heads =  2
+number of cluster heads =  63
+day ne
+current_energy =  54534.09931703439
+energy_loss =  273.74841413759407
+Timestep:  190  - Number of available nodes:  100 - Time K-connect:  57
+last_cluster_heads :  81
+len temp_cluster_heads =  2
+number of cluster heads =  48
+current_energy =  54422.88700665333
+energy_loss =  111.21231038104052
+Timestep:  191  - Number of available nodes:  100 - Time K-connect:  58
+last_cluster_heads :  81
+len temp_cluster_heads =  0
+number of cluster heads =  69
+day ne
+current_energy =  54186.792908149204
+energy_loss =  236.09409850415312
+Timestep:  192  - Number of available nodes:  100 - Time K-connect:  58
+last_cluster_heads :  76
+len temp_cluster_heads =  2
+number of cluster heads =  72
+day ne
+current_energy =  53949.25069396854
+energy_loss =  237.54221418064407
+Timestep:  193  - Number of available nodes:  100 - Time K-connect:  58
+last_cluster_heads :  77
+len temp_cluster_heads =  2
+number of cluster heads =  34
+current_energy =  53821.574802725045
+energy_loss =  127.67589124350518
+Timestep:  194  - Number of available nodes:  100 - Time K-connect:  59
+last_cluster_heads :  71
+len temp_cluster_heads =  9
+number of cluster heads =  53
+day ne
+current_energy =  53512.22108034005
+energy_loss =  309.3537223850183
+Timestep:  195  - Number of available nodes:  100 - Time K-connect:  59
+last_cluster_heads :  76
+len temp_cluster_heads =  8
+number of cluster heads =  65
+day ne
+current_energy =  53261.52107152679
+energy_loss =  250.7000088132581
+Timestep:  196  - Number of available nodes:  100 - Time K-connect:  59
+last_cluster_heads :  73
+len temp_cluster_heads =  8
+number of cluster heads =  47
+current_energy =  53135.06427168986
+energy_loss =  126.45679983692517
+Timestep:  197  - Number of available nodes:  100 - Time K-connect:  60
+last_cluster_heads :  74
+len temp_cluster_heads =  16
+number of cluster heads =  67
+day ne
+current_energy =  52893.726990236886
+energy_loss =  241.33728145297317
+Timestep:  198  - Number of available nodes:  100 - Time K-connect:  60
+last_cluster_heads :  79
+len temp_cluster_heads =  20
+number of cluster heads =  42
+current_energy =  52772.5729953475
+energy_loss =  121.15399488936586
+Timestep:  199  - Number of available nodes:  100 - Time K-connect:  61
+last_cluster_heads :  69
+len temp_cluster_heads =  2
+number of cluster heads =  89
+day ne
+current_energy =  52556.51346133356
+energy_loss =  216.05953401394362
+Timestep:  200  - Number of available nodes:  100 - Time K-connect:  61
+last_cluster_heads :  69
+len temp_cluster_heads =  3
+number of cluster heads =  75
+day ne
+current_energy =  52313.639037754314
+energy_loss =  242.87442357924812
+Timestep:  201  - Number of available nodes:  100 - Time K-connect:  61
+last_cluster_heads :  70
+len temp_cluster_heads =  4
+number of cluster heads =  84
+day ne
+current_energy =  52092.44478262581
+energy_loss =  221.19425512850526
+Timestep:  202  - Number of available nodes:  100 - Time K-connect:  61
+last_cluster_heads :  74
+len temp_cluster_heads =  5
+number of cluster heads =  55
+day ne
+current_energy =  51766.61562919665
+energy_loss =  325.82915342916044
+Timestep:  203  - Number of available nodes:  100 - Time K-connect:  61
+last_cluster_heads :  77
+len temp_cluster_heads =  2
+number of cluster heads =  45
+current_energy =  51637.85455596028
+energy_loss =  128.76107323637746
+Timestep:  204  - Number of available nodes:  100 - Time K-connect:  62
+last_cluster_heads :  77
+len temp_cluster_heads =  7
+number of cluster heads =  43
+current_energy =  51501.605878408176
+energy_loss =  136.2486775520954
+Timestep:  205  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  75
+len temp_cluster_heads =  4
+number of cluster heads =  62
+day ne
+current_energy =  51227.245000231975
+energy_loss =  274.3608781761989
+Timestep:  206  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  71
+len temp_cluster_heads =  5
+number of cluster heads =  58
+day ne
+current_energy =  50951.088663400165
+energy_loss =  276.1563368318078
+Timestep:  207  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  68
+len temp_cluster_heads =  16
+number of cluster heads =  51
+day ne
+current_energy =  50596.51001526672
+energy_loss =  354.57864813344776
+Timestep:  208  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  68
+len temp_cluster_heads =  31
+number of cluster heads =  80
+day ne
+current_energy =  50371.8726074039
+energy_loss =  224.6374078628447
+Timestep:  209  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  79
+len temp_cluster_heads =  2
+number of cluster heads =  68
+day ne
+current_energy =  50118.393978362554
+energy_loss =  253.4786290413454
+Timestep:  210  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  79
+len temp_cluster_heads =  1
+number of cluster heads =  67
+day ne
+current_energy =  49873.38618942395
+energy_loss =  245.00778893858032
+Timestep:  211  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  77
+len temp_cluster_heads =  1
+number of cluster heads =  62
+day ne
+current_energy =  49610.03086199076
+energy_loss =  263.3553274331913
+Timestep:  212  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  74
+len temp_cluster_heads =  4
+number of cluster heads =  75
+day ne
+current_energy =  49376.09068751992
+energy_loss =  233.94017447087202
+Timestep:  213  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  73
+len temp_cluster_heads =  3
+number of cluster heads =  48
+day ne
+current_energy =  49038.956117859365
+energy_loss =  337.1345696605317
+Timestep:  214  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  74
+len temp_cluster_heads =  7
+number of cluster heads =  54
+day ne
+current_energy =  48742.14186503094
+energy_loss =  296.81425282843605
+Timestep:  215  - Number of available nodes:  100 - Time K-connect:  63
+last_cluster_heads :  74
+len temp_cluster_heads =  5
+number of cluster heads =  41
+current_energy =  48622.69436180432
+energy_loss =  119.44750322660117
+Timestep:  216  - Number of available nodes:  100 - Time K-connect:  64
+last_cluster_heads :  75
+len temp_cluster_heads =  7
+number of cluster heads =  68
+day ne
+current_energy =  48377.208537025515
+energy_loss =  245.48582477881538
+Timestep:  217  - Number of available nodes:  100 - Time K-connect:  64
+last_cluster_heads :  77
+len temp_cluster_heads =  10
+number of cluster heads =  42
+current_energy =  48247.34132571938
+energy_loss =  129.86721130615592
+Timestep:  218  - Number of available nodes:  100 - Time K-connect:  65
+last_cluster_heads :  71
+len temp_cluster_heads =  28
+number of cluster heads =  69
+day ne
+current_energy =  48005.86041266251
+energy_loss =  241.48091305682897
+Timestep:  219  - Number of available nodes:  100 - Time K-connect:  65
+last_cluster_heads :  68
+len temp_cluster_heads =  2
+number of cluster heads =  43
+current_energy =  47885.85372136344
+energy_loss =  120.00669129909281
+Timestep:  220  - Number of available nodes:  100 - Time K-connect:  66
+last_cluster_heads :  68
+len temp_cluster_heads =  7
+number of cluster heads =  69
+day ne
+current_energy =  47640.975279397375
+energy_loss =  244.87844196608143
+Timestep:  221  - Number of available nodes:  100 - Time K-connect:  66
+last_cluster_heads :  74
+len temp_cluster_heads =  3
+number of cluster heads =  36
+current_energy =  47519.340760482766
+energy_loss =  121.63451891456303
+Timestep:  222  - Number of available nodes:  100 - Time K-connect:  67
+last_cluster_heads :  76
+len temp_cluster_heads =  5
+number of cluster heads =  63
+day ne
+current_energy =  47234.60624216044
+energy_loss =  284.7345183223605
+Timestep:  223  - Number of available nodes:  100 - Time K-connect:  67
+last_cluster_heads :  77
+len temp_cluster_heads =  4
+number of cluster heads =  60
+day ne
+current_energy =  46964.98815426014
+energy_loss =  269.61808790027806
+Timestep:  224  - Number of available nodes:  100 - Time K-connect:  67
+last_cluster_heads :  78
+len temp_cluster_heads =  4
+number of cluster heads =  46
+current_energy =  46822.55459801647
+energy_loss =  142.43355624365944
+Timestep:  225  - Number of available nodes:  100 - Time K-connect:  68
+last_cluster_heads :  75
+len temp_cluster_heads =  9
+number of cluster heads =  56
+day ne
+current_energy =  46533.61198158356
+energy_loss =  288.94261643292987
+Timestep:  226  - Number of available nodes:  100 - Time K-connect:  68
+last_cluster_heads :  79
+len temp_cluster_heads =  8
+number of cluster heads =  35
+current_energy =  46397.908252703935
+energy_loss =  135.70372887962554
+Timestep:  227  - Number of available nodes:  100 - Time K-connect:  69
+last_cluster_heads :  80
+len temp_cluster_heads =  8
+number of cluster heads =  79
+day ne
+current_energy =  46171.64418854728
+energy_loss =  226.26406415666193
+Timestep:  228  - Number of available nodes:  100 - Time K-connect:  69
+last_cluster_heads :  78
+len temp_cluster_heads =  21
+number of cluster heads =  54
+day ne
+current_energy =  45842.03548525481
+energy_loss =  329.60870329246075
+Timestep:  229  - Number of available nodes:  100 - Time K-connect:  69
+last_cluster_heads :  71
+len temp_cluster_heads =  0
+number of cluster heads =  39
+current_energy =  45721.598296770964
+energy_loss =  120.4371884838481
+Timestep:  230  - Number of available nodes:  100 - Time K-connect:  70
+last_cluster_heads :  69
+len temp_cluster_heads =  2
+number of cluster heads =  40
+current_energy =  45597.516759335915
+energy_loss =  124.08153743506422
+Timestep:  231  - Number of available nodes:  100 - Time K-connect:  71
+last_cluster_heads :  64
+len temp_cluster_heads =  4
+number of cluster heads =  39
+current_energy =  45478.013045922344
+energy_loss =  119.50371341351313
+Timestep:  232  - Number of available nodes:  100 - Time K-connect:  72
+last_cluster_heads :  65
+len temp_cluster_heads =  4
+number of cluster heads =  64
+day ne
+current_energy =  45229.845843392795
+energy_loss =  248.16720252956262
+Timestep:  233  - Number of available nodes:  100 - Time K-connect:  72
+last_cluster_heads :  64
+len temp_cluster_heads =  2
+number of cluster heads =  67
+day ne
+current_energy =  44988.757128317724
+energy_loss =  241.08871507511085
+Timestep:  234  - Number of available nodes:  100 - Time K-connect:  72
+last_cluster_heads :  62
+len temp_cluster_heads =  5
+number of cluster heads =  67
+day ne
+current_energy =  44740.850819554544
+energy_loss =  247.90630876314822
+Timestep:  235  - Number of available nodes:  100 - Time K-connect:  72
+last_cluster_heads :  63
+len temp_cluster_heads =  10
+number of cluster heads =  56
+day ne
+current_energy =  44451.150920311076
+energy_loss =  289.699899243492
+Timestep:  236  - Number of available nodes:  100 - Time K-connect:  72
+last_cluster_heads :  64
+len temp_cluster_heads =  16
+number of cluster heads =  58
+day ne
+current_energy =  44194.80595493496
+energy_loss =  259.8517826812014
+Timestep:  237  - Number of available nodes:  99 - Time K-connect:  72
+last_cluster_heads :  64
+len temp_cluster_heads =  4
+number of cluster heads =  48
+day ne
+current_energy =  43836.74895157487
+energy_loss =  358.05700336008493
+Timestep:  238  - Number of available nodes:  99 - Time K-connect:  72
+last_cluster_heads :  47
+len temp_cluster_heads =  9
+number of cluster heads =  42
+current_energy =  43704.82901675847
+energy_loss =  131.91993481638536
+Timestep:  239  - Number of available nodes:  99 - Time K-connect:  73
+last_cluster_heads :  56
+len temp_cluster_heads =  13
+number of cluster heads =  63
+day ne
+current_energy =  43439.73499008903
+energy_loss =  265.0940266694298
+Timestep:  240  - Number of available nodes:  99 - Time K-connect:  73
+last_cluster_heads :  67
+len temp_cluster_heads =  12
+number of cluster heads =  58
+day ne
+current_energy =  43166.50738524871
+energy_loss =  273.22760484033046
+Timestep:  241  - Number of available nodes:  99 - Time K-connect:  73
+last_cluster_heads :  75
+len temp_cluster_heads =  9
+number of cluster heads =  58
+day ne
+current_energy =  42901.464232092745
+energy_loss =  265.0431531559734
+Timestep:  242  - Number of available nodes:  99 - Time K-connect:  73
+last_cluster_heads :  80
+len temp_cluster_heads =  0
+number of cluster heads =  62
+day ne
+current_energy =  42643.70147150562
+energy_loss =  257.76276058711824
+Timestep:  243  - Number of available nodes:  99 - Time K-connect:  73
+last_cluster_heads :  78
+len temp_cluster_heads =  3
+number of cluster heads =  46
+current_energy =  42516.74544723576
+energy_loss =  126.95602426987718
+Timestep:  244  - Number of available nodes:  99 - Time K-connect:  74
+last_cluster_heads :  76
+len temp_cluster_heads =  5
+number of cluster heads =  52
+day ne
+current_energy =  42205.117946603226
+energy_loss =  311.6275006325167
+Timestep:  245  - Number of available nodes:  99 - Time K-connect:  74
+last_cluster_heads :  71
+len temp_cluster_heads =  8
+number of cluster heads =  58
+day ne
+current_energy =  41924.01114581161
+energy_loss =  281.10680079162944
+Timestep:  246  - Number of available nodes:  99 - Time K-connect:  74
+last_cluster_heads :  63
+len temp_cluster_heads =  4
+number of cluster heads =  54
+day ne
+current_energy =  41629.862849540455
+energy_loss =  294.14829627114176
+Timestep:  247  - Number of available nodes:  99 - Time K-connect:  74
+last_cluster_heads :  63
+len temp_cluster_heads =  9
+number of cluster heads =  72
+day ne
+current_energy =  41382.363157015425
+energy_loss =  247.49969252500807
+Timestep:  248  - Number of available nodes:  99 - Time K-connect:  74
+last_cluster_heads :  63
+len temp_cluster_heads =  8
+number of cluster heads =  56
+day ne
+current_energy =  41054.24293438442
+energy_loss =  328.1202226310366
+Timestep:  249  - Number of available nodes:  99 - Time K-connect:  74
+last_cluster_heads :  58
+len temp_cluster_heads =  14
+number of cluster heads =  45
+current_energy =  40929.34285985365
+energy_loss =  124.90007453077283
+Timestep:  250  - Number of available nodes:  99 - Time K-connect:  75
+last_cluster_heads :  60
+len temp_cluster_heads =  15
+number of cluster heads =  47
+current_energy =  40795.7328301352
+energy_loss =  133.61002971841344
+Timestep:  251  - Number of available nodes:  99 - Time K-connect:  76
+last_cluster_heads :  66
+len temp_cluster_heads =  1
+number of cluster heads =  51
+day ne
+current_energy =  40415.43652162029
+energy_loss =  380.29630851492266
+Timestep:  252  - Number of available nodes:  99 - Time K-connect:  76
+last_cluster_heads :  67
+len temp_cluster_heads =  4
+number of cluster heads =  81
+day ne
+current_energy =  40189.18287041203
+energy_loss =  226.25365120827726
+Timestep:  253  - Number of available nodes:  99 - Time K-connect:  76
+last_cluster_heads :  68
+len temp_cluster_heads =  4
+number of cluster heads =  67
+day ne
+current_energy =  39950.65387168583
+energy_loss =  243.96255252360416
+Timestep:  254  - Number of available nodes:  98 - Time K-connect:  76
+last_cluster_heads :  67
+len temp_cluster_heads =  7
+number of cluster heads =  48
+day ne
+current_energy =  39603.61132808375
+energy_loss =  347.0425436020904
+Timestep:  255  - Number of available nodes:  98 - Time K-connect:  76
+last_cluster_heads :  66
+len temp_cluster_heads =  3
+number of cluster heads =  63
+day ne
+current_energy =  39352.06507056585
+energy_loss =  251.5462575178944
+Timestep:  256  - Number of available nodes:  98 - Time K-connect:  76
+last_cluster_heads :  65
+len temp_cluster_heads =  3
+number of cluster heads =  68
+day ne
+current_energy =  39114.047292864896
+energy_loss =  238.01777770095032
+Timestep:  257  - Number of available nodes:  98 - Time K-connect:  76
+last_cluster_heads :  59
+len temp_cluster_heads =  9
+number of cluster heads =  43
+current_energy =  38989.182677356235
+energy_loss =  124.86461550866395
+Timestep:  258  - Number of available nodes:  98 - Time K-connect:  77
+last_cluster_heads :  60
+len temp_cluster_heads =  15
+number of cluster heads =  64
+day ne
+current_energy =  38752.872711656746
+energy_loss =  244.80696778020985
+Timestep:  259  - Number of available nodes:  97 - Time K-connect:  77
+last_cluster_heads :  61
+len temp_cluster_heads =  15
+number of cluster heads =  72
+day ne
+current_energy =  38515.998733640314
+energy_loss =  236.87397801642683
+Timestep:  260  - Number of available nodes:  97 - Time K-connect:  77
+last_cluster_heads :  61
+len temp_cluster_heads =  2
+number of cluster heads =  52
+day ne
+current_energy =  38178.129616931285
+energy_loss =  337.86911670902384
+Timestep:  261  - Number of available nodes:  97 - Time K-connect:  77
+last_cluster_heads :  62
+len temp_cluster_heads =  4
+number of cluster heads =  58
+day ne
+current_energy =  37891.1921780379
+energy_loss =  288.8626749826315
+Timestep:  262  - Number of available nodes:  96 - Time K-connect:  77
+last_cluster_heads :  62
+len temp_cluster_heads =  7
+number of cluster heads =  43
+current_energy =  37761.52257849208
+energy_loss =  129.66959954581606
+Timestep:  263  - Number of available nodes:  96 - Time K-connect:  78
+last_cluster_heads :  65
+len temp_cluster_heads =  4
+number of cluster heads =  51
+day ne
+current_energy =  37447.450189078496
+energy_loss =  314.07238941357184
+Timestep:  264  - Number of available nodes:  96 - Time K-connect:  78
+last_cluster_heads :  62
+len temp_cluster_heads =  5
+number of cluster heads =  66
+day ne
+current_energy =  37203.62126932032
+energy_loss =  243.82891975818708
+Timestep:  265  - Number of available nodes:  96 - Time K-connect:  78
+last_cluster_heads :  64
+len temp_cluster_heads =  6
+number of cluster heads =  55
+day ne
+current_energy =  36898.45228404334
+energy_loss =  305.16898527696685
+Timestep:  266  - Number of available nodes:  96 - Time K-connect:  78
+last_cluster_heads :  67
+len temp_cluster_heads =  8
+number of cluster heads =  40
+current_energy =  36770.66221742329
+energy_loss =  127.92025376849514
+Timestep:  267  - Number of available nodes:  95 - Time K-connect:  79
+last_cluster_heads :  66
+len temp_cluster_heads =  12
+number of cluster heads =  60
+day ne
+current_energy =  36516.90396962222
+energy_loss =  253.7582478010841
+Timestep:  268  - Number of available nodes:  95 - Time K-connect:  79
+last_cluster_heads :  63
+len temp_cluster_heads =  24
+number of cluster heads =  53
+day ne
+current_energy =  36232.73418431517
+energy_loss =  284.16978530701743
+Timestep:  269  - Number of available nodes:  95 - Time K-connect:  79
+last_cluster_heads :  72
+len temp_cluster_heads =  2
+number of cluster heads =  69
+day ne
+current_energy =  36007.833941744626
+energy_loss =  224.90024257055535
+Timestep:  270  - Number of available nodes:  95 - Time K-connect:  79
+last_cluster_heads :  72
+len temp_cluster_heads =  1
+number of cluster heads =  72
+day ne
+current_energy =  35785.8304832469
+energy_loss =  222.0034584977366
+Timestep:  271  - Number of available nodes:  95 - Time K-connect:  79
+last_cluster_heads :  69
+len temp_cluster_heads =  5
+number of cluster heads =  50
+day ne
+current_energy =  35478.74703024835
+energy_loss =  307.08345299854807
+Timestep:  272  - Number of available nodes:  95 - Time K-connect:  79
+last_cluster_heads :  67
+len temp_cluster_heads =  7
+number of cluster heads =  74
+day ne
+current_energy =  35262.538954725394
+energy_loss =  216.20807552293977
+Timestep:  273  - Number of available nodes:  95 - Time K-connect:  79
+last_cluster_heads :  70
+len temp_cluster_heads =  4
+number of cluster heads =  51
+day ne
+current_energy =  34974.319505905936
+energy_loss =  288.2194488194546
+Timestep:  274  - Number of available nodes:  95 - Time K-connect:  79
+last_cluster_heads :  69
+len temp_cluster_heads =  5
+number of cluster heads =  69
+day ne
+current_energy =  34742.88915106444
+energy_loss =  231.4303548415069
+Timestep:  275  - Number of available nodes:  95 - Time K-connect:  79
+last_cluster_heads :  68
+len temp_cluster_heads =  9
+number of cluster heads =  67
+day ne
+current_energy =  34506.46799815887
+energy_loss =  239.43955505717588
+Timestep:  276  - Number of available nodes:  94 - Time K-connect:  79
+last_cluster_heads :  69
+len temp_cluster_heads =  8
+number of cluster heads =  41
+current_energy =  34393.86366818915
+energy_loss =  112.60432996972445
+Timestep:  277  - Number of available nodes:  94 - Time K-connect:  80
+last_cluster_heads :  65
+len temp_cluster_heads =  21
+number of cluster heads =  41
+current_energy =  34277.64761824765
+energy_loss =  116.2160499414979
+Timestep:  278  - Number of available nodes:  94 - Time K-connect:  81
+last_cluster_heads :  62
+len temp_cluster_heads =  4
+number of cluster heads =  47
+day ne
+current_energy =  33930.70658949944
+energy_loss =  346.9410287482145
+Timestep:  279  - Number of available nodes:  94 - Time K-connect:  81
+last_cluster_heads :  64
+len temp_cluster_heads =  4
+number of cluster heads =  56
+day ne
+current_energy =  33676.845031291814
+energy_loss =  253.86155820761843
+Timestep:  280  - Number of available nodes:  94 - Time K-connect:  81
+last_cluster_heads :  67
+len temp_cluster_heads =  4
+number of cluster heads =  69
+day ne
+current_energy =  33454.69473198783
+energy_loss =  222.15029930397148
+Timestep:  281  - Number of available nodes:  94 - Time K-connect:  81
+last_cluster_heads :  66
+len temp_cluster_heads =  5
+number of cluster heads =  73
+day ne
+current_energy =  33230.29998959579
+energy_loss =  224.39474239203236
+Timestep:  282  - Number of available nodes:  94 - Time K-connect:  81
+last_cluster_heads :  64
+len temp_cluster_heads =  3
+number of cluster heads =  50
+day ne
+current_energy =  32938.74493308466
+energy_loss =  293.9823891533813
+Timestep:  283  - Number of available nodes:  93 - Time K-connect:  81
+last_cluster_heads :  63
+len temp_cluster_heads =  7
+number of cluster heads =  54
+day ne
+current_energy =  32688.512762806404
+energy_loss =  250.23217027824518
+Timestep:  284  - Number of available nodes:  93 - Time K-connect:  81
+last_cluster_heads :  65
+len temp_cluster_heads =  6
+number of cluster heads =  53
+day ne
+current_energy =  32388.010176201562
+energy_loss =  301.53565752772056
+Timestep:  285  - Number of available nodes:  92 - Time K-connect:  81
+last_cluster_heads :  62
+len temp_cluster_heads =  11
+number of cluster heads =  71
+day ne
+current_energy =  32167.69789184139
+energy_loss =  220.31228436017787
+Timestep:  286  - Number of available nodes:  92 - Time K-connect:  81
+last_cluster_heads :  65
+len temp_cluster_heads =  23
+number of cluster heads =  47
+day ne
+current_energy =  31886.86473173826
+energy_loss =  287.03147876894224
+Timestep:  287  - Number of available nodes:  91 - Time K-connect:  81
+last_cluster_heads :  67
+len temp_cluster_heads =  2
+number of cluster heads =  79
+day ne
+current_energy =  31677.403795449354
+energy_loss =  209.4609362888929
+Timestep:  288  - Number of available nodes:  91 - Time K-connect:  81
+last_cluster_heads :  65
+len temp_cluster_heads =  3
+number of cluster heads =  58
+day ne
+current_energy =  31426.675837034643
+energy_loss =  250.72795841472572
+Timestep:  289  - Number of available nodes:  91 - Time K-connect:  81
+last_cluster_heads :  64
+len temp_cluster_heads =  4
+number of cluster heads =  52
+day ne
+current_energy =  31164.52037524597
+energy_loss =  262.15546178867237
+Timestep:  290  - Number of available nodes:  91 - Time K-connect:  81
+last_cluster_heads :  64
+len temp_cluster_heads =  1
+number of cluster heads =  64
+day ne
+current_energy =  30929.20388592252
+energy_loss =  235.31648932344584
+Timestep:  291  - Number of available nodes:  91 - Time K-connect:  81
+last_cluster_heads :  60
+len temp_cluster_heads =  5
+number of cluster heads =  51
+day ne
+current_energy =  30660.53093904079
+energy_loss =  268.6729468817405
+Timestep:  292  - Number of available nodes:  91 - Time K-connect:  81
+last_cluster_heads :  62
+len temp_cluster_heads =  6
+number of cluster heads =  66
+day ne
+current_energy =  30441.64328983077
+energy_loss =  218.88764921001544
+Timestep:  293  - Number of available nodes:  91 - Time K-connect:  81
+last_cluster_heads :  61
+len temp_cluster_heads =  13
+number of cluster heads =  56
+day ne
+current_energy =  30185.92738613041
+energy_loss =  255.71590370036972
+Timestep:  294  - Number of available nodes:  91 - Time K-connect:  81
+last_cluster_heads :  68
+len temp_cluster_heads =  18
+number of cluster heads =  61
+day ne
+current_energy =  29963.038914223827
+energy_loss =  224.03776291444365
+Timestep:  295  - Number of available nodes:  90 - Time K-connect:  81
+last_cluster_heads :  75
+len temp_cluster_heads =  15
+number of cluster heads =  57
+day ne
+current_energy =  29709.92207670547
+energy_loss =  253.11683751834963
+Timestep:  296  - Number of available nodes:  90 - Time K-connect:  81
+last_cluster_heads :  67
+len temp_cluster_heads =  1
+number of cluster heads =  80
+day ne
+current_energy =  29515.893816259446
+energy_loss =  201.04252053747422
+Timestep:  297  - Number of available nodes:  88 - Time K-connect:  81
+last_cluster_heads :  63
+len temp_cluster_heads =  5
+number of cluster heads =  38
+current_energy =  29399.916563681956
+energy_loss =  115.97725257748463
+Timestep:  298  - Number of available nodes:  88 - Time K-connect:  82
+last_cluster_heads :  64
+len temp_cluster_heads =  3
+number of cluster heads =  72
+day ne
+current_energy =  29197.517656986663
+energy_loss =  202.39890669528808
+Timestep:  299  - Number of available nodes:  88 - Time K-connect:  82
+last_cluster_heads :  66
+len temp_cluster_heads =  0
+number of cluster heads =  81
+day ne
+current_energy =  28998.759193068377
+energy_loss =  198.75846391829774
+Timestep:  300  - Number of available nodes:  88 - Time K-connect:  82
+last_cluster_heads :  61
+len temp_cluster_heads =  8
+number of cluster heads =  59
+day ne
+current_energy =  28759.638303588017
+energy_loss =  239.12088948036364
+Timestep:  301  - Number of available nodes:  88 - Time K-connect:  82
+last_cluster_heads :  63
+len temp_cluster_heads =  12
+number of cluster heads =  72
+day ne
+current_energy =  28554.43319944954
+energy_loss =  206.5062523102519
+Timestep:  302  - Number of available nodes:  87 - Time K-connect:  82
+last_cluster_heads :  62
+len temp_cluster_heads =  14
+number of cluster heads =  58
+day ne
+current_energy =  28325.978739284008
+energy_loss =  228.45446016553458
+Timestep:  303  - Number of available nodes:  87 - Time K-connect:  82
+last_cluster_heads :  58
+len temp_cluster_heads =  2
+number of cluster heads =  63
+day ne
+current_energy =  28105.18939444916
+energy_loss =  220.78934483484565
+Timestep:  304  - Number of available nodes:  87 - Time K-connect:  82
+last_cluster_heads :  45
+len temp_cluster_heads =  6
+number of cluster heads =  72
+day ne
+current_energy =  27907.04669518761
+energy_loss =  202.98218962916948
+Timestep:  305  - Number of available nodes:  85 - Time K-connect:  82
+last_cluster_heads :  50
+len temp_cluster_heads =  5
+number of cluster heads =  80
+day ne
+current_energy =  27718.235972817864
+energy_loss =  188.81072236975473
+Timestep:  306  - Number of available nodes:  85 - Time K-connect:  82
+last_cluster_heads :  50
+len temp_cluster_heads =  9
+number of cluster heads =  59
+day ne
+current_energy =  27508.47328523852
+energy_loss =  209.92205564861234
+Timestep:  307  - Number of available nodes:  84 - Time K-connect:  82
+last_cluster_heads :  56
+len temp_cluster_heads =  3
+number of cluster heads =  78
+day ne
+current_energy =  27318.58404593929
+energy_loss =  189.88923929924633
+Timestep:  308  - Number of available nodes:  84 - Time K-connect:  82
+last_cluster_heads :  59
+len temp_cluster_heads =  9
+number of cluster heads =  56
+day ne
+current_energy =  27104.304125527546
+energy_loss =  214.27992041172618
+Timestep:  309  - Number of available nodes:  84 - Time K-connect:  82
+last_cluster_heads :  60
+len temp_cluster_heads =  7
+number of cluster heads =  77
+day ne
+current_energy =  26912.16661962585
+energy_loss =  192.1375059017051
+Timestep:  310  - Number of available nodes:  84 - Time K-connect:  82
+last_cluster_heads :  55
+len temp_cluster_heads =  22
+number of cluster heads =  63
+day ne
+current_energy =  26710.78417369645
+energy_loss =  201.3824459293944
+Timestep:  311  - Number of available nodes:  84 - Time K-connect:  82
+last_cluster_heads :  63
+len temp_cluster_heads =  0
+number of cluster heads =  73
+day ne
+current_energy =  26510.510043047354
+energy_loss =  200.2741306491086
+Timestep:  312  - Number of available nodes:  84 - Time K-connect:  82
+last_cluster_heads :  61
+len temp_cluster_heads =  2
+number of cluster heads =  79
+day ne
+current_energy =  26321.596874844006
+energy_loss =  188.91316820333006
+Timestep:  313  - Number of available nodes:  84 - Time K-connect:  82
+last_cluster_heads :  57
+len temp_cluster_heads =  5
+number of cluster heads =  83
+day ne
+current_energy =  26134.518118421536
+energy_loss =  187.0787564224798
+Timestep:  314  - Number of available nodes:  84 - Time K-connect:  82
+last_cluster_heads :  57
+len temp_cluster_heads =  6
+number of cluster heads =  62
+day ne
+current_energy =  25932.173084288686
+energy_loss =  207.7819968518241
+Timestep:  315  - Number of available nodes:  83 - Time K-connect:  82
+last_cluster_heads :  54
+len temp_cluster_heads =  5
+number of cluster heads =  61
+day ne
+current_energy =  25728.44886285952
+energy_loss =  203.72422142917193
+Timestep:  316  - Number of available nodes:  83 - Time K-connect:  82
+last_cluster_heads :  56
+len temp_cluster_heads =  10
+number of cluster heads =  67
+day ne
+current_energy =  25528.324880282853
+energy_loss =  200.12398257666553
+Timestep:  317  - Number of available nodes:  83 - Time K-connect:  82
+last_cluster_heads :  57
+len temp_cluster_heads =  10
+number of cluster heads =  61
+day ne
+current_energy =  25325.915667212055
+energy_loss =  202.409213070794
+Timestep:  318  - Number of available nodes:  83 - Time K-connect:  82
+last_cluster_heads :  60
+len temp_cluster_heads =  19
+number of cluster heads =  65
+day ne
+current_energy =  25121.537205829838
+energy_loss =  204.37846138221704
+Timestep:  319  - Number of available nodes:  83 - Time K-connect:  82
+last_cluster_heads :  57
+len temp_cluster_heads =  2
+number of cluster heads =  67
+day ne
+current_energy =  24921.979911865245
+energy_loss =  199.5572939646058
+Timestep:  320  - Number of available nodes:  83 - Time K-connect:  82
+last_cluster_heads :  59
+len temp_cluster_heads =  2
+number of cluster heads =  68
+day ne
+current_energy =  24722.550073860013
+energy_loss =  199.42983800522876
+Timestep:  321  - Number of available nodes:  83 - Time K-connect:  82
+last_cluster_heads :  59
+len temp_cluster_heads =  6
+number of cluster heads =  57
+day ne
+current_energy =  24506.64522247035
+energy_loss =  216.42491580624122
+Timestep:  322  - Number of available nodes:  82 - Time K-connect:  82
+last_cluster_heads :  60
+len temp_cluster_heads =  5
+number of cluster heads =  73
+day ne
+current_energy =  24325.146115539716
+energy_loss =  187.09782186450178
+Timestep:  323  - Number of available nodes:  81 - Time K-connect:  82
+last_cluster_heads :  59
+len temp_cluster_heads =  4
+number of cluster heads =  80
+day ne
+current_energy =  24142.48012219222
+energy_loss =  182.66599334747957
+Timestep:  324  - Number of available nodes:  81 - Time K-connect:  82
+last_cluster_heads :  58
+len temp_cluster_heads =  11
+number of cluster heads =  80
+day ne
+current_energy =  23959.814128844748
+energy_loss =  182.66599334747957
+Timestep:  325  - Number of available nodes:  81 - Time K-connect:  82
+last_cluster_heads :  59
+len temp_cluster_heads =  12
+number of cluster heads =  77
+day ne
+current_energy =  23777.30551337709
+energy_loss =  183.28359396498243
+Timestep:  326  - Number of available nodes:  80 - Time K-connect:  82
+last_cluster_heads :  61
+len temp_cluster_heads =  20
+number of cluster heads =  71
+day ne
+current_energy =  23586.854442911048
+energy_loss =  190.45107046604895
+Timestep:  327  - Number of available nodes:  80 - Time K-connect:  82
+last_cluster_heads :  62
+len temp_cluster_heads =  0
+number of cluster heads =  68
+day ne
+current_energy =  23402.0417151252
+energy_loss =  187.07452019874688
+Timestep:  328  - Number of available nodes:  79 - Time K-connect:  82
+last_cluster_heads :  58
+len temp_cluster_heads =  1
+number of cluster heads =  4
+day ne
+current_energy =  22826.290474932513
+energy_loss =  575.7512401926714
+Timestep:  329  - Number of available nodes:  79 - Time K-connect:  82
+last_cluster_heads :  53
+len temp_cluster_heads =  4
+number of cluster heads =  4
+day ne
+current_energy =  22304.105374996692
+energy_loss =  522.1850999358358
+Timestep:  330  - Number of available nodes:  79 - Time K-connect:  82
+last_cluster_heads :  52
+len temp_cluster_heads =  3
+number of cluster heads =  7
+day ne
+current_energy =  21805.697573835776
+energy_loss =  498.4078011608932
+Timestep:  331  - Number of available nodes:  79 - Time K-connect:  82
+last_cluster_heads :  51
+len temp_cluster_heads =  1
+number of cluster heads =  7
+day ne
+current_energy =  21225.866631307978
+energy_loss =  579.8309425278114
+Timestep:  332  - Number of available nodes:  79 - Time K-connect:  82
+last_cluster_heads :  41
+len temp_cluster_heads =  16
+number of cluster heads =  16
+day ne
+current_energy =  20847.524031798883
+energy_loss =  378.3425995090948
+Timestep:  333  - Number of available nodes:  79 - Time K-connect:  82
+last_cluster_heads :  45
+len temp_cluster_heads =  12
+number of cluster heads =  12
+day ne
+current_energy =  20461.639428532675
+energy_loss =  385.8846032662026
+Timestep:  334  - Number of available nodes:  79 - Time K-connect:  82
+last_cluster_heads :  37
+len temp_cluster_heads =  25
+number of cluster heads =  25
+day ne
+current_energy =  20125.28846681711
+energy_loss =  336.3509617155743
+Timestep:  335  - Number of available nodes:  79 - Time K-connect:  82
+last_cluster_heads :  62
+len temp_cluster_heads =  1
+number of cluster heads =  6
+day ne
+current_energy =  19648.80407972339
+energy_loss =  480.9352753100191
+Timestep:  336  - Number of available nodes:  77 - Time K-connect:  82
+last_cluster_heads :  62
+len temp_cluster_heads =  1
+number of cluster heads =  6
+day ne
+current_energy =  19167.85119125857
+energy_loss =  480.9528884648247
+Timestep:  337  - Number of available nodes:  77 - Time K-connect:  82
+last_cluster_heads :  59
+len temp_cluster_heads =  3
+number of cluster heads =  5
+day ne
+current_energy =  18667.34303990778
+energy_loss =  500.5081513507886
+Timestep:  338  - Number of available nodes:  77 - Time K-connect:  82
+last_cluster_heads :  59
+len temp_cluster_heads =  4
+number of cluster heads =  4
+day ne
+current_energy =  18141.74704429151
+energy_loss =  525.6118252244743
+Timestep:  339  - Number of available nodes:  76 - Time K-connect:  82
+last_cluster_heads :  62
+len temp_cluster_heads =  4
+number of cluster heads =  9
+day ne
+current_energy =  17728.538693335424
+energy_loss =  413.208350956083
+Timestep:  340  - Number of available nodes:  76 - Time K-connect:  82
+last_cluster_heads :  50
+len temp_cluster_heads =  12
+number of cluster heads =  12
+day ne
+current_energy =  17296.5923139949
+energy_loss =  434.2061694411171
+Timestep:  341  - Number of available nodes:  74 - Time K-connect:  82
+last_cluster_heads :  50
+len temp_cluster_heads =  20
+number of cluster heads =  20
+day ne
+current_energy =  16926.329903759848
+energy_loss =  370.2624102350496
+Timestep:  342  - Number of available nodes:  74 - Time K-connect:  82
+last_cluster_heads :  45
+len temp_cluster_heads =  8
+number of cluster heads =  8
+day ne
+current_energy =  16471.459298439106
+energy_loss =  457.90329644161505
+Timestep:  343  - Number of available nodes:  73 - Time K-connect:  82
+last_cluster_heads :  52
+len temp_cluster_heads =  4
+number of cluster heads =  7
+day ne
+current_energy =  16056.897622072864
+energy_loss =  429.7646643103328
+Timestep:  344  - Number of available nodes:  71 - Time K-connect:  82
+last_cluster_heads :  55
+len temp_cluster_heads =  3
+number of cluster heads =  7
+day ne
+current_energy =  15622.869399638988
+energy_loss =  434.02822243387453
+Timestep:  345  - Number of available nodes:  71 - Time K-connect:  82
+last_cluster_heads :  55
+len temp_cluster_heads =  6
+number of cluster heads =  6
+day ne
+current_energy =  15171.364372267237
+energy_loss =  457.46602395622995
+Timestep:  346  - Number of available nodes:  70 - Time K-connect:  82
+last_cluster_heads :  57
+len temp_cluster_heads =  4
+number of cluster heads =  13
+day ne
+current_energy =  14855.954803806477
+energy_loss =  315.7122159608098
+Timestep:  347  - Number of available nodes:  69 - Time K-connect:  82
+last_cluster_heads :  45
+len temp_cluster_heads =  4
+number of cluster heads =  9
+day ne
+current_energy =  14488.00022659067
+energy_loss =  367.95457721581687
+Timestep:  348  - Number of available nodes:  69 - Time K-connect:  82
+last_cluster_heads :  29
+len temp_cluster_heads =  7
+number of cluster heads =  7
+day ne
+current_energy =  14043.339850375625
+energy_loss =  448.27559344609995
+Timestep:  349  - Number of available nodes:  68 - Time K-connect:  82
+last_cluster_heads :  28
+len temp_cluster_heads =  10
+number of cluster heads =  10
+day ne
+current_energy =  13660.964646233457
+energy_loss =  395.0915331393267
+Timestep:  350  - Number of available nodes:  66 - Time K-connect:  82
+last_cluster_heads :  34
+len temp_cluster_heads =  14
+number of cluster heads =  14
+day ne
+current_energy =  13331.698448778316
+energy_loss =  339.69340960398023
+Timestep:  351  - Number of available nodes:  63 - Time K-connect:  82
+last_cluster_heads :  45
+len temp_cluster_heads =  8
+number of cluster heads =  8
+day ne
+current_energy =  12929.290967156341
+energy_loss =  402.4074816219719
+Timestep:  352  - Number of available nodes:  63 - Time K-connect:  82
+last_cluster_heads :  47
+len temp_cluster_heads =  15
+number of cluster heads =  15
+day ne
+current_energy =  12626.339563999725
+energy_loss =  314.0880410035097
+Timestep:  353  - Number of available nodes:  60 - Time K-connect:  82
+last_cluster_heads :  58
+len temp_cluster_heads =  1
+number of cluster heads =  7
+day ne
+current_energy =  12237.495591773106
+energy_loss =  400.94990441918395
+Timestep:  354  - Number of available nodes:  58 - Time K-connect:  82
+last_cluster_heads :  48
+len temp_cluster_heads =  3
+number of cluster heads =  3
+day ne
+current_energy =  11735.065597733097
+energy_loss =  502.42999404000983
+Timestep:  355  - Number of available nodes:  58 - Time K-connect:  82
+last_cluster_heads :  41
+len temp_cluster_heads =  3
+number of cluster heads =  6
+day ne
+current_energy =  11375.764661314348
+energy_loss =  394.54335500751597
+Timestep:  356  - Number of available nodes:  55 - Time K-connect:  82
+last_cluster_heads :  30
+len temp_cluster_heads =  7
+number of cluster heads =  8
+day ne
+current_energy =  11040.123542219353
+energy_loss =  335.64111909499314
+Timestep:  357  - Number of available nodes:  55 - Time K-connect:  82
+last_cluster_heads :  29
+len temp_cluster_heads =  14
+number of cluster heads =  14
+day ne
+current_energy =  10779.932418714207
+energy_loss =  260.1911235051447
+Timestep:  358  - Number of available nodes:  55 - Time K-connect:  82
+last_cluster_heads :  28
+len temp_cluster_heads =  18
+number of cluster heads =  18
+day ne
+current_energy =  10499.869982760785
+energy_loss =  280.06243595342477
+Timestep:  359  - Number of available nodes:  55 - Time K-connect:  82
+last_cluster_heads :  45
+len temp_cluster_heads =  0
+number of cluster heads =  12
+day ne
+current_energy =  10222.158835198436
+energy_loss =  280.1092812039084
+Timestep:  360  - Number of available nodes:  53 - Time K-connect:  82
+last_cluster_heads :  42
+len temp_cluster_heads =  4
+number of cluster heads =  6
+day ne
+current_energy =  9875.832773542616
+energy_loss =  360.72522163355393
+Timestep:  361  - Number of available nodes:  51 - Time K-connect:  82
+last_cluster_heads :  43
+len temp_cluster_heads =  3
+number of cluster heads =  16
+day ne
+current_energy =  9567.725187483236
+energy_loss =  308.1075860593806
+Timestep:  362  - Number of available nodes:  51 - Time K-connect:  82
+last_cluster_heads :  39
+len temp_cluster_heads =  4
+number of cluster heads =  11
+day ne
+current_energy =  9270.034011779899
+energy_loss =  297.69117570333987
+Timestep:  363  - Number of available nodes:  51 - Time K-connect:  82
+last_cluster_heads :  29
+len temp_cluster_heads =  21
+number of cluster heads =  21
+day ne
+current_energy =  9033.205896160773
+energy_loss =  246.9909882291139
+Timestep:  364  - Number of available nodes:  48 - Time K-connect:  82
+last_cluster_heads :  32
+len temp_cluster_heads =  4
+number of cluster heads =  4
+day ne
+current_energy =  8659.916693324234
+energy_loss =  386.35216130763985
+Timestep:  365  - Number of available nodes:  46 - Time K-connect:  82
+last_cluster_heads :  32
+len temp_cluster_heads =  5
+number of cluster heads =  5
+day ne
+current_energy =  8343.256969013133
+energy_loss =  322.8683022740632
+Timestep:  366  - Number of available nodes:  44 - Time K-connect:  82
+last_cluster_heads :  34
+len temp_cluster_heads =  10
+number of cluster heads =  10
+day ne
+current_energy =  8044.830765166428
+energy_loss =  312.35412883908117
+Timestep:  367  - Number of available nodes:  43 - Time K-connect:  82
+last_cluster_heads :  40
+len temp_cluster_heads =  2
+number of cluster heads =  6
+day ne
+current_energy =  7759.091576702566
+energy_loss =  297.63241528295
+Timestep:  368  - Number of available nodes:  40 - Time K-connect:  82
+last_cluster_heads :  21
+len temp_cluster_heads =  3
+number of cluster heads =  6
+day ne
+current_energy =  7472.576414927312
+energy_loss =  286.5151617752546
+Timestep:  369  - Number of available nodes:  40 - Time K-connect:  82
+last_cluster_heads :  20
+len temp_cluster_heads =  9
+number of cluster heads =  18
+day ne
+current_energy =  7248.283192688908
+energy_loss =  237.28823050793784
+Timestep:  370  - Number of available nodes:  39 - Time K-connect:  82
+last_cluster_heads :  14
+len temp_cluster_heads =  12
+number of cluster heads =  12
+day ne
+current_energy =  7041.412376292222
+energy_loss =  212.78232612473758
+Timestep:  371  - Number of available nodes:  38 - Time K-connect:  82
+last_cluster_heads :  24
+len temp_cluster_heads =  6
+number of cluster heads =  7
+day ne
+current_energy =  6823.378619050115
+energy_loss =  227.2034177990608
+Timestep:  372  - Number of available nodes:  37 - Time K-connect:  82
+last_cluster_heads :  27
+len temp_cluster_heads =  6
+number of cluster heads =  9
+day ne
+current_energy =  6603.210508721431
+energy_loss =  220.1681103286847
+Timestep:  373  - Number of available nodes:  37 - Time K-connect:  82
+last_cluster_heads :  24
+len temp_cluster_heads =  10
+number of cluster heads =  10
+day ne
+current_energy =  6401.295339561783
+energy_loss =  218.8427609581643
+Timestep:  374  - Number of available nodes:  34 - Time K-connect:  82
+last_cluster_heads :  22
+len temp_cluster_heads =  3
+number of cluster heads =  8
+day ne
+current_energy =  6204.21327731644
+energy_loss =  204.01474174940597
+Timestep:  375  - Number of available nodes:  33 - Time K-connect:  82
+last_cluster_heads :  19
+len temp_cluster_heads =  6
+number of cluster heads =  11
+day ne
+current_energy =  5990.180701492669
+energy_loss =  233.32442287626534
+Timestep:  376  - Number of available nodes:  30 - Time K-connect:  82
+last_cluster_heads :  19
+len temp_cluster_heads =  14
+number of cluster heads =  19
+day ne
+current_energy =  5856.676898624407
+energy_loss =  133.50380286826308
+Timestep:  377  - Number of available nodes:  30 - Time K-connect:  82
+last_cluster_heads :  23
+len temp_cluster_heads =  3
+number of cluster heads =  8
+day ne
+current_energy =  5653.1791025279035
+energy_loss =  211.88932192860082
+Timestep:  378  - Number of available nodes:  29 - Time K-connect:  82
+last_cluster_heads :  17
+len temp_cluster_heads =  5
+number of cluster heads =  6
+day ne
+current_energy =  5446.772333247937
+energy_loss =  206.4067692799674
+Timestep:  379  - Number of available nodes:  29 - Time K-connect:  82
+last_cluster_heads :  8
+len temp_cluster_heads =  7
+number of cluster heads =  7
+day ne
+current_energy =  5280.953711412556
+energy_loss =  180.13993031766304
+Timestep:  380  - Number of available nodes:  27 - Time K-connect:  82
+last_cluster_heads :  12
+len temp_cluster_heads =  5
+number of cluster heads =  10
+day ne
+current_energy =  5117.859969600499
+energy_loss =  163.09374181205453
+Timestep:  381  - Number of available nodes:  27 - Time K-connect:  82
+last_cluster_heads :  12
+len temp_cluster_heads =  4
+number of cluster heads =  4
+day ne
+current_energy =  4908.574454866908
+energy_loss =  209.28551473359227
+Timestep:  382  - Number of available nodes:  27 - Time K-connect:  82
+last_cluster_heads :  9
+len temp_cluster_heads =  10
+number of cluster heads =  10
+day ne
+current_energy =  4747.8358695911675
+energy_loss =  177.8082239813843
+Timestep:  383  - Number of available nodes:  24 - Time K-connect:  82
+last_cluster_heads :  14
+len temp_cluster_heads =  4
+number of cluster heads =  8
+day ne
+current_energy =  4610.959595905474
+energy_loss =  144.17376557563563
+Timestep:  384  - Number of available nodes:  23 - Time K-connect:  82
+last_cluster_heads :  14
+len temp_cluster_heads =  0
+number of cluster heads =  0
+current_energy =  0
+energy_loss =  0
+Timestep:  385  - Number of available nodes:  0 - Time K-connect:  83
+Time K-connect:  83
+Time life:  386
