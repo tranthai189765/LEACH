@@ -1,6 +1,6 @@
 """Network Setup"""
-W = 100
-H = 100
+W = 1000
+H = 1000
 from entity import Node 
 import matplotlib.pyplot as plt
 import copy  # Thêm dòng này để import module copy
