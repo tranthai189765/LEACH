@@ -14,10 +14,6 @@ class ClusterHeadSelectorI_LEACH:
 
     def select_cluster_heads(self, k_clusters):
         # Bước 1: Lấy tất cả node không phải sink
-        sinks = [n for n in self.network.available_nodes if n.is_sink]
-        print("test sinks", sinks)
-        test_positions = np.array([[n.x, n.y] for n in self.network.available_nodes])
-        print("self.network.ava", test_positions)
         nodes = [n for n in self.network.available_nodes if not n.is_sink]
         if len(nodes) == 0:
             print("Bug roi")
