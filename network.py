@@ -1,6 +1,6 @@
 """Network Setup"""
-W = 100
-H = 100
+W = 1000
+H = 1000
 from entity import Node 
 import matplotlib.pyplot as plt
 import copy  # Thêm dòng này để import module copy
@@ -30,7 +30,7 @@ class Network:
         self.cluster_heads_buffer = ClusterHeadBufferTest(mem_size=20)
         self.cluster_heads_2_buffer = ClusterHeadBufferTest(mem_size=20)
         self.error = "None"
-        self.R = 75
+        self.R = 300
         self.time_k_connect = 0
         self.is_dead = False
         self.K1 = K1
