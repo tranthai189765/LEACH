@@ -15,6 +15,8 @@ class ClusterHeadSelectorI_LEACH:
     def select_cluster_heads(self, k_clusters):
         # Bước 1: Lấy tất cả node không phải sink
         nodes = [n for n in self.network.available_nodes if not n.is_sink]
+        if len(nodes) == 0:
+            print("Bug roi")
         if len(nodes) < k_clusters:
             k_clusters = max(1, len(nodes))
 
