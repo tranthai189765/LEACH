@@ -21,34 +21,35 @@ class ClusterHeadSelectorI_LEACH:
         positions = np.array([[n.x, n.y] for n in nodes])
         node_ids = [n.id for n in nodes]
 
-        # Bước 2: Chạy KMeans để phân cụm
+        # Bước 2: Phân cụm bằng KMeans
         kmeans = KMeans(n_clusters=k_clusters, random_state=0, n_init=10).fit(positions)
         labels = kmeans.labels_
-        centroids = kmeans.cluster_centers_
 
-        # Bước 3: Chọn CH cho từng cụm theo tiêu chí paper
         selected_chs = []
         selected_ch_ids = []
 
         for cluster_idx in range(k_clusters):
             cluster_nodes = [nodes[i] for i in range(len(nodes)) if labels[i] == cluster_idx]
-            centroid = centroids[cluster_idx]
 
-            # Chọn node gần centroid nhất và có năng lượng cao
-            def score(node):
-                distance = np.linalg.norm(np.array([node.x, node.y]) - centroid)
-                return distance - node.energy  # năng lượng lớn → điểm thấp hơn
+            # Tính tổng khoảng cách từ mỗi node đến tất cả node khác trong cụm
+            def total_distance(candidate_node):
+                return sum(
+                    np.linalg.norm(np.array([candidate_node.x, candidate_node.y]) - np.array([other.x, other.y]))
+                    for other in cluster_nodes
+                )
 
-            ch_node = min(cluster_nodes, key=score)
+            # Chọn node có tổng khoảng cách nhỏ nhất → làm CH
+            ch_node = min(cluster_nodes, key=total_distance)
             selected_chs.append(ch_node)
             selected_ch_ids.append(ch_node.id)
 
-        # Lưu vào buffer lịch sử CH
+        # Lưu lịch sử CH
         self.network.cluster_heads_buffer.add(copy.deepcopy(selected_ch_ids))
 
-        # Xử lý thêm các CH nếu chưa đủ cover hoặc chưa kết nối
+        # Xử lý nếu chưa đủ cover
         non_accept, selected_chs, selected_ch_ids = self.select_more_cluster_heads(selected_chs, selected_ch_ids)
         return non_accept, selected_chs, selected_ch_ids
+
     
     def select_more_cluster_heads(self, temp_cluster_heads, current_cluster_heads_ids):
         non_accept = 0
