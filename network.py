@@ -11,7 +11,7 @@ from buffer import ClusterHeadBufferTest
 from graph_updated import Graph
 import time
 class Network:
-    def __init__(self, num_nodes, width=W, height=H, seed=None, K1=0.075, K2=0.075/2, K=2):
+    def __init__(self, num_nodes, width=W, height=H, seed=None, K1=0.075, K2=0.075/2, K=3):
         self.width = width
         self.height = height
         self.num_nodes = num_nodes
